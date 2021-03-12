@@ -6,7 +6,17 @@
     <description>Recent content in ESP8266 on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 May 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MeshyMcLighting: NeoPixels Lighting Solution Using Mesh Network</title>
+      <link>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</guid>
+      <description>Wouldn&amp;rsquo;t be cool for many McLighting (RGB LED lighting using NeoPixels) to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone web-client.
+MeshyMcLighting What is this? Wouldn&amp;rsquo;t be cool for many McLighting to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone webclient.</description>
+    </item>
+    
     <item>
       <title>RobinhoodAPI: Live Stock Prices From Robinhood on ESP8266</title>
       <link>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
