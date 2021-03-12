@@ -2,25 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.debashishsahu.com/tags/2n2222/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/e1.31/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/repair/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/repair/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/smart/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/switch/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/tv/</loc>
+    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/e1.31/</loc>
     <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/led/</loc>
@@ -32,13 +59,7 @@
     <loc>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</loc>
     <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/rgb/</loc>
-    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/udp/</loc>
@@ -135,9 +156,6 @@
     <lastmod>2018-06-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/pwm/</loc>
-    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/repair/</loc>
     <lastmod>2018-06-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/resurrecting-a-gpu-cooling-fan-using-a-micro-processor-and-pwm/</loc>
