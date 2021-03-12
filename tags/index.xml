@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP8266</title>
+      <link>https://www.debashishsahu.com/tags/esp8266/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.debashishsahu.com/tags/iot/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest API</title>
+      <link>https://www.debashishsahu.com/tags/rest-api/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stock</title>
+      <link>https://www.debashishsahu.com/tags/stock/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/stock/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>matlab</title>
       <link>https://www.debashishsahu.com/tags/matlab/</link>
@@ -44,15 +80,6 @@
     </item>
     
     <item>
-      <title>stock</title>
-      <link>https://www.debashishsahu.com/tags/stock/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/stock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ESP32</title>
       <link>https://www.debashishsahu.com/tags/esp32/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
@@ -62,38 +89,11 @@
     </item>
     
     <item>
-      <title>ESP8266</title>
-      <link>https://www.debashishsahu.com/tags/esp8266/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Home Assistant</title>
       <link>https://www.debashishsahu.com/tags/home-assistant/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/home-assistant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IoT</title>
-      <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rest API</title>
-      <link>https://www.debashishsahu.com/tags/rest-api/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/rest-api/</guid>
       <description></description>
     </item>
     

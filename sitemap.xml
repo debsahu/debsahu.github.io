@@ -3,10 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-04-20T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2018-04-20T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/iot/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/rest-api/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/stock/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
     <lastmod>2018-04-20T00:00:00-05:00</lastmod>
@@ -17,43 +41,22 @@
     <loc>https://www.debashishsahu.com/tags/narx/</loc>
     <lastmod>2018-04-20T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2018-04-20T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/prediction/</loc>
     <lastmod>2018-04-20T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/python/</loc>
     <lastmod>2018-04-20T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/stock/</loc>
-    <lastmod>2018-04-20T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</loc>
     <lastmod>2018-04-20T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2018-04-20T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
-    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
     <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</loc>
     <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
-    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/iot/</loc>
-    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/rest-api/</loc>
     <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</loc>

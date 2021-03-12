@@ -6,7 +6,18 @@
     <description>Recent content in iot on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/iot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RobinhoodAPI Live Stock Prices From Robinhood on ESP8266</title>
+      <link>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
+      <description>A simple Arduino library that retrieves live stock prices from www.robinhood.com in JSON format and processes it for ESP8266. In one example, we demonstrate a whole bunch of stock prices scrolling through a dot-matrix display.
+Github: debsahu/RobinhoodAPI An Arduino library to talk to Robin Hood using non-documented Rest API made for ESP8266. Some unofficial documentaion by @sanko is available at here]
+Using the Library  Download this GitHub library.</description>
+    </item>
+    
     <item>
       <title>HARestAPI: Control Home Assistant Directly Using ESP8266</title>
       <link>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
