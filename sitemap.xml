@@ -2,14 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://debsahu.github.io/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/displays/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/esp8266/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/ifttt/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/iot/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/mqtt/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/wifi/</loc>
+    <lastmod>2017-02-17T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://debsahu.github.io/archives/</loc>
   </url><url>
     <loc>https://debsahu.github.io/categories/</loc>
   </url><url>
-    <loc>https://debsahu.github.io/</loc>
-  </url><url>
     <loc>https://debsahu.github.io/search/</loc>
   </url><url>
-    <loc>https://debsahu.github.io/tags/</loc>
+    <loc>https://debsahu.github.io/series/</loc>
   </url>
 </urlset>

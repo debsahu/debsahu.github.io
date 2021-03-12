@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Debashish Sahu</title>
-    <link>https://debsahu.github.io/</link>
-    <description>Recent content on Debashish Sahu</description>
+    <title>IoT on Debashish Sahu</title>
+    <link>https://debsahu.github.io/tags/iot/</link>
+    <description>Recent content in IoT on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2017 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2017 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IoT Dot Matrix Display: Twitter Mentions Using ESP8266 Adafruit.io and IFTTT</title>
       <link>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
@@ -15,24 +15,6 @@
       <guid>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
       <description>Let’s say that you don’t have your smartphone around and someone mentions you on twitter. Wouldn’t it be nice to have a display that automatically reads your twitter mentions and show it on a scrolling display? So let’s build a internet controlled (IoT) dot-matrix display that does this for us using an ESP8266.
 The plan to accomplish this is as follows:  Someone mentions us on twitter (in my case @debsahu) IF This Then That (IFTTT) tracks these mentions and posts this data on Adafruit.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://debsahu.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://debsahu.github.io/archives/</guid>
-      <description>archives</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://debsahu.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://debsahu.github.io/search/</guid>
-      <description>search</description>
     </item>
     
   </channel>
