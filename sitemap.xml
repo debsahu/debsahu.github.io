@@ -3,43 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/creating-a-home-assistant-web-scraper-sensor/</loc>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/esp8266-esp32-connecting-to-ssl-tlsv1-2-secured-mosquitto-mqtt-broker/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
+    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/libxml/</loc>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/scraper/</loc>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/esp8266-esp32-connecting-to-ssl-tlsv1-2-secured-mosquitto-mqtt-broker/</loc>
     <lastmod>2018-11-17T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
     <lastmod>2018-11-17T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/ssl/</loc>
-    <lastmod>2018-11-17T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2018-11-17T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/tls/</loc>
     <lastmod>2018-11-17T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
-    <lastmod>2018-10-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/rest-api/</loc>
     <lastmod>2018-10-27T00:00:00-05:00</lastmod>
