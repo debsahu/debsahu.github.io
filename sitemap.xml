@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.debashishsahu.com/tags/battery/</loc>
-    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+    <loc>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/home-decor/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/led/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/therapy/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/thoery/</loc>
+    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/battery/</loc>
     <lastmod>2018-06-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
@@ -23,13 +44,7 @@
     <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
     <lastmod>2018-06-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/power-save/</loc>
-    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2018-06-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</loc>

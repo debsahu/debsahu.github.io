@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building LED String Using Capacitive Dropper</title>
+      <link>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</guid>
+      <description>    Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
+Inspired from bigclive&amp;rsquo;s project   </description>
+    </item>
+    
     <item>
       <title>The Button: Amazon &#34;Dash&#34; Type Button to Communicate to Home-Assistant</title>
       <link>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
