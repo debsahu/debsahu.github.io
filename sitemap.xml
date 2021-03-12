@@ -3,33 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://debsahu.github.io/categories/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/displays/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/esp8266/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/home-assistant/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/iot/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/categories/iot/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/rest-api/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/sensor/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/</loc>
+    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/displays/</loc>
     <lastmod>2018-03-19T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/ifttt/</loc>
     <lastmod>2018-03-19T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://debsahu.github.io/tags/iot/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/categories/iot/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://debsahu.github.io/tags/mqtt/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/posts/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/</loc>
     <lastmod>2018-03-19T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</loc>
@@ -50,17 +62,11 @@
     <loc>https://debsahu.github.io/tags/power-save/</loc>
     <lastmod>2018-01-23T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://debsahu.github.io/tags/sensor/</loc>
-    <lastmod>2018-01-23T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://debsahu.github.io/tags/smoke-alarm/</loc>
     <lastmod>2018-01-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</loc>
     <lastmod>2018-01-22T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/home-assistant/</loc>
-    <lastmod>2017-10-15T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/posts/internet-connected-dog-water-bowl-sensor/</loc>
     <lastmod>2017-10-15T00:00:00-05:00</lastmod>
