@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Displays on Debashish Sahu</title>
-    <link>https://debsahu.github.io/tags/displays/</link>
-    <description>Recent content in Displays on Debashish Sahu</description>
+    <title>twitter on Debashish Sahu</title>
+    <link>https://debsahu.github.io/tags/twitter/</link>
+    <description>Recent content in twitter on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/displays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
       <link>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>

@@ -6,7 +6,38 @@
     <description>Recent content in WiFi on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2017 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
+      <link>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
+      <description>Idea:  Use ESP8266 to talk to Twitter Get User Data or Tweet or Search Twitter Display the data on a Dot-Matrix display  Implementation I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.</description>
+    </item>
+    
+    <item>
+      <title>Internet Connected Smoke Alarm</title>
+      <link>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</guid>
+      <description>Have you wondered how to build a internet connected smoke alarm using ESP8266 and a cheap Kidde RF-SM-DC?
+Overall idea is to detect smoke alarm signals and send MQTT message. Home Assistant reads the MQTT message and sends out notifications that can be used to notify your local fire station.
+ESP8266 sends a MQTT message until the smoke alarm is beeping.
+Software Refer to https://github.com/debsahu/ESP_External_Interrupt to build the ESP8266 part of the internet connected smoke alarm.</description>
+    </item>
+    
+    <item>
+      <title>Extreme Power-Save Mode: ESP8266 Powered ON After External Interrupt</title>
+      <link>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
+      <description>Have you ever wondered how to turn on ESP8266 using external interrupt? Build a battery powered amazon dash button or a 18650 lipo powered door bell using ESP8266 without putting the device in deep sleep? Here is your answer.
+Idea  Keep ESP8266 on OFF mode as default External 3.3V signal (can be short or long) arrives and turns ON ESP8266 ESP8266 wakes up and keeps itself awake until a task is perfomed Send MQTT data to server Put ESP8266 back to power OFF state  Implementation  RST pin is always HIGH/3.</description>
+    </item>
+    
     <item>
       <title>IoT Dot Matrix Display: Twitter Mentions Using ESP8266 Adafruit.io and IFTTT</title>
       <link>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
