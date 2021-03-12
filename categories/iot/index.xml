@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iot on Debashish Sahu</title>
-    <link>https://debsahu.github.io/categories/iot/</link>
+    <link>https://www.debashishsahu.com/categories/iot/</link>
     <description>Recent content in iot on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/categories/iot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HARestAPI: Control Home Assistant Directly Using ESP8266</title>
-      <link>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
+      <link>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
+      <guid>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
       <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands.
 Idea  Control components on Home Assistant directly from ESP8266.  Implementation  Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA.</description>
     </item>
     
     <item>
       <title>ESP8266 Based Color Sensor Talking to Home Assistant via RestAPI</title>
-      <link>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
+      <link>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
+      <guid>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
       <description>    Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a TCS34725 color sensor to read colors and change a RGB light in Home Assistant to the color observed.
 Hardware  TCS34725 color sensor SSD 1306 OLED Wemos D1 mini (ESP8266)  Software  RGB Lights connected to Home Assistant  toblum/McLighting Aircoookie/WLED  </description>
     </item>
     
     <item>
       <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
-      <link>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
+      <link>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
+      <guid>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
       <description>Idea:  Use ESP8266 to talk to Twitter Get User Data or Tweet or Search Twitter Display the data on a Dot-Matrix display  Implementation I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.</description>
     </item>
     
     <item>
       <title>Internet Connected Smoke Alarm</title>
-      <link>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</link>
+      <link>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</guid>
+      <guid>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</guid>
       <description>Have you wondered how to build a internet connected smoke alarm using ESP8266 and a cheap Kidde RF-SM-DC?
 Overall idea is to detect smoke alarm signals and send MQTT message. Home Assistant reads the MQTT message and sends out notifications that can be used to notify your local fire station.
 ESP8266 sends a MQTT message until the smoke alarm is beeping.
@@ -50,49 +50,49 @@ Software Refer to https://github.com/debsahu/ESP_External_Interrupt to build the
     
     <item>
       <title>Extreme Power-Save Mode: ESP8266 Powered ON After External Interrupt</title>
-      <link>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
+      <link>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
+      <guid>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
       <description>Have you ever wondered how to turn on ESP8266 using external interrupt? Build a battery powered amazon dash button or a 18650 lipo powered door bell using ESP8266 without putting the device in deep sleep? Here is your answer.
 Idea  Keep ESP8266 on OFF mode as default External 3.3V signal (can be short or long) arrives and turns ON ESP8266 ESP8266 wakes up and keeps itself awake until a task is perfomed Send MQTT data to server Put ESP8266 back to power OFF state  Implementation  RST pin is always HIGH/3.</description>
     </item>
     
     <item>
       <title>Internet Connected Dog Water Bowl Sensor</title>
-      <link>https://debsahu.github.io/posts/internet-connected-dog-water-bowl-sensor/</link>
+      <link>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/internet-connected-dog-water-bowl-sensor/</guid>
+      <guid>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</guid>
       <description>Wouldn’t it be nice to know if your dog’s water bowl is empty? Let us build a sensor that measures the water level every 5 minutes. This value is sent to MQTT server and Home Assistant automation takes care of the rest.
 This sensor connects to MQTT and Home Assistant. See dogsensor.yaml for adding this to HA. Assumes that one has set up various notification sensors available in HA.</description>
     </item>
     
     <item>
       <title>MOSFET Used as Switch to Control a 12V Fan</title>
-      <link>https://debsahu.github.io/posts/mosfet-used-as-switch-to-control-a-12v-fan/</link>
+      <link>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/mosfet-used-as-switch-to-control-a-12v-fan/</guid>
+      <guid>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</guid>
       <description>Lets turn on and off low powered fan running at low (&amp;lt;20V) DC voltages. We shall use a MOSFET to achieve this. Hardware  IRLML0030PBF ATTiny85 2-pin 12V Fan  Wiring MOSFETs have three terminals Drain (D), Source (S) and Gate (G), where source is connected to ground and the +12V or +5V along with load (Fan) is connected to drain. The MOSFET is on when gate voltage is higher than 1.</description>
     </item>
     
     <item>
       <title>How to Build a 3.3V Voltage Regulator</title>
-      <link>https://debsahu.github.io/posts/how-to-build-a-3-3v-voltage-regulator/</link>
+      <link>https://www.debashishsahu.com/posts/how-to-build-a-3-3v-voltage-regulator/</link>
       <pubDate>Sat, 25 Feb 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/how-to-build-a-3-3v-voltage-regulator/</guid>
+      <guid>https://www.debashishsahu.com/posts/how-to-build-a-3-3v-voltage-regulator/</guid>
       <description>    Here are the instructions to wire a stable AMS1117-3.3 voltage regulator properly. This can power an ESP8266 or any 3.3V micro-controller reliably supporting current draws up to 1A.
 Hardware  AMS 1117-3.3 10 uF Electrolytic Capacitor 104 Ceramic Capacitor  Wiring AMS1117-3.3 (right to left)  Pin 1: GND Pin 2: Vout Pin 3: Vin  Connections  5-12V -&amp;gt; Vin GND -&amp;gt; GND 10 uF Electrolytic Capacitor +ve -&amp;gt; Vout 10 uF Electrolytic Capacitor GND -&amp;gt; GND 104 Ceramic Capacitor +ve -&amp;gt; Vin 104 Ceramic Capacitor GND -&amp;gt; GND  </description>
     </item>
     
     <item>
       <title>IoT Dot Matrix Display: Twitter Mentions Using ESP8266 Adafruit.io and IFTTT</title>
-      <link>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
+      <link>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
+      <guid>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
       <description>Let’s say that you don’t have your smartphone around and someone mentions you on twitter. Wouldn’t it be nice to have a display that automatically reads your twitter mentions and show it on a scrolling display? So let’s build a internet controlled (IoT) dot-matrix display that does this for us using an ESP8266.
 The plan to accomplish this is as follows:  Someone mentions us on twitter (in my case @debsahu) IF This Then That (IFTTT) tracks these mentions and posts this data on Adafruit.</description>
     </item>

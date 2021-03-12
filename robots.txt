@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://debsahu.github.io/sitemap.xml
+Sitemap: https://www.debashishsahu.com/sitemap.xml
