@@ -6,7 +6,70 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32</title>
+      <link>https://www.debashishsahu.com/tags/esp32/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP8266</title>
+      <link>https://www.debashishsahu.com/tags/esp8266/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.debashishsahu.com/tags/iot/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LED</title>
+      <link>https://www.debashishsahu.com/tags/led/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/led/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MQTT</title>
+      <link>https://www.debashishsahu.com/tags/mqtt/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeoPixel</title>
+      <link>https://www.debashishsahu.com/tags/neopixel/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/neopixel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB</title>
+      <link>https://www.debashishsahu.com/tags/rgb/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/rgb/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>linux</title>
       <link>https://www.debashishsahu.com/tags/linux/</link>
@@ -44,38 +107,11 @@
     </item>
     
     <item>
-      <title>ESP32</title>
-      <link>https://www.debashishsahu.com/tags/esp32/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/esp32/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESP8266</title>
-      <link>https://www.debashishsahu.com/tags/esp8266/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hacking</title>
       <link>https://www.debashishsahu.com/tags/hacking/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/hacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IoT</title>
-      <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/iot/</guid>
       <description></description>
     </item>
     
@@ -116,33 +152,6 @@
     </item>
     
     <item>
-      <title>LED</title>
-      <link>https://www.debashishsahu.com/tags/led/</link>
-      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/led/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeoPixel</title>
-      <link>https://www.debashishsahu.com/tags/neopixel/</link>
-      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/neopixel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RGB</title>
-      <link>https://www.debashishsahu.com/tags/rgb/</link>
-      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/rgb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UDP</title>
       <link>https://www.debashishsahu.com/tags/udp/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
@@ -175,15 +184,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/scraper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MQTT</title>
-      <link>https://www.debashishsahu.com/tags/mqtt/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
       <description></description>
     </item>
     

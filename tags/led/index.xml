@@ -6,7 +6,19 @@
     <description>Recent content in LED on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP8266/ESP32 Based RGB Light (NeoPixels) Connecting to Google Home &amp; Alexa via ARTIK Cloud</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</guid>
+      <description>⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️ Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.
+Connecting to Samsung ARTIK Cloud https://my.artik.cloud/
+GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with ARTIK Cloud
+ Connects to ARTIK Cloud via MQTT SSL port 8883 ARTIK Cloud is connected to all assistant platforms, integration is seamless Compiles on ESP8266-arduino core v2.</description>
+    </item>
+    
     <item>
       <title>NeoPixel Painter Draw Using LEDs on Thin Air</title>
       <link>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</link>
