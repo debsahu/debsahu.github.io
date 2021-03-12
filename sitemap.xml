@@ -3,21 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/iot/</loc>
-    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/raspberry-pi/</loc>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/rtl-sdr/</loc>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</loc>
+    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
     <lastmod>2018-04-28T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/rest-api/</loc>
@@ -27,9 +45,6 @@
     <lastmod>2018-04-28T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/stock/</loc>
-    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2018-04-28T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
@@ -56,9 +71,6 @@
     <loc>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</loc>
     <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
-    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</loc>
     <lastmod>2018-04-07T00:00:00-05:00</lastmod>
   </url><url>
@@ -69,9 +81,6 @@
     <lastmod>2018-03-19T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/ifttt/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
     <lastmod>2018-03-19T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</loc>

@@ -6,7 +6,18 @@
     <description>Recent content in MQTT on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/mqtt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/mqtt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using RTL-SDR to Read Values From Wireless Electric/Gas/Water Meters</title>
+      <link>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</guid>
+      <description>    An attempt to use RTL-SDR to read values from wireless electric/gas/water meters and visualize these values on Home Assistant.
+Software Based on bemasher/RTLAMR Project: https://github.com/bemasher/rtlamr
+ </description>
+    </item>
+    
     <item>
       <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
       <link>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
