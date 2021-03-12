@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Debashish Sahu</title>
-    <link>https://www.debashishsahu.com/categories/</link>
+    <link>https://debsahu.github.io/categories/</link>
     <description>Recent content in Categories on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iot</title>
-      <link>https://www.debashishsahu.com/categories/iot/</link>
+      <link>https://debsahu.github.io/categories/iot/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/categories/iot/</guid>
+      <guid>https://debsahu.github.io/categories/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>repair</title>
-      <link>https://www.debashishsahu.com/categories/repair/</link>
+      <link>https://debsahu.github.io/categories/repair/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/categories/repair/</guid>
+      <guid>https://debsahu.github.io/categories/repair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>home decor</title>
-      <link>https://www.debashishsahu.com/categories/home-decor/</link>
+      <link>https://debsahu.github.io/categories/home-decor/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/categories/home-decor/</guid>
+      <guid>https://debsahu.github.io/categories/home-decor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>https://www.debashishsahu.com/categories/machine-learning/</link>
+      <link>https://debsahu.github.io/categories/machine-learning/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/categories/machine-learning/</guid>
+      <guid>https://debsahu.github.io/categories/machine-learning/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rest API on Debashish Sahu</title>
-    <link>https://www.debashishsahu.com/tags/rest-api/</link>
+    <link>https://debsahu.github.io/tags/rest-api/</link>
     <description>Recent content in Rest API on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/rest-api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/rest-api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RobinhoodAPI: Live Stock Prices From Robinhood on ESP8266</title>
-      <link>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
+      <link>https://debsahu.github.io/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
+      <guid>https://debsahu.github.io/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
       <description>A simple Arduino library that retrieves live stock prices from www.robinhood.com in JSON format and processes it for ESP8266. In one example, we demonstrate a whole bunch of stock prices scrolling through a dot-matrix display.
 Github: debsahu/RobinhoodAPI An Arduino library to talk to Robin Hood using non-documented Rest API made for ESP8266. Some unofficial documentaion by @sanko is available at here]
 Using the Library  Download this GitHub library.</description>
@@ -20,20 +20,20 @@ Using the Library  Download this GitHub library.</description>
     
     <item>
       <title>HARestAPI: Control Home Assistant Directly Using ESP8266</title>
-      <link>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
+      <link>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
+      <guid>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
       <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands.
 Idea  Control components on Home Assistant directly from ESP8266.  Implementation  Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA.</description>
     </item>
     
     <item>
       <title>ESP8266 Based Color Sensor Talking to Home Assistant via RestAPI</title>
-      <link>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
+      <link>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
+      <guid>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
       <description>    Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a TCS34725 color sensor to read colors and change a RGB light in Home Assistant to the color observed.
 Hardware  TCS34725 color sensor SSD 1306 OLED Wemos D1 mini (ESP8266)  Software  RGB Lights connected to Home Assistant  toblum/McLighting Aircoookie/WLED  </description>
     </item>

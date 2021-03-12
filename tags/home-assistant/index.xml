@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Assistant on Debashish Sahu</title>
-    <link>https://www.debashishsahu.com/tags/home-assistant/</link>
+    <link>https://debsahu.github.io/tags/home-assistant/</link>
     <description>Recent content in Home Assistant on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/home-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/home-assistant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESP32 Communicating With Xiaomi Flora Plant Sensor Using BLE</title>
-      <link>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</link>
+      <link>https://debsahu.github.io/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</guid>
+      <guid>https://debsahu.github.io/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</guid>
       <description>Using ESP32 to communicate with Xiaomi flora (miflora) plant sensor using BLE and posting the values on MQTT server. I also demonstrate the use of Home Assistant miflora sensor component.
 Change ESP32 Partition: https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/ Home Assistant miflora sensor: https://www.home-assistant.io/components/sensor.miflora/
 GitHub: sidddy/flora Archived code from https://github.com/sidddy/flora below
@@ -22,30 +22,30 @@ config.h
     
     <item>
       <title>Image Recognition Using Movidius Neural Compute Stick on a RPi0W</title>
-      <link>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</link>
+      <link>https://debsahu.github.io/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</guid>
+      <guid>https://debsahu.github.io/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</guid>
       <description>Let&amp;rsquo;s build a security camera using Raspberry Pi Zero W and Movidius Neural Compute Stick to recognize a &amp;ldquo;person&amp;rdquo; on the video stream
 GitHub: debsahu/PiCamMovidius Set up NCSDK API  Install required packages on Pi  sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev  Clone NCSDK  cd ~ git clone https://github.</description>
     </item>
     
     <item>
       <title>MeshyMcLighting: NeoPixels Lighting Solution Using Mesh Network</title>
-      <link>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</link>
+      <link>https://debsahu.github.io/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</guid>
+      <guid>https://debsahu.github.io/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</guid>
       <description>Wouldn&amp;rsquo;t be cool for many McLighting (RGB LED lighting using NeoPixels) to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone web-client.
 MeshyMcLighting What is this? Wouldn&amp;rsquo;t be cool for many McLighting to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone webclient.</description>
     </item>
     
     <item>
       <title>Using RTL-SDR to Read Values From Wireless Electric/Gas/Water Meters</title>
-      <link>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</link>
+      <link>https://debsahu.github.io/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</guid>
+      <guid>https://debsahu.github.io/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</guid>
       <description>    An attempt to use RTL-SDR to read values from wireless electric/gas/water meters and visualize these values on Home Assistant.
 Software Based on bemasher/RTLAMR Project: https://github.com/bemasher/rtlamr
  </description>
@@ -53,30 +53,30 @@ Software Based on bemasher/RTLAMR Project: https://github.com/bemasher/rtlamr
     
     <item>
       <title>HARestAPI: Control Home Assistant Directly Using ESP8266</title>
-      <link>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
+      <link>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
+      <guid>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
       <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands.
 Idea  Control components on Home Assistant directly from ESP8266.  Implementation  Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA.</description>
     </item>
     
     <item>
       <title>ESP8266 Based Color Sensor Talking to Home Assistant via RestAPI</title>
-      <link>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
+      <link>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
+      <guid>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
       <description>    Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a TCS34725 color sensor to read colors and change a RGB light in Home Assistant to the color observed.
 Hardware  TCS34725 color sensor SSD 1306 OLED Wemos D1 mini (ESP8266)  Software  RGB Lights connected to Home Assistant  toblum/McLighting Aircoookie/WLED  </description>
     </item>
     
     <item>
       <title>Internet Connected Dog Water Bowl Sensor</title>
-      <link>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</link>
+      <link>https://debsahu.github.io/posts/internet-connected-dog-water-bowl-sensor/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</guid>
+      <guid>https://debsahu.github.io/posts/internet-connected-dog-water-bowl-sensor/</guid>
       <description>Wouldn’t it be nice to know if your dog’s water bowl is empty? Let us build a sensor that measures the water level every 5 minutes. This value is sent to MQTT server and Home Assistant automation takes care of the rest.
 This sensor connects to MQTT and Home Assistant. See dogsensor.yaml for adding this to HA. Assumes that one has set up various notification sensors available in HA.</description>
     </item>
