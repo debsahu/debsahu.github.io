@@ -2,16 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.debashishsahu.com/tags/battery/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/iot/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/power-save/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
+    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.debashishsahu.com/tags/camera/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/compute-stick/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
@@ -23,12 +53,6 @@
     <loc>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/iot/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
@@ -38,13 +62,7 @@
     <loc>https://www.debashishsahu.com/tags/movidius/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/opencv/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/raspberry-pi/</loc>
@@ -53,14 +71,8 @@
     <loc>https://www.debashishsahu.com/tags/rtl-sdr/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/yolov2/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/mclighting/</loc>
     <lastmod>2018-05-16T00:00:00-05:00</lastmod>
@@ -125,16 +137,7 @@
     <loc>https://www.debashishsahu.com/tags/twitter/</loc>
     <lastmod>2018-03-19T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
-    <lastmod>2018-03-19T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/battery/</loc>
-    <lastmod>2018-01-23T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</loc>
-    <lastmod>2018-01-23T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/power-save/</loc>
     <lastmod>2018-01-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/smoke-alarm/</loc>

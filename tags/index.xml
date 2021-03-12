@@ -6,7 +6,61 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 May 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>battery</title>
+      <link>https://www.debashishsahu.com/tags/battery/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/battery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP8266</title>
+      <link>https://www.debashishsahu.com/tags/esp8266/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.debashishsahu.com/tags/iot/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MQTT</title>
+      <link>https://www.debashishsahu.com/tags/mqtt/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power save</title>
+      <link>https://www.debashishsahu.com/tags/power-save/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/power-save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiFi</title>
+      <link>https://www.debashishsahu.com/tags/wifi/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/wifi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>camera</title>
       <link>https://www.debashishsahu.com/tags/camera/</link>
@@ -44,15 +98,6 @@
     </item>
     
     <item>
-      <title>IoT</title>
-      <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>machine learning</title>
       <link>https://www.debashishsahu.com/tags/machine-learning/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
@@ -76,15 +121,6 @@
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/movidius/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MQTT</title>
-      <link>https://www.debashishsahu.com/tags/mqtt/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
       <description></description>
     </item>
     
@@ -121,15 +157,6 @@
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/yolov2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESP8266</title>
-      <link>https://www.debashishsahu.com/tags/esp8266/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
       <description></description>
     </item>
     
@@ -247,33 +274,6 @@
       <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WiFi</title>
-      <link>https://www.debashishsahu.com/tags/wifi/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/wifi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>battery</title>
-      <link>https://www.debashishsahu.com/tags/battery/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/battery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>power save</title>
-      <link>https://www.debashishsahu.com/tags/power-save/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/power-save/</guid>
       <description></description>
     </item>
     

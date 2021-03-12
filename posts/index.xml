@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 May 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Button: Amazon &#34;Dash&#34; Type Button to Communicate to Home-Assistant</title>
+      <link>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</guid>
+      <description>An attempt to build a Amazon &amp;ldquo;Dash&amp;rdquo; type button to communicate with Home Assistant, which is a combination of two different projects
+GitHub: debsahu/TheButton Things we want to achieve:  Low on power consumtion: ESP8266 is OFF when the button is not pressed debsahu/ESP_External_Interrupt Portable: Uses 18650 battery, lasts years Talks to Home Assistant: debsahu/HARestAPI    ESP_External_Interrupt  GitHub: https://github.com/debsahu/ESP_External_Interrupt
+  HARestAPI  GitHub: https://github.</description>
+    </item>
+    
     <item>
       <title>Image Recognition Using Movidius Neural Compute Stick on a RPi0W</title>
       <link>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</link>
