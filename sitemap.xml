@@ -2,22 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.debashishsahu.com/tags/camera/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/compute-stick/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/image-recognition/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/mobilessd/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/movidius/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/opencv/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/raspberry-pi/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/rtl-sdr/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/yolov2/</loc>
+    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
     <lastmod>2018-05-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/mclighting/</loc>
@@ -26,23 +68,8 @@
     <loc>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</loc>
     <lastmod>2018-05-16T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/rgb/</loc>
     <lastmod>2018-05-16T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2018-05-16T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/raspberry-pi/</loc>
-    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/rtl-sdr/</loc>
-    <lastmod>2018-05-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</loc>
     <lastmod>2018-05-05T00:00:00-05:00</lastmod>
