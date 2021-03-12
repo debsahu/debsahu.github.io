@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WiFi on Debashish Sahu</title>
-    <link>https://debsahu.github.io/tags/wifi/</link>
+    <link>https://www.debashishsahu.com/tags/wifi/</link>
     <description>Recent content in WiFi on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Button: Amazon &#34;Dash&#34; Type Button to Communicate to Home-Assistant</title>
-      <link>https://debsahu.github.io/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
+      <link>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</guid>
+      <guid>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</guid>
       <description>An attempt to build a Amazon &amp;ldquo;Dash&amp;rdquo; type button to communicate with Home Assistant, which is a combination of two different projects
 GitHub: debsahu/TheButton Things we want to achieve:  Low on power consumtion: ESP8266 is OFF when the button is not pressed debsahu/ESP_External_Interrupt Portable: Uses 18650 battery, lasts years Talks to Home Assistant: debsahu/HARestAPI    ESP_External_Interrupt  GitHub: https://github.com/debsahu/ESP_External_Interrupt
   HARestAPI  GitHub: https://github.</description>
@@ -20,19 +20,19 @@ GitHub: debsahu/TheButton Things we want to achieve:  Low on power consumtion: E
     
     <item>
       <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
-      <link>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
+      <link>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
+      <guid>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
       <description>Idea:  Use ESP8266 to talk to Twitter Get User Data or Tweet or Search Twitter Display the data on a Dot-Matrix display  Implementation I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.</description>
     </item>
     
     <item>
       <title>Internet Connected Smoke Alarm</title>
-      <link>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</link>
+      <link>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</guid>
+      <guid>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</guid>
       <description>Have you wondered how to build a internet connected smoke alarm using ESP8266 and a cheap Kidde RF-SM-DC?
 Overall idea is to detect smoke alarm signals and send MQTT message. Home Assistant reads the MQTT message and sends out notifications that can be used to notify your local fire station.
 ESP8266 sends a MQTT message until the smoke alarm is beeping.
@@ -41,20 +41,20 @@ Software Refer to https://github.com/debsahu/ESP_External_Interrupt to build the
     
     <item>
       <title>Extreme Power-Save Mode: ESP8266 Powered ON After External Interrupt</title>
-      <link>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
+      <link>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
+      <guid>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
       <description>Have you ever wondered how to turn on ESP8266 using external interrupt? Build a battery powered amazon dash button or a 18650 lipo powered door bell using ESP8266 without putting the device in deep sleep? Here is your answer.
 Idea  Keep ESP8266 on OFF mode as default External 3.3V signal (can be short or long) arrives and turns ON ESP8266 ESP8266 wakes up and keeps itself awake until a task is perfomed Send MQTT data to server Put ESP8266 back to power OFF state  Implementation  RST pin is always HIGH/3.</description>
     </item>
     
     <item>
       <title>IoT Dot Matrix Display: Twitter Mentions Using ESP8266 Adafruit.io and IFTTT</title>
-      <link>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
+      <link>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
+      <guid>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
       <description>Let’s say that you don’t have your smartphone around and someone mentions you on twitter. Wouldn’t it be nice to have a display that automatically reads your twitter mentions and show it on a scrolling display? So let’s build a internet controlled (IoT) dot-matrix display that does this for us using an ESP8266.
 The plan to accomplish this is as follows:  Someone mentions us on twitter (in my case @debsahu) IF This Then That (IFTTT) tracks these mentions and posts this data on Adafruit.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ESP8266 on Debashish Sahu</title>
-    <link>https://debsahu.github.io/tags/esp8266/</link>
+    <link>https://www.debashishsahu.com/tags/esp8266/</link>
     <description>Recent content in ESP8266 on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hacking an Automatic Trash Can to Listen to You</title>
-      <link>https://debsahu.github.io/posts/hacking-an-automatic-trash-can-to-listen-to-you/</link>
+      <link>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/hacking-an-automatic-trash-can-to-listen-to-you/</guid>
+      <guid>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</guid>
       <description>Idea To convert an automatic trash can into a smart one.
 Hardware  Automatic Trash Can Wemos D1 mini (ESP8266) 2N2222 transistor  Implementation Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in https://github.com/debsahu/SmartTrashCan to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.
 GitHub: debsahu/SmartTrashCan Dependencies    Library Link Use     Wemo Switch Emulator Library https://github.</description>
@@ -20,20 +20,20 @@ GitHub: debsahu/SmartTrashCan Dependencies    Library Link Use     Wemo Switch E
     
     <item>
       <title>Using Gestures to Control Lights on Home-Assistant</title>
-      <link>https://debsahu.github.io/posts/using-gestures-to-control-lights-on-home-assistant/</link>
+      <link>https://www.debashishsahu.com/posts/using-gestures-to-control-lights-on-home-assistant/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/using-gestures-to-control-lights-on-home-assistant/</guid>
+      <guid>https://www.debashishsahu.com/posts/using-gestures-to-control-lights-on-home-assistant/</guid>
       <description>    Getting one&amp;rsquo;s hands on APDS9960 is very easy, that can be used to detect hand gestures. Here we use this sensor to control lights on Home Assistant based on a gesture observed on sensor.
 Software Libraries used:  HARestAPI GitHub: debsahu/HARestAPI APDS9960 GitHub: SteveQuinn1/SparkFun_APDS-9960_Sensor_Arduino_Library SSD1306 OLED I2C GitHub: ThingPulse/esp8266-oled-ssd1306   </description>
     </item>
     
     <item>
       <title>ESP8266 Talking to AWS IoT Using MQTT</title>
-      <link>https://debsahu.github.io/posts/esp8266-talking-to-aws-iot-using-mqtt/</link>
+      <link>https://www.debashishsahu.com/posts/esp8266-talking-to-aws-iot-using-mqtt/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/esp8266-talking-to-aws-iot-using-mqtt/</guid>
+      <guid>https://www.debashishsahu.com/posts/esp8266-talking-to-aws-iot-using-mqtt/</guid>
       <description>Arduino library connecting to the AWS IoT service from an ESP8266 using websockets and MQTT.
 GitHub: debsahu/esp8266-arduino-aws-iot-ws ⚠️ ⚠️ ⚠️ This is no longer maintained and obsolete, there is better way to do this: follow instructions from here Still want to use this, follow instructions below ⚠️ ⚠️ ⚠️ Arduino Library derived from joekickass/esp8266-arduino-aws-iot-ws to work with Arduino
 Dependencies    Library Link Use     arduinoWebSockets https://github.</description>
@@ -41,10 +41,10 @@ Dependencies    Library Link Use     arduinoWebSockets https://github.</descript
     
     <item>
       <title>ESP8266 Making Google Home Speak</title>
-      <link>https://debsahu.github.io/posts/esp8266-making-google-home-speak/</link>
+      <link>https://www.debashishsahu.com/posts/esp8266-making-google-home-speak/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/esp8266-making-google-home-speak/</guid>
+      <guid>https://www.debashishsahu.com/posts/esp8266-making-google-home-speak/</guid>
       <description>Using esp8266-google-home-notifier library on ESP8266 to make Google Home speak!
 Software Prerequisites/Limitations  The GoogleHomeName must match the name of Google Home / mini setup in Google Home App. The ESP8266 must be on the same network as Google Home. MDNS: Dont include ESP8266mDNS.h supplied by Arduino-ESP8266. Internal ESP8266mDNS.h should suffice.  Libraries required  esp8266-google-home-notifier esp8266-google-tts WiFiManager (optional)  GitHub: debsahu/GoogleSay sercret.h
 #define SECRET const char* ssid = &amp;quot;&amp;lt;WiFiSSID&amp;gt;&amp;quot;; const char* password = &amp;quot;&amp;lt;WiFiPassword&amp;gt;&amp;quot;; GoogleSay.</description>
@@ -52,10 +52,10 @@ Software Prerequisites/Limitations  The GoogleHomeName must match the name of Go
     
     <item>
       <title>The Button: Amazon &#34;Dash&#34; Type Button to Communicate to Home-Assistant</title>
-      <link>https://debsahu.github.io/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
+      <link>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</guid>
+      <guid>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</guid>
       <description>An attempt to build a Amazon &amp;ldquo;Dash&amp;rdquo; type button to communicate with Home Assistant, which is a combination of two different projects
 GitHub: debsahu/TheButton Things we want to achieve:  Low on power consumtion: ESP8266 is OFF when the button is not pressed debsahu/ESP_External_Interrupt Portable: Uses 18650 battery, lasts years Talks to Home Assistant: debsahu/HARestAPI    ESP_External_Interrupt  GitHub: https://github.com/debsahu/ESP_External_Interrupt
   HARestAPI  GitHub: https://github.</description>
@@ -63,20 +63,20 @@ GitHub: debsahu/TheButton Things we want to achieve:  Low on power consumtion: E
     
     <item>
       <title>MeshyMcLighting: NeoPixels Lighting Solution Using Mesh Network</title>
-      <link>https://debsahu.github.io/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</link>
+      <link>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</guid>
+      <guid>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</guid>
       <description>Wouldn&amp;rsquo;t be cool for many McLighting (RGB LED lighting using NeoPixels) to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone web-client.
 MeshyMcLighting What is this? Wouldn&amp;rsquo;t be cool for many McLighting to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone webclient.</description>
     </item>
     
     <item>
       <title>RobinhoodAPI: Live Stock Prices From Robinhood on ESP8266</title>
-      <link>https://debsahu.github.io/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
+      <link>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
+      <guid>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
       <description>A simple Arduino library that retrieves live stock prices from www.robinhood.com in JSON format and processes it for ESP8266. In one example, we demonstrate a whole bunch of stock prices scrolling through a dot-matrix display.
 Github: debsahu/RobinhoodAPI An Arduino library to talk to Robin Hood using non-documented Rest API made for ESP8266. Some unofficial documentaion by @sanko is available at here]
 Using the Library  Download this GitHub library.</description>
@@ -84,39 +84,39 @@ Using the Library  Download this GitHub library.</description>
     
     <item>
       <title>HARestAPI: Control Home Assistant Directly Using ESP8266</title>
-      <link>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
+      <link>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
+      <guid>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
       <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands.
 Idea  Control components on Home Assistant directly from ESP8266.  Implementation  Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA.</description>
     </item>
     
     <item>
       <title>ESP8266 Based Color Sensor Talking to Home Assistant via RestAPI</title>
-      <link>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
+      <link>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
+      <guid>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
       <description>    Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a TCS34725 color sensor to read colors and change a RGB light in Home Assistant to the color observed.
 Hardware  TCS34725 color sensor SSD 1306 OLED Wemos D1 mini (ESP8266)  Software  RGB Lights connected to Home Assistant  toblum/McLighting Aircoookie/WLED  </description>
     </item>
     
     <item>
       <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
-      <link>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
+      <link>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
+      <guid>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
       <description>Idea:  Use ESP8266 to talk to Twitter Get User Data or Tweet or Search Twitter Display the data on a Dot-Matrix display  Implementation I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.</description>
     </item>
     
     <item>
       <title>Internet Connected Smoke Alarm</title>
-      <link>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</link>
+      <link>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/internet-connected-smoke-alarm/</guid>
+      <guid>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</guid>
       <description>Have you wondered how to build a internet connected smoke alarm using ESP8266 and a cheap Kidde RF-SM-DC?
 Overall idea is to detect smoke alarm signals and send MQTT message. Home Assistant reads the MQTT message and sends out notifications that can be used to notify your local fire station.
 ESP8266 sends a MQTT message until the smoke alarm is beeping.
@@ -125,30 +125,30 @@ Software Refer to https://github.com/debsahu/ESP_External_Interrupt to build the
     
     <item>
       <title>Extreme Power-Save Mode: ESP8266 Powered ON After External Interrupt</title>
-      <link>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
+      <link>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
+      <guid>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
       <description>Have you ever wondered how to turn on ESP8266 using external interrupt? Build a battery powered amazon dash button or a 18650 lipo powered door bell using ESP8266 without putting the device in deep sleep? Here is your answer.
 Idea  Keep ESP8266 on OFF mode as default External 3.3V signal (can be short or long) arrives and turns ON ESP8266 ESP8266 wakes up and keeps itself awake until a task is perfomed Send MQTT data to server Put ESP8266 back to power OFF state  Implementation  RST pin is always HIGH/3.</description>
     </item>
     
     <item>
       <title>Internet Connected Dog Water Bowl Sensor</title>
-      <link>https://debsahu.github.io/posts/internet-connected-dog-water-bowl-sensor/</link>
+      <link>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/internet-connected-dog-water-bowl-sensor/</guid>
+      <guid>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</guid>
       <description>Wouldn’t it be nice to know if your dog’s water bowl is empty? Let us build a sensor that measures the water level every 5 minutes. This value is sent to MQTT server and Home Assistant automation takes care of the rest.
 This sensor connects to MQTT and Home Assistant. See dogsensor.yaml for adding this to HA. Assumes that one has set up various notification sensors available in HA.</description>
     </item>
     
     <item>
       <title>IoT Dot Matrix Display: Twitter Mentions Using ESP8266 Adafruit.io and IFTTT</title>
-      <link>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
+      <link>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://debsahu.github.io/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
+      <guid>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
       <description>Let’s say that you don’t have your smartphone around and someone mentions you on twitter. Wouldn’t it be nice to have a display that automatically reads your twitter mentions and show it on a scrolling display? So let’s build a internet controlled (IoT) dot-matrix display that does this for us using an ESP8266.
 The plan to accomplish this is as follows:  Someone mentions us on twitter (in my case @debsahu) IF This Then That (IFTTT) tracks these mentions and posts this data on Adafruit.</description>
     </item>
