@@ -13,7 +13,7 @@
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
-      <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands (https://www.home-assistant.io/developers/rest_api/).
+      <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands.
 Idea  Control components on Home Assistant directly from ESP8266.  Implementation  Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA.</description>
     </item>
     
