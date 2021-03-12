@@ -6,7 +6,20 @@
     <description>Recent content in MQTT on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/mqtt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/mqtt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32 Communicating With Xiaomi Flora Plant Sensor Using BLE</title>
+      <link>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</guid>
+      <description>Using ESP32 to communicate with Xiaomi flora (miflora) plant sensor using BLE and posting the values on MQTT server. I also demonstrate the use of Home Assistant miflora sensor component.
+Change ESP32 Partition: https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/ Home Assistant miflora sensor: https://www.home-assistant.io/components/sensor.miflora/
+GitHub: sidddy/flora Archived code from https://github.com/sidddy/flora below
+config.h
+// array of different xiaomi flora MAC addresses char* FLORA_DEVICES[] = { &amp;quot;C4:7C:8D:67:11:11&amp;quot;, &amp;quot;C4:7C:8D:67:22:22&amp;quot;, &amp;quot;C4:7C:8D:67:33:33&amp;quot; }; // sleep between to runs in seconds #define SLEEP_DURATION 30 * 60 // emergency hibernate countdown in seconds #define EMERGENCY_HIBERNATE 3 * 60 // how often should the battery be read - in run count #define BATTERY_INTERVAL 6 // how often should a device be retried in a run when something fails #define RETRY 3 const char* WIFI_SSID = &amp;quot;ssid&amp;quot;; const char* WIFI_PASSWORD = &amp;quot;password&amp;quot;; // MQTT topic gets defined by &amp;quot;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;quot; // where MAC_ADDRESS is one of the values from FLORA_DEVICES array // property is either temperature, moisture, conductivity, light or battery const char* MQTT_HOST = &amp;quot;10.</description>
+    </item>
+    
     <item>
       <title>The Button: Amazon &#34;Dash&#34; Type Button to Communicate to Home-Assistant</title>
       <link>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>

@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32</title>
+      <link>https://www.debashishsahu.com/tags/esp32/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>https://www.debashishsahu.com/tags/home-assistant/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/home-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.debashishsahu.com/tags/iot/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MQTT</title>
+      <link>https://www.debashishsahu.com/tags/mqtt/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry pi</title>
+      <link>https://www.debashishsahu.com/tags/raspberry-pi/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ATTiny85</title>
       <link>https://www.debashishsahu.com/tags/attiny85/</link>
@@ -80,24 +125,6 @@
     </item>
     
     <item>
-      <title>IoT</title>
-      <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MQTT</title>
-      <link>https://www.debashishsahu.com/tags/mqtt/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>power save</title>
       <link>https://www.debashishsahu.com/tags/power-save/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
@@ -130,15 +157,6 @@
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/compute-stick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Home Assistant</title>
-      <link>https://www.debashishsahu.com/tags/home-assistant/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/home-assistant/</guid>
       <description></description>
     </item>
     
@@ -184,15 +202,6 @@
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/opencv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>raspberry pi</title>
-      <link>https://www.debashishsahu.com/tags/raspberry-pi/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/raspberry-pi/</guid>
       <description></description>
     </item>
     
@@ -283,15 +292,6 @@
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://www.debashishsahu.com/tags/esp32/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/esp32/</guid>
       <description></description>
     </item>
     
