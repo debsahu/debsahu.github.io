@@ -3,45 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/e1.31/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/iot/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/led/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/neopixel/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</loc>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/rgb/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2018-12-19T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/udp/</loc>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</loc>
     <lastmod>2018-12-19T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/creating-a-home-assistant-web-scraper-sensor/</loc>

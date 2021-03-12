@@ -6,7 +6,16 @@
     <description>Recent content on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NeoPixel Painter Draw Using LEDs on Thin Air</title>
+      <link>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</guid>
+      <description>     Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips. Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: https://github.com/debsahu/E131_PixelPusher that displays strips of pictures over time. These bright lights are registered on the sensors of camera yielding out of the world photos!  </description>
+    </item>
+    
     <item>
       <title>E1.31 Pixel Pusher: Sending E1.31 UDP Data to ESP8266 Displayed on NeoPixels</title>
       <link>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</link>
