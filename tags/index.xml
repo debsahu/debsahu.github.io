@@ -6,7 +6,61 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://debsahu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32</title>
+      <link>https://debsahu.github.io/tags/esp32/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP8266</title>
+      <link>https://debsahu.github.io/tags/esp8266/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>https://debsahu.github.io/tags/home-assistant/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/tags/home-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://debsahu.github.io/tags/iot/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest API</title>
+      <link>https://debsahu.github.io/tags/rest-api/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/tags/rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensor</title>
+      <link>https://debsahu.github.io/tags/sensor/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://debsahu.github.io/tags/sensor/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Amazon</title>
       <link>https://debsahu.github.io/tags/amazon/</link>
@@ -22,24 +76,6 @@
       <pubDate>Fri, 13 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>https://debsahu.github.io/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESP8266</title>
-      <link>https://debsahu.github.io/tags/esp8266/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://debsahu.github.io/tags/esp8266/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IoT</title>
-      <link>https://debsahu.github.io/tags/iot/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://debsahu.github.io/tags/iot/</guid>
       <description></description>
     </item>
     
@@ -103,24 +139,6 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>https://debsahu.github.io/tags/text-to-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://debsahu.github.io/tags/esp32/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://debsahu.github.io/tags/esp32/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Home Assistant</title>
-      <link>https://debsahu.github.io/tags/home-assistant/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://debsahu.github.io/tags/home-assistant/</guid>
       <description></description>
     </item>
     
@@ -314,15 +332,6 @@
     </item>
     
     <item>
-      <title>Rest API</title>
-      <link>https://debsahu.github.io/tags/rest-api/</link>
-      <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://debsahu.github.io/tags/rest-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>stock</title>
       <link>https://debsahu.github.io/tags/stock/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
@@ -364,15 +373,6 @@
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>https://debsahu.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sensor</title>
-      <link>https://debsahu.github.io/tags/sensor/</link>
-      <pubDate>Sat, 07 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://debsahu.github.io/tags/sensor/</guid>
       <description></description>
     </item>
     

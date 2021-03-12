@@ -2,40 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://debsahu.github.io/categories/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/esp32/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/esp8266/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/home-assistant/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/iot/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/categories/iot/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/rest-api/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/sensor/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/using-gestures-to-control-lights-on-home-assistant/</loc>
+    <lastmod>2018-07-21T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://debsahu.github.io/tags/amazon/</loc>
     <lastmod>2018-07-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/aws/</loc>
     <lastmod>2018-07-13T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://debsahu.github.io/categories/</loc>
-    <lastmod>2018-07-13T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/</loc>
-    <lastmod>2018-07-13T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/esp8266/</loc>
-    <lastmod>2018-07-13T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://debsahu.github.io/posts/esp8266-talking-to-aws-iot-using-mqtt/</loc>
-    <lastmod>2018-07-13T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/iot/</loc>
-    <lastmod>2018-07-13T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/categories/iot/</loc>
     <lastmod>2018-07-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/mqtt/</loc>
     <lastmod>2018-07-13T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://debsahu.github.io/posts/</loc>
-    <lastmod>2018-07-13T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://debsahu.github.io/tags/smart-devices/</loc>
-    <lastmod>2018-07-13T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/</loc>
     <lastmod>2018-07-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/posts/esp8266-making-google-home-speak/</loc>
@@ -56,13 +71,7 @@
     <loc>https://debsahu.github.io/tags/text-to-speech/</loc>
     <lastmod>2018-07-06T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://debsahu.github.io/tags/esp32/</loc>
-    <lastmod>2018-06-29T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://debsahu.github.io/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</loc>
-    <lastmod>2018-06-29T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/home-assistant/</loc>
     <lastmod>2018-06-29T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/raspberry-pi/</loc>
@@ -152,9 +161,6 @@
     <loc>https://debsahu.github.io/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</loc>
     <lastmod>2018-05-05T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://debsahu.github.io/tags/rest-api/</loc>
-    <lastmod>2018-04-28T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://debsahu.github.io/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</loc>
     <lastmod>2018-04-28T00:00:00-05:00</lastmod>
   </url><url>
@@ -183,9 +189,6 @@
     <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/sensor/</loc>
     <lastmod>2018-04-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/displays/</loc>
