@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Oct 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using ESP8266 to Call RESTful API From TheRide to Get Real-Time BUS Data</title>
+      <link>https://www.debashishsahu.com/posts/using-esp8266-to-call-restful-api-from-theride-to-get-real-time-bus-data/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/using-esp8266-to-call-restful-api-from-theride-to-get-real-time-bus-data/</guid>
+      <description>Here is a tutorial on how to call RESTful API on ESP8266 and process the data using ArduinoJSON. This data is visually represented in a NeoPixel ring for easy tracking of 3 buses approaching a certain stop. This code also sends MQTT messages with the received data.
+debsahu/RESTful-Ride Using ESP8266 to call RESTful API from http://TheRide.org to get real-time BUS data
+Features:  Easy to read interface Fast and Responsive Portable, i.</description>
+    </item>
+    
     <item>
       <title>Hacking an Automatic Trash Can to Listen to You</title>
       <link>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</link>
