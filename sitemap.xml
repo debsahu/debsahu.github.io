@@ -3,36 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://debsahu.github.io/categories/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/esp32/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/esp8266/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/harestapi-control-home-assistant-directly-using-esp8266/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/home-assistant/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/iot/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/categories/iot/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/posts/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/rest-api/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://debsahu.github.io/tags/</loc>
+    <lastmod>2018-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</loc>
     <lastmod>2018-04-07T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://debsahu.github.io/tags/home-assistant/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/iot/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/categories/iot/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/posts/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/rest-api/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://debsahu.github.io/tags/sensor/</loc>
-    <lastmod>2018-04-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://debsahu.github.io/tags/</loc>
     <lastmod>2018-04-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://debsahu.github.io/tags/displays/</loc>
