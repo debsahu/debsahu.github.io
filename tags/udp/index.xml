@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LED on Debashish Sahu</title>
-    <link>https://www.debashishsahu.com/tags/led/</link>
-    <description>Recent content in LED on Debashish Sahu</description>
+    <title>UDP on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/udp/</link>
+    <description>Recent content in UDP on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/udp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>E1.31 Pixel Pusher: Sending E1.31 UDP Data to ESP8266 Displayed on NeoPixels</title>
       <link>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</link>
@@ -18,16 +18,6 @@ Other projects with E1.31 support:
  GitHub: forkineye/ESPixelStick GitHub: Aircoookie/WLED GitHub: toblum/McLighting  I also demonstrate how to setup and use Jinx!, ledfx and xLights
 GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for ESP8266/ESP32
  Completely Async Web-interface to set starting universe, unicast/umulticast, total number of universes WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Subscribes to E131 multicast Connect RX/GPIO3 to DIN of NeoPixel strip, and any PIN (&amp;lt;GPIO32) specified for ESP32 Upload included firmware.</description>
-    </item>
-    
-    <item>
-      <title>Building LED String Using Capacitive Dropper</title>
-      <link>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</link>
-      <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</guid>
-      <description>    Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
-Inspired from bigclive&amp;rsquo;s project   </description>
     </item>
     
   </channel>

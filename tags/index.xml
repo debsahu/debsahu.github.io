@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E1.31</title>
+      <link>https://www.debashishsahu.com/tags/e1.31/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/e1.31/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ESP32</title>
       <link>https://www.debashishsahu.com/tags/esp32/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/esp32/</guid>
       <description></description>
@@ -19,9 +28,54 @@
     <item>
       <title>ESP8266</title>
       <link>https://www.debashishsahu.com/tags/esp8266/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.debashishsahu.com/tags/iot/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LED</title>
+      <link>https://www.debashishsahu.com/tags/led/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/led/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeoPixel</title>
+      <link>https://www.debashishsahu.com/tags/neopixel/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/neopixel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB</title>
+      <link>https://www.debashishsahu.com/tags/rgb/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/rgb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UDP</title>
+      <link>https://www.debashishsahu.com/tags/udp/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/udp/</guid>
       <description></description>
     </item>
     
@@ -31,15 +85,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/home-assistant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IoT</title>
-      <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/iot/</guid>
       <description></description>
     </item>
     
@@ -224,15 +269,6 @@
     </item>
     
     <item>
-      <title>LED</title>
-      <link>https://www.debashishsahu.com/tags/led/</link>
-      <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/led/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>therapy</title>
       <link>https://www.debashishsahu.com/tags/therapy/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
@@ -364,15 +400,6 @@
       <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/mclighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rgb</title>
-      <link>https://www.debashishsahu.com/tags/rgb/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/rgb/</guid>
       <description></description>
     </item>
     
