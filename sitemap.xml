@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</loc>
-    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+    <loc>https://www.debashishsahu.com/tags/attiny85/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/hack/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/pwm/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/repair/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/resurrecting-a-gpu-cooling-fan-using-a-micro-processor-and-pwm/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</loc>
     <lastmod>2018-06-10T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/categories/home-decor/</loc>
     <lastmod>2018-06-10T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/led/</loc>
-    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2018-06-10T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2018-06-10T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/therapy/</loc>
@@ -171,9 +186,6 @@
     <lastmod>2017-03-12T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</loc>
-    <lastmod>2017-03-12T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/pwm/</loc>
     <lastmod>2017-03-12T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/ams1117/</loc>
