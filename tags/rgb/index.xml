@@ -6,7 +6,27 @@
     <description>Recent content in RGB on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/rgb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/rgb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epoxy resin holiday lights/night lamp | DIY resin LED decor | WLED</title>
+      <link>https://www.debashishsahu.com/posts/epoxy-resin-holiday-lights-night-lamp-diy-resin-led-decor-wled/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/epoxy-resin-holiday-lights-night-lamp-diy-resin-led-decor-wled/</guid>
+      <description>Board Prep    WLED Software: GitHub: Aircoookie/WLED
+PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb</description>
+    </item>
+    
+    <item>
+      <title>ESP8266 based WLED NeoPixel Lights | Insomnia soldering session | Holiday lights prep</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-based-wled-neopixel-lightsinsomnia-soldering-session-holiday-lights-prep/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-based-wled-neopixel-lightsinsomnia-soldering-session-holiday-lights-prep/</guid>
+      <description>WLED Software: GitHub: Aircoookie/WLED
+PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb</description>
+    </item>
+    
     <item>
       <title>ESP8266/ESP32 Based RGB Light (NeoPixels) Connecting to Google Home &amp; Alexa via ARTIK Cloud</title>
       <link>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</link>
