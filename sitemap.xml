@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2020-12-13T00:00:00-05:00</lastmod>
+    <loc>https://www.debashishsahu.com/tags/blink/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/inductive-charging/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/led/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/magnetism/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/qi/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wire/</loc>
+    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
@@ -29,16 +56,10 @@
     <loc>https://www.debashishsahu.com/tags/neopixels/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2020-12-13T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/rgb/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/shorts/</loc>
-    <lastmod>2020-12-13T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/ultimate-guide-to-permanent-holiday-lights-using-neopixels-ws2812b-leds/</loc>
@@ -66,9 +87,6 @@
     <lastmod>2020-11-30T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esphome/</loc>
-    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/led/</loc>
     <lastmod>2020-11-30T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/lights/</loc>
