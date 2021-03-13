@@ -6,7 +6,17 @@
     <description>Recent content in IoT on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voice Controlled (Connected) BIDET: A Solution for Non-Availability of Toilet-Paper Caused by COVID19</title>
+      <link>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</guid>
+      <description>   Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
+Wilbur Sargunaraj   Software: ESPHome  </description>
+    </item>
+    
     <item>
       <title>ESP32 to Process Audio Signals: Software (Fourier Transforms) and Hardware (MSGEQ7)</title>
       <link>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</link>

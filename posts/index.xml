@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voice Controlled (Connected) BIDET: A Solution for Non-Availability of Toilet-Paper Caused by COVID19</title>
+      <link>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</guid>
+      <description>   Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
+Wilbur Sargunaraj   Software: ESPHome  </description>
+    </item>
+    
     <item>
       <title>Using TensorFlowJS (Machine Learning) for Speech Recognition on ESP8266</title>
       <link>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</link>
