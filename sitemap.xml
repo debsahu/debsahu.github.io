@@ -2,44 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.debashishsahu.com/categories/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp32/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/home-assitant/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/iot/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/relay/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/sensor/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/switch/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
+    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.debashishsahu.com/tags/amazon/</loc>
     <lastmod>2019-02-18T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/aws/</loc>
     <lastmod>2019-02-18T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/posts/connect-to-aws-iot-while-making-masala-chai-asmr/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/iot/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
     <lastmod>2019-02-18T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/smart-devices/</loc>
     <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2019-02-18T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp32/</loc>
-    <lastmod>2019-02-09T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</loc>
     <lastmod>2019-02-09T00:00:00-05:00</lastmod>
@@ -83,9 +101,6 @@
     <loc>https://www.debashishsahu.com/tags/smart/</loc>
     <lastmod>2019-01-14T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/switch/</loc>
-    <lastmod>2019-01-14T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/tv/</loc>
     <lastmod>2019-01-14T00:00:00-05:00</lastmod>
   </url><url>
@@ -123,9 +138,6 @@
     <lastmod>2018-11-17T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/rest-api/</loc>
-    <lastmod>2018-10-27T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/sensor/</loc>
     <lastmod>2018-10-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/using-esp8266-to-call-restful-api-from-theride-to-get-real-time-bus-data/</loc>
@@ -204,9 +216,6 @@
     <lastmod>2018-06-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</loc>
-    <lastmod>2018-06-01T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
     <lastmod>2018-06-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/camera/</loc>
