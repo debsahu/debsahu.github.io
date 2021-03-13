@@ -2,13 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.debashishsahu.com/tags/3d-printing/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/diy/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/diy-custom-holiday-gift-wood-decor-3d-printed-letters-photo-hanger/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/holiday-gift/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/home-decor/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/photo/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wood-decor/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wood-working/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/wood-working/</loc>
+    <lastmod>2020-12-25T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.debashishsahu.com/tags/blink/</loc>
     <lastmod>2020-12-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</loc>
-    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/</loc>
     <lastmod>2020-12-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/inductive-charging/</loc>
@@ -20,28 +56,16 @@
     <loc>https://www.debashishsahu.com/tags/magnetism/</loc>
     <lastmod>2020-12-21T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/qi/</loc>
-    <lastmod>2020-12-21T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2020-12-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/wire/</loc>
     <lastmod>2020-12-21T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2020-12-13T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
-    <lastmod>2020-12-13T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/home-decor/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/iot/</loc>
@@ -110,16 +134,7 @@
     <loc>https://www.debashishsahu.com/tags/delix/</loc>
     <lastmod>2020-11-22T23:09:09-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/diy/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/posts/diy-mud-room-bench-solid-wood-power-tools/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/wood-working/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/wood-working/</loc>
     <lastmod>2020-11-22T23:09:09-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</loc>
