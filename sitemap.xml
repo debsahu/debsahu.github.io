@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/fourier-transforms/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/home-assitant/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/iot/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/leds/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/msgeq7/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
+    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
     <lastmod>2019-02-24T00:00:00-05:00</lastmod>
@@ -17,19 +47,7 @@
     <loc>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</loc>
     <lastmod>2019-02-24T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/home-assitant/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/iot/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/iot/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
     <lastmod>2019-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/relay/</loc>
@@ -39,12 +57,6 @@
     <lastmod>2019-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/switch/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
     <lastmod>2019-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/amazon/</loc>
