@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32</title>
+      <link>https://www.debashishsahu.com/tags/esp32/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.debashishsahu.com/tags/iot/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lolin D32</title>
+      <link>https://www.debashishsahu.com/tags/lolin-d32/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/lolin-d32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiFi</title>
+      <link>https://www.debashishsahu.com/tags/wifi/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/wifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WPA2-Enterprise</title>
+      <link>https://www.debashishsahu.com/tags/wpa2-enterprise/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/wpa2-enterprise/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3d printing</title>
       <link>https://www.debashishsahu.com/tags/3d-printing/</link>
@@ -134,15 +179,6 @@
     </item>
     
     <item>
-      <title>IoT</title>
-      <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MQTT</title>
       <link>https://www.debashishsahu.com/tags/mqtt/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
@@ -206,15 +242,6 @@
     </item>
     
     <item>
-      <title>ESP32</title>
-      <link>https://www.debashishsahu.com/tags/esp32/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/esp32/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ESPHome</title>
       <link>https://www.debashishsahu.com/tags/esphome/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
@@ -229,15 +256,6 @@
       <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/lights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lolin d32</title>
-      <link>https://www.debashishsahu.com/tags/lolin-d32/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/lolin-d32/</guid>
       <description></description>
     </item>
     
@@ -391,15 +409,6 @@
       <pubDate>Sun, 04 Oct 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WiFi</title>
-      <link>https://www.debashishsahu.com/tags/wifi/</link>
-      <pubDate>Sun, 04 Oct 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/wifi/</guid>
       <description></description>
     </item>
     
