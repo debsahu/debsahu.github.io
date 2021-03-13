@@ -6,7 +6,17 @@
     <description>Recent content in Displays on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/displays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/displays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESPHome Dot Matrix Display | Internet Connected Display Home Assistant Display</title>
+      <link>https://www.debashishsahu.com/posts/esphome-dot-matrix-display-internet-connected-display-home-assistant-display/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esphome-dot-matrix-display-internet-connected-display-home-assistant-display/</guid>
+      <description>    Using ESPHome for connecting ESP8266 to MAX7219 Dot-Matrix Display to show useful information from Home Assistant. This is used by my wife&amp;rsquo;s channel Canvasyvibes Art
+Software: ESPHome  </description>
+    </item>
+    
     <item>
       <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
       <link>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
