@@ -2,11 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.debashishsahu.com/tags/browser/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
-    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/tensorflow/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/tensorflowjs/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</loc>
+    <lastmod>2019-04-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
     <lastmod>2019-03-04T00:00:00-05:00</lastmod>
@@ -32,17 +59,8 @@
     <loc>https://www.debashishsahu.com/tags/msgeq7/</loc>
     <lastmod>2019-03-04T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2019-03-04T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/wifi/</loc>
     <lastmod>2019-03-04T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2019-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</loc>
     <lastmod>2019-02-24T00:00:00-05:00</lastmod>
@@ -242,9 +260,6 @@
     <loc>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
-    <lastmod>2018-05-27T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/mobilessd/</loc>
     <lastmod>2018-05-27T00:00:00-05:00</lastmod>
   </url><url>
@@ -274,9 +289,6 @@
   </url><url>
     <loc>https://www.debashishsahu.com/tags/stock/</loc>
     <lastmod>2018-04-28T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
-    <lastmod>2018-04-20T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/matlab/</loc>
     <lastmod>2018-04-20T00:00:00-05:00</lastmod>

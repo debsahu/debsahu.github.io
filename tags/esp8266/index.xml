@@ -6,7 +6,17 @@
     <description>Recent content in ESP8266 on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using TensorFlowJS (Machine Learning) for Speech Recognition on ESP8266</title>
+      <link>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</guid>
+      <description>Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.
+FFT on ESP32   GitHub: debsahu/SpeechRecognitionTensorFlowJS Speech Recognition on Browser, AsyncWebServer served on ESP8266 to control LED_BUILTIN/GPIO16  Uses WebAudio API and WebGL GPU acceleration = speech recognition is done on the browser http:// requests for microphone is blocked for chrome, use firefox instead tf.</description>
+    </item>
+    
     <item>
       <title>ESP8266/ESP3232: Home Assistant Switch Connected to PCF8574 Controlling 8 AC Relays</title>
       <link>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</link>
