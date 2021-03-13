@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESP8266</title>
       <link>https://www.debashishsahu.com/tags/esp8266/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/esp8266/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Home Assistant</title>
       <link>https://www.debashishsahu.com/tags/home-assistant/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/home-assistant/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>IoT</title>
       <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/iot/</guid>
       <description></description>
@@ -37,16 +37,25 @@
     <item>
       <title>MQTT</title>
       <link>https://www.debashishsahu.com/tags/mqtt/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>NeoPixels</title>
+      <link>https://www.debashishsahu.com/tags/neopixels/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/neopixels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RGB</title>
       <link>https://www.debashishsahu.com/tags/rgb/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/rgb/</guid>
       <description></description>
@@ -55,7 +64,7 @@
     <item>
       <title>shorts</title>
       <link>https://www.debashishsahu.com/tags/shorts/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/shorts/</guid>
       <description></description>
@@ -64,9 +73,18 @@
     <item>
       <title>WLED</title>
       <link>https://www.debashishsahu.com/tags/wled/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/wled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epoxy</title>
+      <link>https://www.debashishsahu.com/tags/epoxy/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/epoxy/</guid>
       <description></description>
     </item>
     
