@@ -6,7 +6,17 @@
     <description>Recent content in MOSFET on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2017 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/mosfet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/mosfet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY Smart Deck Lights | ESPHome | Home Assistant controlled</title>
+      <link>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
+      <description>    Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
+Software: ESPHome  </description>
+    </item>
+    
     <item>
       <title>MOSFET Used as Switch to Control a 12V Fan</title>
       <link>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</link>

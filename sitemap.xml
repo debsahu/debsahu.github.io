@@ -2,13 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.debashishsahu.com/tags/bench/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/deck-lights/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esp32/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/esphome/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/home-decor/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/led/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/lights/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/lolin-d32/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/mosfet/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/pwm/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/smart/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/bench/</loc>
     <lastmod>2020-11-22T23:09:09-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/delix/</loc>
@@ -20,15 +65,6 @@
     <loc>https://www.debashishsahu.com/posts/diy-mud-room-bench-solid-wood-power-tools/</loc>
     <lastmod>2020-11-22T23:09:09-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/home-decor/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
-    <lastmod>2020-11-22T23:09:09-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/wood-working/</loc>
     <lastmod>2020-11-22T23:09:09-05:00</lastmod>
   </url><url>
@@ -38,28 +74,13 @@
     <loc>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</loc>
     <lastmod>2020-10-24T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/esp32/</loc>
-    <lastmod>2020-10-24T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
-    <lastmod>2020-10-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/esphome/</loc>
     <lastmod>2020-10-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/faux-beam/</loc>
     <lastmod>2020-10-24T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/iot/</loc>
-    <lastmod>2020-10-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/lights/</loc>
-    <lastmod>2020-10-24T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/plant/</loc>
-    <lastmod>2020-10-24T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/smart/</loc>
     <lastmod>2020-10-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/sonoff/</loc>
@@ -93,9 +114,6 @@
     <lastmod>2020-10-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/esphome-dot-matrix-display-internet-connected-display-home-assistant-display/</loc>
-    <lastmod>2020-10-04T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
     <lastmod>2020-10-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/iot/</loc>
@@ -221,9 +239,6 @@
     <loc>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</loc>
     <lastmod>2019-02-09T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/led/</loc>
-    <lastmod>2019-02-09T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/neopixel/</loc>
     <lastmod>2019-02-09T00:00:00-05:00</lastmod>
   </url><url>
@@ -332,9 +347,6 @@
     <loc>https://www.debashishsahu.com/tags/hack/</loc>
     <lastmod>2018-06-16T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/pwm/</loc>
-    <lastmod>2018-06-16T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/categories/repair/</loc>
     <lastmod>2018-06-16T00:00:00-05:00</lastmod>
   </url><url>
@@ -441,9 +453,6 @@
     <lastmod>2017-10-15T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/fan/</loc>
-    <lastmod>2017-03-12T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/mosfet/</loc>
     <lastmod>2017-03-12T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</loc>
