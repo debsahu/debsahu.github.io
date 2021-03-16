@@ -6,20 +6,47 @@
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 10:00:00 -0400</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>big data</title>
+      <link>https://www.debashishsahu.com/tags/big-data/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ESP32</title>
       <link>https://www.debashishsahu.com/tags/esp32/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/esp32/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>grafana</title>
+      <link>https://www.debashishsahu.com/tags/grafana/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/grafana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influxdb</title>
+      <link>https://www.debashishsahu.com/tags/influxdb/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/influxdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IoT</title>
       <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/iot/</guid>
       <description></description>
@@ -28,7 +55,7 @@
     <item>
       <title>lolin D32</title>
       <link>https://www.debashishsahu.com/tags/lolin-d32/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/lolin-d32/</guid>
       <description></description>
@@ -37,7 +64,7 @@
     <item>
       <title>WiFi</title>
       <link>https://www.debashishsahu.com/tags/wifi/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/wifi/</guid>
       <description></description>
@@ -46,7 +73,7 @@
     <item>
       <title>WPA2-Enterprise</title>
       <link>https://www.debashishsahu.com/tags/wpa2-enterprise/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/wpa2-enterprise/</guid>
       <description></description>
