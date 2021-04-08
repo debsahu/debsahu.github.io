@@ -166,7 +166,7 @@ GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for E
       <description>Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
 GitHub: debsahu/lxmlWebScraper Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
 Overview Installing lxml If working in virtual environment, install lxml using pip
-$ pip3 install lxml If working on python installation installed globally</description>
+$ pip3 install lxmlIf working on python installation installed globally</description>
     </item>
     
     <item>
@@ -231,7 +231,7 @@ Dependencies    Library Link Use     arduinoWebSockets https://github.</descript
       <guid>https://www.debashishsahu.com/posts/esp8266-making-google-home-speak/</guid>
       <description>Using esp8266-google-home-notifier library on ESP8266 to make Google Home speak!
 Software Prerequisites/Limitations  The GoogleHomeName must match the name of Google Home / mini setup in Google Home App. The ESP8266 must be on the same network as Google Home. MDNS: Dont include ESP8266mDNS.h supplied by Arduino-ESP8266. Internal ESP8266mDNS.h should suffice.  Libraries required  esp8266-google-home-notifier esp8266-google-tts WiFiManager (optional)  GitHub: debsahu/GoogleSay sercret.h
-#define SECRET const char* ssid = &amp;quot;&amp;lt;WiFiSSID&amp;gt;&amp;quot;; const char* password = &amp;quot;&amp;lt;WiFiPassword&amp;gt;&amp;quot;; GoogleSay.</description>
+#define SECRETconst char* ssid = &amp;quot;&amp;lt;WiFiSSID&amp;gt;&amp;quot;;const char* password = &amp;quot;&amp;lt;WiFiPassword&amp;gt;&amp;quot;;GoogleSay.</description>
     </item>
     
     <item>

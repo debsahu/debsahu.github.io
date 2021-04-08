@@ -139,7 +139,7 @@ GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for E
       <description>Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
 GitHub: debsahu/lxmlWebScraper Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
 Overview Installing lxml If working in virtual environment, install lxml using pip
-$ pip3 install lxml If working on python installation installed globally</description>
+$ pip3 install lxmlIf working on python installation installed globally</description>
     </item>
     
     <item>
@@ -184,7 +184,7 @@ Software Libraries used:  HARestAPI GitHub: debsahu/HARestAPI APDS9960 GitHub: S
 Change ESP32 Partition: https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/ Home Assistant miflora sensor: https://www.home-assistant.io/components/sensor.miflora/
 GitHub: sidddy/flora Archived code from https://github.com/sidddy/flora below
 config.h
-// array of different xiaomi flora MAC addresses char* FLORA_DEVICES[] = { &amp;quot;C4:7C:8D:67:11:11&amp;quot;, &amp;quot;C4:7C:8D:67:22:22&amp;quot;, &amp;quot;C4:7C:8D:67:33:33&amp;quot; }; // sleep between to runs in seconds #define SLEEP_DURATION 30 * 60 // emergency hibernate countdown in seconds #define EMERGENCY_HIBERNATE 3 * 60 // how often should the battery be read - in run count #define BATTERY_INTERVAL 6 // how often should a device be retried in a run when something fails #define RETRY 3 const char* WIFI_SSID = &amp;quot;ssid&amp;quot;; const char* WIFI_PASSWORD = &amp;quot;password&amp;quot;; // MQTT topic gets defined by &amp;quot;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;quot; // where MAC_ADDRESS is one of the values from FLORA_DEVICES array // property is either temperature, moisture, conductivity, light or battery const char* MQTT_HOST = &amp;quot;10.</description>
+// array of different xiaomi flora MAC addresseschar* FLORA_DEVICES[] = {&amp;quot;C4:7C:8D:67:11:11&amp;quot;, &amp;quot;C4:7C:8D:67:22:22&amp;quot;, &amp;quot;C4:7C:8D:67:33:33&amp;quot;};// sleep between to runs in seconds#define SLEEP_DURATION 30 * 60// emergency hibernate countdown in seconds#define EMERGENCY_HIBERNATE 3 * 60// how often should the battery be read - in run count#define BATTERY_INTERVAL 6// how often should a device be retried in a run when something fails#define RETRY 3const char* WIFI_SSID = &amp;quot;ssid&amp;quot;;const char* WIFI_PASSWORD = &amp;quot;password&amp;quot;;// MQTT topic gets defined by &amp;quot;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;quot;// where MAC_ADDRESS is one of the values from FLORA_DEVICES array// property is either temperature, moisture, conductivity, light or batteryconst char* MQTT_HOST = &amp;quot;10.</description>
     </item>
     
     <item>
