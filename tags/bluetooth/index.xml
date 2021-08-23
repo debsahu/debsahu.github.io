@@ -13,7 +13,7 @@
       <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</guid>
-      <description>Radon  Radon is everywhere, see map Naturally-occurring radioactive gas - causes lung cancer Inert, colorless and odorless Naturally in the atmosphere in trace amounts  Outdoors: radon disperses rapidly   Most radon exposure occurs inside homes, schools and workplaces  Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation Can be controlled and managed with proven, cost-effective techniques    Radon monitoring Hardware  Airthings Wave  Continuous radon monitoring Long term monitoring LEDs color – radon level Battery Operated Bluetooth BLE   ESP32 - lolin D32 (can use any ESP32) MQTT Server - Mosquitto  Software  Python script to read values from Airthings Wave: Wave-Reader Home Assistant Custom Component: sensor.</description>
+      <description>Radon  Radon is everywhere, see map Naturally-occurring radioactive gas - causes lung cancer Inert, colorless and odorless Naturally in the atmosphere in trace amounts  Outdoors: radon disperses rapidly   Most radon exposure occurs inside homes, schools and workplaces  Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation Can be controlled and managed with proven, cost-effective techniques</description>
     </item>
     
   </channel>
