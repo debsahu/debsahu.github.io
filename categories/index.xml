@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Debashish Sahu</title>
     <link>https://www.debashishsahu.com/categories/</link>
     <description>Recent content in Categories on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 10:00:00 -0400</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 12:00:00 -0400</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iot</title>
       <link>https://www.debashishsahu.com/categories/iot/</link>
-      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/categories/iot/</guid>
       <description></description>

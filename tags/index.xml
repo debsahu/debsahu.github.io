@@ -1,27 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Debashish Sahu</title>
     <link>https://www.debashishsahu.com/tags/</link>
     <description>Recent content in Tags on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 10:00:00 -0400</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 12:00:00 -0400</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>big data</title>
-      <link>https://www.debashishsahu.com/tags/big-data/</link>
-      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      <title>BLE</title>
+      <link>https://www.debashishsahu.com/tags/ble/</link>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
       
-      <guid>https://www.debashishsahu.com/tags/big-data/</guid>
+      <guid>https://www.debashishsahu.com/tags/ble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bluetooth</title>
+      <link>https://www.debashishsahu.com/tags/bluetooth/</link>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/bluetooth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESP32</title>
       <link>https://www.debashishsahu.com/tags/esp32/</link>
-      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.debashishsahu.com/tags/iot/</link>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MQTT</title>
+      <link>https://www.debashishsahu.com/tags/mqtt/</link>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radon</title>
+      <link>https://www.debashishsahu.com/tags/radon/</link>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/radon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensor</title>
+      <link>https://www.debashishsahu.com/tags/sensor/</link>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>https://www.debashishsahu.com/tags/big-data/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/tags/big-data/</guid>
       <description></description>
     </item>
     
@@ -40,15 +94,6 @@
       <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/influxdb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IoT</title>
-      <link>https://www.debashishsahu.com/tags/iot/</link>
-      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/iot/</guid>
       <description></description>
     </item>
     
@@ -202,15 +247,6 @@
       <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/home-assistant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MQTT</title>
-      <link>https://www.debashishsahu.com/tags/mqtt/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/mqtt/</guid>
       <description></description>
     </item>
     
@@ -625,15 +661,6 @@
       <pubDate>Sun, 24 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/tags/relay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sensor</title>
-      <link>https://www.debashishsahu.com/tags/sensor/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.debashishsahu.com/tags/sensor/</guid>
       <description></description>
     </item>
     

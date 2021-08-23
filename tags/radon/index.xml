@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>radon on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/radon/</link>
+    <description>Recent content in radon on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Aug 2021 12:00:00 -0400</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/radon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Radon Sensing Using Airthings Wave</title>
+      <link>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</link>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</guid>
+      <description>Radon  Radon is everywhere, see map Naturally-occurring radioactive gas - causes lung cancer Inert, colorless and odorless Naturally in the atmosphere in trace amounts  Outdoors: radon disperses rapidly   Most radon exposure occurs inside homes, schools and workplaces  Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation Can be controlled and managed with proven, cost-effective techniques    Radon monitoring Hardware  Airthings Wave  Continuous radon monitoring Long term monitoring LEDs color – radon level Battery Operated Bluetooth BLE   ESP32 - lolin D32 (can use any ESP32) MQTT Server - Mosquitto  Software  Python script to read values from Airthings Wave: Wave-Reader Home Assistant Custom Component: sensor.</description>
+    </item>
+    
+  </channel>
+</rss>
