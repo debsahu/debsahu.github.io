@@ -2,19 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.debashishsahu.com/categories/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/edge-impulse/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/embeded-ai/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/samd51/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/seeed/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/tinyml/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wio/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</loc>
+    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.debashishsahu.com/tags/ble/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/bluetooth/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2021-08-23T12:00:00-04:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</loc>
-    <lastmod>2021-08-23T12:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
@@ -29,16 +62,10 @@
     <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2021-08-23T12:00:00-04:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/radon/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/sensor/</loc>
-    <lastmod>2021-08-23T12:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/big-data/</loc>
@@ -241,12 +268,6 @@
   </url><url>
     <loc>https://www.debashishsahu.com/tags/not-sponsored/</loc>
     <lastmod>2020-05-15T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
-    <lastmod>2020-04-26T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
-    <lastmod>2020-04-26T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/machine-learning-to-filter-out-background-noise-rtx-voice/</loc>
     <lastmod>2020-04-26T00:00:00-05:00</lastmod>
