@@ -37,7 +37,7 @@ GitHub: debsahu/WIOCatanDieRoll Objective  When WIO is shaken it will roll two d
 <meta name=twitter:description content="Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)
 GitHub: debsahu/WIOCatanDieRoll Objective  When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously  Hardware  WIO Terminal (Seeed Studio) USB-C cable  Software  WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://www.debashishsahu.com/posts/"},{"@type":"ListItem","position":2,"name":"WIO Terminal: Catan Die Roll TinyML","item":"https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"WIO Terminal: Catan Die Roll TinyML","name":"WIO Terminal: Catan Die Roll TinyML","description":"Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)\nGitHub: debsahu/WIOCatanDieRoll Objective  When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously  Hardware  WIO Terminal (Seeed Studio) USB-C cable  Software  WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port.","keywords":["SAMD51","WIO","Seeed","machine learning","TinyML","Edge Impulse","embeded AI"],"articleBody":" Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)\nGitHub: debsahu/WIOCatanDieRoll Objective  When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously  Hardware  WIO Terminal (Seeed Studio) USB-C cable  Software  WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port. Model is included AIShakeDie: Uses in-built IMU to recognize shake using NN from Edge Impulse and rolls 2 die using TRNG  Collecting data from WIO \u0026 storing on Edge Impulse, training Neural Network on Edge Impulse, Export and deploy TinyML on WIO 1. Collecting data from WIO \u0026 storing on Edge Impulse Installing dependencies (Windows)  Install Python 3 Install Node.js v14 or higher - install additional Node.js tools or-else install Microsoft Visual Sudio 2015 Open powershell as admin, install edge-impulse-cli  npm install -g edge-impulse-cli --force\rFor other OS please follow instructions from here.\nConnecting WIO to Edge Impulse  Connect WIO to computer using USB-C cable Enter bootloader by sliding power switch down twice in quick succession.  WIO will show up as a new USB drive named Arduino, copy latest released precompiled UF2 firmware to Arduino drive Start sending data to Edge Impulse, open a powershell and type  C:\\ edge-impulse-daemon\rFollow instructions on screen by logging into your Edge Impulse account and selecting a project.\nOpen the Edge Impulse project on a browser and see if WIO is connected  2. Storing Accelerometer data on Edge Impulse  Start collecting data from device:  Generate appropiate labels for each data point, click on start sampling. When the countdown starts, perform appropiate action on the WIO based on the label given Once a 10s data collection is complete, check the collected data section and click on hamberger icon and split sample  Split the sample into 1s chunks and click split  Repeat to have lots of data for each label Do the same for Test data (top-left) for each label  3. Create Impulse \u0026 Process/Clean up data \u0026 training NN  Create a new impulse (overall design of the project)  Generate Spectral Features - clean up your raw accelerometer data  Generate Features  Train your neural network using cleaned-up training data features from previous step  4. Testing your NN performance Click on Model Testing  Classify All\n5. Deploying your NN on WIO  Click on Deployment Select Arduino library  Build your Arduino library  Copy contents from src directory into your project See implementation in EdgeImpulse folder  ","wordCount":"450","inLanguage":"en","datePublished":"2021-09-22T00:00:00-05:00","dateModified":"2021-09-22T00:00:00-05:00","author":{"@type":"Person","name":"Debashish Sahu"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/"},"publisher":{"@type":"Organization","name":"Debashish Sahu","logo":{"@type":"ImageObject","url":"https://www.debashishsahu.com/logo.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"WIO Terminal: Catan Die Roll TinyML","name":"WIO Terminal: Catan Die Roll TinyML","description":"Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)\nGitHub: debsahu/WIOCatanDieRoll Objective  When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously  Hardware  WIO Terminal (Seeed Studio) USB-C cable  Software  WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port.","keywords":["SAMD51","WIO","Seeed","machine learning","TinyML","Edge Impulse","embeded AI"],"articleBody":" Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)\nGitHub: debsahu/WIOCatanDieRoll Objective  When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously  Hardware  WIO Terminal (Seeed Studio) USB-C cable  Software  WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port. Model is included AIShakeDie: Uses in-built IMU to recognize shake using NN from Edge Impulse and rolls 2 die using TRNG  Collecting data from WIO \u0026 storing on Edge Impulse, training Neural Network on Edge Impulse, Export and deploy TinyML on WIO 1. Collecting data from WIO \u0026 storing on Edge Impulse Installing dependencies (Windows)  Install Python 3 Install Node.js v14 or higher - install additional Node.js tools or-else install Microsoft Visual Sudio 2015 Open powershell as admin, install edge-impulse-cli  npm install -g edge-impulse-cli --force\rFor other OS please follow instructions from here.\nConnecting WIO to Edge Impulse  Connect WIO to computer using USB-C cable Enter bootloader by sliding power switch down twice in quick succession.  WIO will show up as a new USB drive named Arduino, copy latest released precompiled UF2 firmware to Arduino drive Start sending data to Edge Impulse, open a powershell and type  C:\\ edge-impulse-daemon\rFollow instructions on screen by logging into your Edge Impulse account and selecting a project.\nOpen the Edge Impulse project on a browser and see if WIO is connected  2. Storing Accelerometer data on Edge Impulse  Start collecting data from device:  Generate appropiate labels for each data point, click on start sampling. When the countdown starts, perform appropiate action on the WIO based on the label given Once a 10s data collection is complete, check the collected data section and click on hamberger icon and split sample  Split the sample into 1s chunks and click split  Repeat to have lots of data for each label Do the same for Test data (top-left) for each label  3. Create Impulse \u0026 Process/Clean up data \u0026 training NN  Create a new impulse (overall design of the project)  Generate Spectral Features - clean up your raw accelerometer data  Generate Features  Train your neural network using cleaned-up training data features from previous step  4. Testing your NN performance Click on Model Testing  Classify All\n5. Deploying your NN on WIO  Click on Deployment Select Arduino library  Build your Arduino library   Copy contents from src directory into your project\n  See implementation in EdgeImpulse folder\n  TinkerGen IDE Machine Learning on TinkerGen IDE in WIO Terminal (Seeed Studio) to recognize shake and roll two die\n  Navigate to TinkerGen IDE and create a free account.\n  Connect WIO terminal using USB-C cable and run CodeCraft Assistant\n  Navigate to Model Creation and create a new model using accelerometer data.\n  Start obtaining accelerometer data from WIO terminal for various labels by clicking on Data Acquisition. Note that the accelerometer data is collected for at least 2s which makes up 128 points (62.5Hz).   Collect lots of data, more data is better. Yes, it takes time. Do not skip or skimp on this step\n  Train your model using the collected data by clicking on Training and Deployment.\n  Look for accuracy of the model generated.\nDeploy your model by clicking on Programming  ","wordCount":"579","inLanguage":"en","datePublished":"2021-09-22T00:00:00-05:00","dateModified":"2021-09-22T00:00:00-05:00","author":{"@type":"Person","name":"Debashish Sahu"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/"},"publisher":{"@type":"Organization","name":"Debashish Sahu","logo":{"@type":"ImageObject","url":"https://www.debashishsahu.com/logo.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -124,9 +124,10 @@ WIO Terminal: Catan Die Roll TinyML
 <li>
 <a href=#4-testing-your-nn-performance aria-label="4. Testing your NN performance">4. Testing your NN performance</a></li>
 <li>
-<a href=#5-deploying-your-nn-on-wio aria-label="5. Deploying your NN on WIO">5. Deploying your NN on WIO</a>
+<a href=#5-deploying-your-nn-on-wio aria-label="5. Deploying your NN on WIO">5. Deploying your NN on WIO</a></li></ul>
 </li>
-</ul>
+<li>
+<a href=#tinkergen-ide aria-label="TinkerGen IDE">TinkerGen IDE</a>
 </li>
 </ul>
 </div>
@@ -238,9 +239,49 @@ WIO Terminal: Catan Die Roll TinyML
 <p><img loading=lazy src=https://github.com/debsahu/WIOCatanDieRoll/raw/main/docs/build_lib.png alt=Build-Library>
 </p>
 <ol start=4>
-<li>Copy contents from <strong>src</strong> directory into your project</li>
-<li>See implementation in <strong>EdgeImpulse</strong> folder</li>
+<li>
+<p>Copy contents from <strong>src</strong> directory into your project</p>
+</li>
+<li>
+<p>See implementation in <strong>EdgeImpulse</strong> folder</p>
+</li>
 </ol>
+<h2 id=tinkergen-ide>TinkerGen IDE<a hidden class=anchor aria-hidden=true href=#tinkergen-ide>#</a></h2>
+<p>Machine Learning on <strong>TinkerGen IDE</strong> in WIO Terminal (Seeed Studio) to recognize shake and roll two die</p>
+<ol>
+<li>
+<p>Navigate to <a href=https://ide.tinkergen.com/>TinkerGen IDE</a> and create a free account.</p>
+</li>
+<li>
+<p>Connect WIO terminal using USB-C cable and run <a href="https://ide.tinkergen.com/download/en/#:~:text=Mac%20v2.6.4.25-,Codecraft%20Assistant,-Codecraft%20Assistant%20is">CodeCraft Assistant</a></p>
+</li>
+<li>
+<p>Navigate to <strong>Model Creation</strong> and create a new model using accelerometer data.</p>
+</li>
+</ol>
+<p><img loading=lazy src=https://github.com/debsahu/WIOCatanDieRoll/raw/main/docs/ide_tinker_model_create.png alt=ide_tinker_model_create>
+</p>
+<ol start=4>
+<li>Start obtaining accelerometer data from WIO terminal for various labels by clicking on <strong>Data Acquisition</strong>. Note that the accelerometer data is collected for at least 2s which makes up 128 points (62.5Hz).</li>
+</ol>
+<p><img loading=lazy src=https://github.com/debsahu/WIOCatanDieRoll/raw/main/docs/ide_tinker_data_acqu.png alt=ide_tinker_data_acqu>
+</p>
+<ol start=5>
+<li>
+<p>Collect lots of data, more data is better. Yes, it takes time. Do not skip or skimp on this step</p>
+</li>
+<li>
+<p>Train your model using the collected data by clicking on <strong>Training and Deployment</strong>.</p>
+</li>
+</ol>
+<p><img loading=lazy src=https://github.com/debsahu/WIOCatanDieRoll/raw/main/docs/ide_tinker_training_deploy.png alt=ide_tinker_training_deploy>
+</p>
+<p>Look for accuracy of the model generated.</p>
+<ol start=7>
+<li>Deploy your model by clicking on <strong>Programming</strong></li>
+</ol>
+<p><img loading=lazy src=https://github.com/debsahu/WIOCatanDieRoll/raw/main/docs/ide_tinker_deploycode.png alt=ide_tinker_deploycode>
+</p>
 </div>
 <footer class=post-footer>
 <ul class=post-tags>
