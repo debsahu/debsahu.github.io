@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.debashishsahu.com/categories/</loc>
-    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/rainbird/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/smart/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/sprinkler/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/winterization/</loc>
+    <lastmod>2021-11-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/categories/</loc>
     <lastmod>2021-09-22T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/edge-impulse/</loc>
@@ -20,16 +47,10 @@
     <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
     <lastmod>2021-09-22T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/samd51/</loc>
     <lastmod>2021-09-22T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/seeed/</loc>
-    <lastmod>2021-09-22T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2021-09-22T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/tinyml/</loc>
@@ -81,9 +102,6 @@
     <lastmod>2021-03-15T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/sending-sensor-data-from-esp32-to-influxdb-local-access-time-series-database/</loc>
-    <lastmod>2021-03-15T10:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/wifi/</loc>
     <lastmod>2021-03-15T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/wpa2-enterprise/</loc>
@@ -143,9 +161,6 @@
     <loc>https://www.debashishsahu.com/tags/esp8266/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
-    <lastmod>2020-12-13T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/neopixels/</loc>
     <lastmod>2020-12-13T00:00:00-05:00</lastmod>
   </url><url>
@@ -186,9 +201,6 @@
     <lastmod>2020-11-30T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/pwm/</loc>
-    <lastmod>2020-11-30T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/smart/</loc>
     <lastmod>2020-11-30T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/bench/</loc>
