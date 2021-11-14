@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cloud on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/cloud/</link>
+    <description>Recent content in cloud on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energy Monitor | Emporia Vue in Home Assistant</title>
+      <link>https://www.debashishsahu.com/posts/energy-monitor-emporia-vue-in-home-assistant/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/energy-monitor-emporia-vue-in-home-assistant/</guid>
+      <description>    Using Emporia Vue to monitor enegry usage of whole house and several branches in the house.
+Emporia Vue Home Assistant Intergration  GitHub: magico13/ha-emporia-vue  </description>
+    </item>
+    
+  </channel>
+</rss>
