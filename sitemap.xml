@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.debashishsahu.com/tags/cloud/</loc>
-    <lastmod>2021-11-14T00:00:00-05:00</lastmod>
+    <loc>https://www.debashishsahu.com/tags/automation/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/hepa/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/ikea/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/integrating-pm-2-5-sensor-vindriktning-into-home-assistant/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/pm-2.5/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/posts/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/vindriktning/</loc>
+    <lastmod>2021-11-21T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.debashishsahu.com/tags/cloud/</loc>
     <lastmod>2021-11-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/emporia-vue/</loc>
@@ -17,16 +44,7 @@
     <loc>https://www.debashishsahu.com/posts/energy-monitor-emporia-vue-in-home-assistant/</loc>
     <lastmod>2021-11-14T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/home-assistant/</loc>
-    <lastmod>2021-11-14T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://www.debashishsahu.com/tags/monitor/</loc>
-    <lastmod>2021-11-14T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/posts/</loc>
-    <lastmod>2021-11-14T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://www.debashishsahu.com/tags/</loc>
     <lastmod>2021-11-14T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/wifi/</loc>
