@@ -18,7 +18,7 @@
 <link rel=mask-icon href=https://www.debashishsahu.com/logo.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.87.0">
+<meta name=generator content="Hugo 0.89.4">
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
 <style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
@@ -149,35 +149,35 @@ Talking to Twitter Using TwitterWebAPI for ESP8266
 <li>Install <a href=https://github.com/PaulStoffregen/Time>TimeLib library</a> and <a href=https://github.com/arduino-libraries/NTPClient>NTPClient library</a> using the same procedure.</li>
 </ul>
 <p>To use in your sketch include these lines.</p>
-<pre><code>#include &lt;TwitterWebAPI.h&gt;
+<pre tabindex=0><code>#include &lt;TwitterWebAPI.h&gt;
 #include &lt;NTPClient.h&gt;
 #include &lt;WiFiUdp.h&gt;
 </code></pre><p>Define Twitter GET request timeout (optional, default is 1500ms)</p>
-<pre><code>#define TWI_TIMEOUT 2000  // in msec
+<pre tabindex=0><code>#define TWI_TIMEOUT 2000  // in msec
 </code></pre><p>Setup correct timezone to correct the time obtained from NTP server.</p>
-<pre><code>const char *ntp_server = &quot;pool.ntp.org&quot;;  // time1.google.com, time.nist.gov, pool.ntp.org
+<pre tabindex=0><code>const char *ntp_server = &quot;pool.ntp.org&quot;;  // time1.google.com, time.nist.gov, pool.ntp.org
 int timezone = -5;                        // US Eastern timezone -05:00 HRS
 </code></pre><p>You <strong>WILL</strong> need <strong>Consumer Key, Consumer Secret, Access Token and Access Token Secret</strong> that can be obtained from the above steps.</p>
-<pre><code>// Values below are just a placeholder
+<pre tabindex=0><code>// Values below are just a placeholder
 // Obtain these by creating an app @ https://apps.twitter.com/
   static char const consumer_key[]    = &quot;gkyjeH3EF32NJfiuheuyf8623&quot;;
   static char const consumer_sec[]    = &quot;HbY5h$N86hg5jjd987HGFsRjJcMkjLaJw44628sOh353gI3H23&quot;;
   static char const accesstoken[]     = &quot;041657084136508135-F3BE63U4Y6b346kj6bnkdlvnjbGsd3V&quot;;
   static char const accesstoken_sec[] = &quot;bsekjH8YT3dCWDdsgsdHUgdBiosesDgv43rknU4YY56Tj&quot;;
 </code></pre><p>Declare clients before setup().</p>
-<pre><code>WiFiUDP ntpUDP;
+<pre tabindex=0><code>WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, ntp_server, timezone*3600, 60000);  // NTP server pool, offset (in seconds), update interval (in milliseconds)
 TwitterClient tcr(timeClient, consumer_key, consumer_sec, accesstoken, accesstoken_sec);
 </code></pre><p>In setup make sure to start NTP connection. A correct time is required to be able to post/search on Twitter.</p>
-<pre><code>tcr.startNTP();
+<pre tabindex=0><code>tcr.startNTP();
 </code></pre><p><strong>Search for a key word</strong></p>
-<pre><code>std::string search_str;
+<pre tabindex=0><code>std::string search_str;
 String tmsg = tcr.searchTwitter(search_str);
 </code></pre><p><strong>Search Twitter User Info (eg follower count)</strong></p>
-<pre><code>std::string search_str;
+<pre tabindex=0><code>std::string search_str;
 tcr.searchUser(search_str);
 </code></pre><p><strong>Post to Twitter</strong></p>
-<pre><code>std::string twitter_post_msg;
+<pre tabindex=0><code>std::string twitter_post_msg;
 tcr.tweet(twitter_post_msg);
 </code></pre><h3 id=example-twittertweetsearchfswifimgr>Example: TwitterTweetSearchFSWiFiMgr<a hidden class=anchor aria-hidden=true href=#example-twittertweetsearchfswifimgr>#</a></h3>
 <p>In addition to <a href=https://github.com/debsahu/TwitterWebAPI>TwitterWebAPI</a>, make sure that <a href=https://github.com/PaulStoffregen/Time>TimeLib library</a> and <a href=https://github.com/arduino-libraries/NTPClient>NTPClient library</a> is installed, and install the following libraries</p>

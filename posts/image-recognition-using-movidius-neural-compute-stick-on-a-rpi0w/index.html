@@ -19,7 +19,7 @@ GitHub: debsahu/PiCamMovidius Set up NCSDK API  Install required packages on Pi 
 <link rel=mask-icon href=https://www.debashishsahu.com/logo.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.87.0">
+<meta name=generator content="Hugo 0.89.4">
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
 <style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
@@ -132,81 +132,81 @@ Image Recognition Using Movidius Neural Compute Stick on a RPi0W
 <ul>
 <li>Install required packages on Pi</li>
 </ul>
-<pre><code>sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev
+<pre tabindex=0><code>sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev
 </code></pre><ul>
 <li>Clone NCSDK</li>
 </ul>
-<pre><code>cd ~
+<pre tabindex=0><code>cd ~
 git clone https://github.com/movidius/ncsdk
 </code></pre><ul>
 <li>Compile and install NCSDK’s API framework</li>
 </ul>
-<pre><code>cd ~/ncsdk/api/src
+<pre tabindex=0><code>cd ~/ncsdk/api/src
 make
 sudo make install
 </code></pre><ul>
 <li>Test installation using sample code from NC App Zoo</li>
 </ul>
-<pre><code>cd ~
+<pre tabindex=0><code>cd ~
 git clone https://github.com/movidius/ncappzoo
 cd ncappzoo/apps/hello_ncs_py
 python3 hello_ncs.py
 </code></pre><p>Output should look something like this:</p>
-<pre><code>Hello NCS! Device opened normally.
+<pre tabindex=0><code>Hello NCS! Device opened normally.
 Goodbye NCS! Device closed normally.
 NCS device working.
 </code></pre><h3 id=install-paho-mqtt>Install Paho-MQTT<a hidden class=anchor aria-hidden=true href=#install-paho-mqtt>#</a></h3>
 <ul>
 <li>Use pip3 to install Paho-MQTT</li>
 </ul>
-<pre><code>pip3 install paho-mqtt
+<pre tabindex=0><code>pip3 install paho-mqtt
 sudo pip3 install paho-mqtt
 </code></pre><h3 id=using-these-examples>Using these examples<a hidden class=anchor aria-hidden=true href=#using-these-examples>#</a></h3>
 <ul>
 <li>Clone this code</li>
 </ul>
-<pre><code>cd ~
+<pre tabindex=0><code>cd ~
 git clone https://github.com/debsahu/PiCamMovidius
 </code></pre><h4 id=native-mobilessd>Native MobileSSD<a hidden class=anchor aria-hidden=true href=#native-mobilessd>#</a></h4>
 <ul>
 <li>Enter into following directory</li>
 </ul>
-<pre><code>cd ~/PiCamMovidius/native/picam
+<pre tabindex=0><code>cd ~/PiCamMovidius/native/picam
 </code></pre><ul>
 <li>Edit picam.py with appropiate MQTT server IP, port and topic and run python script</li>
 </ul>
-<pre><code>python3 picam.py
+<pre tabindex=0><code>python3 picam.py
 </code></pre><h4 id=opencv-32-yolov2>OpenCV 3.2 YoLoV2<a hidden class=anchor aria-hidden=true href=#opencv-32-yolov2>#</a></h4>
 <ul>
 <li>Install pre-compiled <a href=https://yoursunny.com/t/2018/install-OpenCV3-PiZero/>OpenCV 3.2</a></li>
 <li>Add to apt-source list</li>
 </ul>
-<pre><code>echo 'deb [trusted=yes] http://dl.bintray.com/yoursunny/PiZero stretch-backports main' | sudo tee  /etc/apt/sources.list.d/bintray-yoursunny-PiZero.list
+<pre tabindex=0><code>echo 'deb [trusted=yes] http://dl.bintray.com/yoursunny/PiZero stretch-backports main' | sudo tee  /etc/apt/sources.list.d/bintray-yoursunny-PiZero.list
 </code></pre><ul>
 <li>Update apt</li>
 </ul>
-<pre><code>sudo apt update
+<pre tabindex=0><code>sudo apt update
 </code></pre><ul>
 <li>Install OpenCV</li>
 </ul>
-<pre><code>sudo apt install python3-opencv
+<pre tabindex=0><code>sudo apt install python3-opencv
 </code></pre><ul>
 <li>Verify Install</li>
 </ul>
-<pre><code>python3 -c 'import cv2; print(cv2.__version__)'
+<pre tabindex=0><code>python3 -c 'import cv2; print(cv2.__version__)'
 </code></pre><ul>
 <li>Enable V4L driver</li>
 </ul>
-<pre><code>sudo modprobe bcm2835-v4l2
+<pre tabindex=0><code>sudo modprobe bcm2835-v4l2
 </code></pre><ul>
 <li>Enter into following directory</li>
 </ul>
-<pre><code>cd ~/PiCamMovidius/ocv3
+<pre tabindex=0><code>cd ~/PiCamMovidius/ocv3
 make
 </code></pre><ul>
 <li>Edit picam.py with appropiate MQTT server IP, port and topic and run python script</li>
 </ul>
-<pre><code>python3 picam.py
+<pre tabindex=0><code>python3 picam.py
 </code></pre>
 </div>
 <footer class=post-footer>

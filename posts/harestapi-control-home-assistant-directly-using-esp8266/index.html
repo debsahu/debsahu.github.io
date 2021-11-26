@@ -19,7 +19,7 @@ Idea  Control components on Home Assistant directly from ESP8266.  Implementatio
 <link rel=mask-icon href=https://www.debashishsahu.com/logo.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.87.0">
+<meta name=generator content="Hugo 0.89.4">
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
 <style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
@@ -143,16 +143,16 @@ HARestAPI: Control Home Assistant Directly Using ESP8266
 <li>In Arduino, Goto Sketch -> Include Library -> Add .ZIP Library&mldr; and point to the zip file downloaded.</li>
 </ul>
 <p>To use in your sketch include these lines.</p>
-<pre><code>#include &lt;HARestAPI.h&gt;
+<pre tabindex=0><code>#include &lt;HARestAPI.h&gt;
 </code></pre><p>Declare clients before setup().
 If using HA with no SSL declare WiFiClient and pass it to HARestAPI.</p>
-<pre><code>WiFiClient client;
+<pre tabindex=0><code>WiFiClient client;
 HARestAPI ha(client);
 </code></pre><p>If using HA with SSL declare WiFiClientSecure and pass it to HARestAPI.</p>
-<pre><code>WiFiClientSecure sclient;
+<pre tabindex=0><code>WiFiClientSecure sclient;
 HARestAPI ha(sclient);
 </code></pre><p>In setup make sure to setup IP and port of HA server. Default is 8123 and if using SSL 443.</p>
-<pre><code>const char* ha_ip = &quot;192.168.0.xxx&quot;;
+<pre tabindex=0><code>const char* ha_ip = &quot;192.168.0.xxx&quot;;
 uint16_t ha_port = 8123;
 const char* ha_pwd = &quot;HA_PASSWORD&quot;; //long-lived password. On HA, Profile &gt; Long-Lived Access Tokens &gt; Create Token
 
@@ -166,23 +166,23 @@ ha.setFingerPrint(fingerprint);
 <p><strong>Home Assistant</strong></p>
 <p>URL: &ldquo;/api/services/light/turn_on&rdquo; (HA -> Developer Tools -> Services -> Service)</p>
 <p>Component: &ldquo;light.bedroom_light&rdquo; (HA -> Developer Tools -> Services -> Entity)</p>
-<pre><code>    // 1. Send custom DATA to HA
+<pre tabindex=0><code>    // 1. Send custom DATA to HA
     ha.sendCustomHAData(&quot;/api/services/light/turn_on&quot;, &quot;{\&quot;entity_id\&quot;:\&quot;light.bedroom_light\&quot;}&quot;);
-</code></pre><pre><code>    // 2. Set component and send light to HA // Will set tmpURL to &quot;/api/services/light/turn_on&quot;
+</code></pre><pre tabindex=0><code>    // 2. Set component and send light to HA // Will set tmpURL to &quot;/api/services/light/turn_on&quot;
     ha.setComponent(&quot;light.bedroom_light&quot;);
     ha.sendHALight(true);
-</code></pre><pre><code>    // 3. Set light on/off as bool and component is 2nd input, Send Light to HA 
+</code></pre><pre tabindex=0><code>    // 3. Set light on/off as bool and component is 2nd input, Send Light to HA 
     //        Will set tmpURL to &quot;/api/services/light/turn_on&quot;
     ha.sendHALight(true, &quot;light.bedroom_light&quot;);
-</code></pre><pre><code>    // 4. Set component and URL is 2nd input, Send custom URL to HA
+</code></pre><pre tabindex=0><code>    // 4. Set component and URL is 2nd input, Send custom URL to HA
     ha.setComponent(&quot;light.bedroom_light&quot;);
     ha.sendHAURL(&quot;/api/services/light/turn_on&quot;);
-</code></pre><pre><code>    // 5. Set URL and Send component to HA
+</code></pre><pre tabindex=0><code>    // 5. Set URL and Send component to HA
     ha.setURL(&quot;/api/services/light/turn_on&quot;);
     ha.sendHAComponent(&quot;light.bedroom_light&quot;);
-</code></pre><pre><code>    // 6. Set URL 1st argument, component 2nd, send to HA
+</code></pre><pre tabindex=0><code>    // 6. Set URL 1st argument, component 2nd, send to HA
     ha.sendHAComponent(&quot;/api/services/light/turn_on&quot;, &quot;light.bedroom_light&quot;);
-</code></pre><pre><code>    // 7. Set URL , Set component, send to HA
+</code></pre><pre tabindex=0><code>    // 7. Set URL , Set component, send to HA
     ha.setURL(&quot;/api/services/light/turn_on&quot;);
     ha.setComponent(&quot;light.bedroom_light&quot;);
     ha.sendHA();
