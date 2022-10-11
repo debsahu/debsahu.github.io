@@ -16,7 +16,7 @@
       <description>⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️ Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.
 Connecting to Samsung ARTIK Cloud https://my.artik.cloud/
 GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with ARTIK Cloud
- Connects to ARTIK Cloud via MQTT SSL port 8883 ARTIK Cloud is connected to all assistant platforms, integration is seamless Compiles on ESP8266-arduino core v2.</description>
+Connects to ARTIK Cloud via MQTT SSL port 8883 ARTIK Cloud is connected to all assistant platforms, integration is seamless Compiles on ESP8266-arduino core v2.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with AR
       <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</guid>
-      <description>     Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips. Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: https://github.com/debsahu/E131_PixelPusher that displays strips of pictures over time. These bright lights are registered on the sensors of camera yielding out of the world photos!  </description>
+      <description> Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips. Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: https://github.com/debsahu/E131_PixelPusher that displays strips of pictures over time. These bright lights are registered on the sensors of camera yielding out of the world photos! </description>
     </item>
     
     <item>
@@ -36,9 +36,9 @@ GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with AR
       <guid>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</guid>
       <description>Here we try to push E1.31 UDP data received wirelessly via ESP8266 and pushed to NeoPixel in the fastest way possible.
 Other projects with E1.31 support:
- GitHub: forkineye/ESPixelStick GitHub: Aircoookie/WLED GitHub: toblum/McLighting  I also demonstrate how to setup and use Jinx!, ledfx and xLights
+GitHub: forkineye/ESPixelStick GitHub: Aircoookie/WLED GitHub: toblum/McLighting I also demonstrate how to setup and use Jinx!, ledfx and xLights
 GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for ESP8266/ESP32
- Completely Async Web-interface to set starting universe, unicast/umulticast, total number of universes WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Subscribes to E131 multicast Connect RX/GPIO3 to DIN of NeoPixel strip, and any PIN (&amp;lt;GPIO32) specified for ESP32 Upload included firmware.</description>
+Completely Async Web-interface to set starting universe, unicast/umulticast, total number of universes WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Subscribes to E131 multicast Connect RX/GPIO3 to DIN of NeoPixel strip, and any PIN (&amp;lt;GPIO32) specified for ESP32 Upload included firmware.</description>
     </item>
     
   </channel>

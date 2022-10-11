@@ -14,7 +14,7 @@
       
       <guid>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</guid>
       <description>The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.
-GitHub: debsahu/PegasusTV Goal:  Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant  Features:  Uses D2 to control 2N2222 transistor Control using Web and MQTT API Completely Async WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Connect PIN_CTRL pin to base of 2N2222, collector to Probe and emitter to GND  Hardware Software Overview Libraries Needed platformio.</description>
+GitHub: debsahu/PegasusTV Goal: Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant Features: Uses D2 to control 2N2222 transistor Control using Web and MQTT API Completely Async WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Connect PIN_CTRL pin to base of 2N2222, collector to Probe and emitter to GND Hardware Software Overview Libraries Needed platformio.</description>
     </item>
     
   </channel>

@@ -15,7 +15,7 @@
       <guid>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</guid>
       <description>Home Assistant Switch for 8 Relays: PCF8574 can be used to extend the GPIO of ESP8266/32 and here we use 8 ports of PCF8574 to control 8 Relay module
 GitHub: debsahu/PCF8574_8Relay Home Assistant Switch for 8 Relays
- Code can compile on ESP8266/32 PCF8574 can be used to extend the GPIO of ESP8266/32 8 ports of PCF8574 is connected to 8 Relay module  Libraries Needed platformio.</description>
+Code can compile on ESP8266/32 PCF8574 can be used to extend the GPIO of ESP8266/32 8 ports of PCF8574 is connected to 8 Relay module Libraries Needed platformio.ini is included, use PlatformIO and it will take care of installing the following libraries.</description>
     </item>
     
   </channel>

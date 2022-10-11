@@ -5,10 +5,10 @@
     <loc>https://www.debashishsahu.com/tags/automation/</loc>
     <lastmod>2021-11-21T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/</loc>
+    <loc>https://www.debashishsahu.com/tags/debashish-sahu/</loc>
     <lastmod>2021-11-21T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/debashish-sahu/</loc>
+    <loc>https://www.debashishsahu.com/</loc>
     <lastmod>2021-11-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/hepa/</loc>
@@ -110,10 +110,10 @@
     <loc>https://www.debashishsahu.com/tags/esp32/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/iot/</loc>
+    <loc>https://www.debashishsahu.com/categories/iot/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/iot/</loc>
+    <loc>https://www.debashishsahu.com/tags/iot/</loc>
     <lastmod>2021-08-23T12:00:00-04:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/mqtt/</loc>
@@ -266,7 +266,7 @@
     <loc>https://www.debashishsahu.com/tags/halloween/</loc>
     <lastmod>2020-10-18T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/halloween-special-esp8266-based-speakers-motion-sensing-leds-pumpkin-carving-with-powertools/</loc>
+    <loc>https://www.debashishsahu.com/posts/halloween-special-esp8266-based-speakers-motion-sensing--leds-pumpkin-carving-with-powertools/</loc>
     <lastmod>2020-10-18T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/motion-sensor/</loc>
@@ -596,7 +596,7 @@
     <loc>https://www.debashishsahu.com/tags/smoke-alarm/</loc>
     <lastmod>2018-01-23T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</loc>
+    <loc>https://www.debashishsahu.com/posts/extreme-power--save-mode-esp8266-powered-on-after-external-interrupt/</loc>
     <lastmod>2018-01-22T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</loc>

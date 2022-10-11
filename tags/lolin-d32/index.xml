@@ -16,7 +16,7 @@
       <description>Instead of sending data to services in the cloud, here we send sensor data to local InfluxDB database. Grafana is used to read data from InfluxDB and alert thresholds are set to send reactive alerts.
 InfluxDB Download and Installation: official docs
 Docker Download and Installation: official docs
-ESP32 connecting to WPA2-Enterprise   Hardware  ESP32 TTGo T-Energy SSD1306 OLED display BME280 sensor  Software Dependencies Listed below are the dpendencies used by Arduino IDE, but use PlatformIO instead!</description>
+ESP32 connecting to WPA2-Enterprise Hardware ESP32 TTGo T-Energy SSD1306 OLED display BME280 sensor Software Dependencies Listed below are the dpendencies used by Arduino IDE, but use PlatformIO instead!</description>
     </item>
     
     <item>
@@ -27,10 +27,10 @@ ESP32 connecting to WPA2-Enterprise   Hardware  ESP32 TTGo T-Energy SSD1306 OLED
       <guid>https://www.debashishsahu.com/posts/connect-esp32-to-wpa2-enterprise-wifi-eduroam-university-of-michigan-wireless/</guid>
       <description>Walkthrough of minimal settings for ESP32 to connect to WPA2-Enterprise WiFi at University of Michigan (eduroam)
 GitHub: debsahu/Esp32_EduWiFi Minimal settings for ESP32 to connect to University of Michigan WiFi (MWireless/eduroam)
- MSetup   Go to MSetup
-  Log in using University of Michigan credentials
-  Select Other Device and log in again if needed
-  Enter Device Name, MAC Address, uniqname will already be selected, Advanced Options &amp;gt; Network Type &amp;gt; Internet Access After above settings are enterd, click on Register my device</description>
+MSetup Go to MSetup
+Log in using University of Michigan credentials
+Select Other Device and log in again if needed
+Enter Device Name, MAC Address, uniqname will already be selected, Advanced Options &amp;gt; Network Type &amp;gt; Internet Access After above settings are enterd, click on Register my device</description>
     </item>
     
     <item>
@@ -39,8 +39,8 @@ GitHub: debsahu/Esp32_EduWiFi Minimal settings for ESP32 to connect to Universit
       <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
-      <description>    Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
-Software: ESPHome  </description>
+      <description> Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
+Software: ESPHome </description>
     </item>
     
   </channel>

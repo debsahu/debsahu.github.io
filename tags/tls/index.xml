@@ -15,7 +15,8 @@
       <guid>https://www.debashishsahu.com/posts/esp8266-esp32-connecting-to-ssl-tlsv1-2-secured-mosquitto-mqtt-broker/</guid>
       <description>Demonstration on ESP8266 &amp;amp; ESP32 using SSL/TLSv1.2 two-way handshake with secured mosquitto broker. SSL is preferred way of encryption of communication between devices over the internet. Here we secure a mosquitto MQTT broker and connect to it via ESP8266 &amp;amp; ESP32 that do a two-way handshake.
 Andreas Spiess on ESP devices &amp;amp; SSL: https://www.youtube.com/watch?v=Wm1xKj4bKsY
-GitHub: debsahu/ESP_MQTT_Secure ⚠️ ⚠️ ⚠️ Will not be maintained/updated ⚠️ ⚠️ ⚠️</description>
+GitHub: debsahu/ESP_MQTT_Secure ⚠️ ⚠️ ⚠️ Will not be maintained/updated ⚠️ ⚠️ ⚠️
+Demonstration on ESP8266 &amp;amp; ESP32 using SSL/TLSv1.</description>
     </item>
     
   </channel>

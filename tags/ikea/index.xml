@@ -14,7 +14,7 @@
       
       <guid>https://www.debashishsahu.com/posts/integrating-pm-2-5-sensor-vindriktning-into-home-assistant/</guid>
       <description>ESPNow connectivity for the Ikea VINDRIKTNING Most of the code is borrored from Hypfer/esp8266-vindriktning-particle-sensor that uses an ESP8266 to read from GPIO14(RX) and send via ESPNow to a EspNow Server (check debsahu/ESPNowMQTT), which sends it out to a MQTT broker.
-Hardware  IKEA VINDRIKTNING ($11.99) ESP8266 ($2.00) Dupount cables ($0.50) Soldering Iron &amp;amp; solder  Connections  5V on VINDRIKTNING to 5V on ESP8266 VIN GND on VINDRIKTNING to GND on ESP8266 GND REST on VINDRIKTNING to GPIO14 on ESP8266  Original idea from Home Assistant Thread  GitHub: Hypfer/esp8266-vindriktning-particle-sensor  ESPHome code  ESPHome PM1006 Example ESPHome Config/Code  ESPNow code Source: GitHub: debsahu/esp8266-vindriktning-particle-sensor</description>
+Hardware IKEA VINDRIKTNING ($11.99) ESP8266 ($2.00) Dupount cables ($0.50) Soldering Iron &amp;amp; solder Connections 5V on VINDRIKTNING to 5V on ESP8266 VIN GND on VINDRIKTNING to GND on ESP8266 GND REST on VINDRIKTNING to GPIO14 on ESP8266 Original idea from Home Assistant Thread GitHub: Hypfer/esp8266-vindriktning-particle-sensor ESPHome code ESPHome PM1006 Example ESPHome Config/Code ESPNow code Source: GitHub: debsahu/esp8266-vindriktning-particle-sensor</description>
     </item>
     
   </channel>

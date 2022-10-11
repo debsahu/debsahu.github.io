@@ -13,7 +13,7 @@
       <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</guid>
-      <description>Radon  Radon is everywhere, see map Naturally-occurring radioactive gas - causes lung cancer Inert, colorless and odorless Naturally in the atmosphere in trace amounts  Outdoors: radon disperses rapidly   Most radon exposure occurs inside homes, schools and workplaces  Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation Can be controlled and managed with proven, cost-effective techniques</description>
+      <description>Radon Radon is everywhere, see map Naturally-occurring radioactive gas - causes lung cancer Inert, colorless and odorless Naturally in the atmosphere in trace amounts Outdoors: radon disperses rapidly Most radon exposure occurs inside homes, schools and workplaces Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation Can be controlled and managed with proven, cost-effective techniques Radon monitoring Hardware Airthings Wave Continuous radon monitoring Long term monitoring LEDs color – radon level Battery Operated Bluetooth BLE ESP32 - lolin D32 (can use any ESP32) MQTT Server - Mosquitto Software Python script to read values from Airthings Wave: Wave-Reader Home Assistant Custom Component: sensor.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       <guid>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</guid>
       <description>Home Assistant Switch for 8 Relays: PCF8574 can be used to extend the GPIO of ESP8266/32 and here we use 8 ports of PCF8574 to control 8 Relay module
 GitHub: debsahu/PCF8574_8Relay Home Assistant Switch for 8 Relays
- Code can compile on ESP8266/32 PCF8574 can be used to extend the GPIO of ESP8266/32 8 ports of PCF8574 is connected to 8 Relay module  Libraries Needed platformio.</description>
+Code can compile on ESP8266/32 PCF8574 can be used to extend the GPIO of ESP8266/32 8 ports of PCF8574 is connected to 8 Relay module Libraries Needed platformio.ini is included, use PlatformIO and it will take care of installing the following libraries.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ GitHub: debsahu/PCF8574_8Relay Home Assistant Switch for 8 Relays
       <guid>https://www.debashishsahu.com/posts/using-esp8266-to-call-restful-api-from-theride-to-get-real-time-bus-data/</guid>
       <description>Here is a tutorial on how to call RESTful API on ESP8266 and process the data using ArduinoJSON. This data is visually represented in a NeoPixel ring for easy tracking of 3 buses approaching a certain stop. This code also sends MQTT messages with the received data.
 debsahu/RESTful-Ride Using ESP8266 to call RESTful API from http://TheRide.org to get real-time BUS data
-Features:  Easy to read interface Fast and Responsive Portable, i.</description>
+Features: Easy to read interface Fast and Responsive Portable, i.</description>
     </item>
     
     <item>
@@ -45,8 +45,8 @@ Features:  Easy to read interface Fast and Responsive Portable, i.</description>
       
       <guid>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</guid>
       <description>Idea To convert an automatic trash can into a smart one.
-Hardware  Automatic Trash Can Wemos D1 mini (ESP8266) 2N2222 transistor  Implementation Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in https://github.com/debsahu/SmartTrashCan to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.
-GitHub: debsahu/SmartTrashCan Dependencies    Library Link Use     Wemo Switch Emulator Library https://github.</description>
+Hardware Automatic Trash Can Wemos D1 mini (ESP8266) 2N2222 transistor Implementation Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in https://github.com/debsahu/SmartTrashCan to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.
+GitHub: debsahu/SmartTrashCan Dependencies Library Link Use Wemo Switch Emulator Library https://github.</description>
     </item>
     
     <item>
@@ -55,8 +55,8 @@ GitHub: debsahu/SmartTrashCan Dependencies    Library Link Use     Wemo Switch E
       <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/using-gestures-to-control-lights-on-home-assistant/</guid>
-      <description>    Getting one&amp;rsquo;s hands on APDS9960 is very easy, that can be used to detect hand gestures. Here we use this sensor to control lights on Home Assistant based on a gesture observed on sensor.
-Software Libraries used:  HARestAPI GitHub: debsahu/HARestAPI APDS9960 GitHub: SteveQuinn1/SparkFun_APDS-9960_Sensor_Arduino_Library SSD1306 OLED I2C GitHub: ThingPulse/esp8266-oled-ssd1306   </description>
+      <description> Getting one&amp;rsquo;s hands on APDS9960 is very easy, that can be used to detect hand gestures. Here we use this sensor to control lights on Home Assistant based on a gesture observed on sensor.
+Software Libraries used: HARestAPI GitHub: debsahu/HARestAPI APDS9960 GitHub: SteveQuinn1/SparkFun_APDS-9960_Sensor_Arduino_Library SSD1306 OLED I2C GitHub: ThingPulse/esp8266-oled-ssd1306 </description>
     </item>
     
     <item>
@@ -65,8 +65,8 @@ Software Libraries used:  HARestAPI GitHub: debsahu/HARestAPI APDS9960 GitHub: S
       <pubDate>Sat, 07 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
-      <description>    Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a TCS34725 color sensor to read colors and change a RGB light in Home Assistant to the color observed.
-Hardware  TCS34725 color sensor SSD 1306 OLED Wemos D1 mini (ESP8266)  Software  RGB Lights connected to Home Assistant  toblum/McLighting Aircoookie/WLED  </description>
+      <description> Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a TCS34725 color sensor to read colors and change a RGB light in Home Assistant to the color observed.
+Hardware TCS34725 color sensor SSD 1306 OLED Wemos D1 mini (ESP8266) Software RGB Lights connected to Home Assistant toblum/McLighting Aircoookie/WLED </description>
     </item>
     
     <item>

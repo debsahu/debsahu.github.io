@@ -13,7 +13,7 @@
       <pubDate>Sun, 12 Mar 2017 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</guid>
-      <description>Lets turn on and off low powered fan running at low (&amp;lt;20V) DC voltages. We shall use a MOSFET to achieve this. Hardware  IRLML0030PBF ATTiny85 2-pin 12V Fan  Wiring MOSFETs have three terminals Drain (D), Source (S) and Gate (G), where source is connected to ground and the +12V or +5V along with load (Fan) is connected to drain. The MOSFET is on when gate voltage is higher than 1.</description>
+      <description>Lets turn on and off low powered fan running at low (&amp;lt;20V) DC voltages. We shall use a MOSFET to achieve this. Hardware IRLML0030PBF ATTiny85 2-pin 12V Fan Wiring MOSFETs have three terminals Drain (D), Source (S) and Gate (G), where source is connected to ground and the +12V or +5V along with load (Fan) is connected to drain. The MOSFET is on when gate voltage is higher than 1.</description>
     </item>
     
   </channel>

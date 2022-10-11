@@ -23,9 +23,9 @@ I use a stained cedar picket fence, 3D printed letters and photo clip to create 
       <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/ultimate-guide-to-permanent-holiday-lights-using-neopixels-ws2812b-leds/</guid>
-      <description>    Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs
-Hardware  LEDs: https://amzn.to/2Lu4m3P Aluminum Channels: https://amzn.to/2Knajio 18/2 wire: https://amzn.to/348I1zq 18/3 wire: https://amzn.to/37YNCJM Control Box: https://amzn.to/2KjfakW 5v 60A Power Supply: https://amzn.to/2KmRHiu 25ft extension cord: https://amzn.to/3840RIS Wire nuts: https://amzn.to/3oO1Vrb BME280(optional): https://amzn.to/3p15pHd  PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb
-Software  WELD - GitHub: Aircoookie/WLED  WLED User-mod for BME/P 280:  </description>
+      <description> Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs
+Hardware LEDs: https://amzn.to/2Lu4m3P Aluminum Channels: https://amzn.to/2Knajio 18/2 wire: https://amzn.to/348I1zq 18/3 wire: https://amzn.to/37YNCJM Control Box: https://amzn.to/2KjfakW 5v 60A Power Supply: https://amzn.to/2KmRHiu 25ft extension cord: https://amzn.to/3840RIS Wire nuts: https://amzn.to/3oO1Vrb BME280(optional): https://amzn.to/3p15pHd PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb
+Software WELD - GitHub: Aircoookie/WLED WLED User-mod for BME/P 280: </description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@ Software  WELD - GitHub: Aircoookie/WLED  WLED User-mod for BME/P 280:  </descri
       <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/epoxy-resin-holiday-lights-night-lamp-diy-resin-led-decor-wled/</guid>
-      <description>Board Prep    WLED Software: GitHub: Aircoookie/WLED
+      <description>Board Prep WLED Software: GitHub: Aircoookie/WLED
 PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb</description>
     </item>
     
@@ -44,8 +44,8 @@ PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb</descrip
       <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
-      <description>    Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
-Software: ESPHome  </description>
+      <description> Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
+Software: ESPHome </description>
     </item>
     
     <item>
@@ -63,9 +63,9 @@ Software: ESPHome  </description>
       <pubDate>Sat, 24 Oct 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</guid>
-      <description>    DIY Faux wood-beam lights mode from cedar fence pickets. Light is controlled by Sonoff Mini.
+      <description> DIY Faux wood-beam lights mode from cedar fence pickets. Light is controlled by Sonoff Mini.
 Pendent Lights: amazon
-Software: ESPHome  </description>
+Software: ESPHome </description>
     </item>
     
     <item>
@@ -83,8 +83,8 @@ Software: ESPHome  </description>
       <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</guid>
-      <description>    Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
-Inspired from bigclive&amp;rsquo;s project   </description>
+      <description> Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
+Inspired from bigclive&amp;rsquo;s project </description>
     </item>
     
   </channel>

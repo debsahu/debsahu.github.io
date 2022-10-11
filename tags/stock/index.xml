@@ -15,7 +15,7 @@
       <guid>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
       <description>A simple Arduino library that retrieves live stock prices from www.robinhood.com in JSON format and processes it for ESP8266. In one example, we demonstrate a whole bunch of stock prices scrolling through a dot-matrix display.
 Github: debsahu/RobinhoodAPI An Arduino library to talk to Robin Hood using non-documented Rest API made for ESP8266. Some unofficial documentaion by @sanko is available at here]
-Using the Library  Download this GitHub library.</description>
+Using the Library Download this GitHub library. In Arduino, Goto Sketch -&amp;gt; Include Library -&amp;gt; Add .</description>
     </item>
     
     <item>

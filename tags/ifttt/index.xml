@@ -13,7 +13,7 @@
       <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
-      <description>Idea:  Use ESP8266 to talk to Twitter Get User Data or Tweet or Search Twitter Display the data on a Dot-Matrix display  Implementation I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.</description>
+      <description>Idea: Use ESP8266 to talk to Twitter Get User Data or Tweet or Search Twitter Display the data on a Dot-Matrix display Implementation I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       
       <guid>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
       <description>Let’s say that you don’t have your smartphone around and someone mentions you on twitter. Wouldn’t it be nice to have a display that automatically reads your twitter mentions and show it on a scrolling display? So let’s build a internet controlled (IoT) dot-matrix display that does this for us using an ESP8266.
-The plan to accomplish this is as follows:  Someone mentions us on twitter (in my case @debsahu) IF This Then That (IFTTT) tracks these mentions and posts this data on Adafruit.</description>
+The plan to accomplish this is as follows: Someone mentions us on twitter (in my case @debsahu) IF This Then That (IFTTT) tracks these mentions and posts this data on Adafruit.</description>
     </item>
     
   </channel>
