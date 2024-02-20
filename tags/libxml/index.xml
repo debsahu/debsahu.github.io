@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>libXML on Debashish Sahu</title>
+    <title>LibXML on Debashish Sahu</title>
     <link>https://www.debashishsahu.com/tags/libxml/</link>
-    <description>Recent content in libXML on Debashish Sahu</description>
+    <description>Recent content in LibXML on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sat, 01 Dec 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/libxml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Home Assistant Web Scraper Sensor</title>
