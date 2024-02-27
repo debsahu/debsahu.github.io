@@ -6,16 +6,15 @@
     <description>Recent content in SAMD51 on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/samd51/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0500</lastBuildDate>
+    <atom:link href="https://www.debashishsahu.com/tags/samd51/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WIO Terminal: Catan Die Roll TinyML</title>
       <link>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</guid>
       <description>Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)
 GitHub: debsahu/WIOCatanDieRoll Objective When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously Hardware WIO Terminal (Seeed Studio) USB-C cable Software WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port.</description>
     </item>
-    
   </channel>
 </rss>

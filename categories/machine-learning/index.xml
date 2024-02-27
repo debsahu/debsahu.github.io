@@ -6,45 +6,38 @@
     <description>Recent content in Machine Learning on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0500</lastBuildDate>
+    <atom:link href="https://www.debashishsahu.com/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WIO Terminal: Catan Die Roll TinyML</title>
       <link>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</guid>
       <description>Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)
 GitHub: debsahu/WIOCatanDieRoll Objective When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously Hardware WIO Terminal (Seeed Studio) USB-C cable Software WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port.</description>
     </item>
-    
     <item>
       <title>Machine Learning to Filter Out Background Noise RTX Voice</title>
       <link>https://www.debashishsahu.com/posts/machine-learning-to-filter-out-background-noise-rtx-voice/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/posts/machine-learning-to-filter-out-background-noise-rtx-voice/</guid>
       <description>A demo for RTX voice to filter out background noise. If you have a NVIDIA RTX/GTX GPU, utilize it to filter you background in your favorite work from home app.
 RTX Voice: https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/</description>
     </item>
-    
     <item>
       <title>Using TensorFlowJS (Machine Learning) for Speech Recognition on ESP8266</title>
       <link>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</guid>
       <description>Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.
 FFT on ESP32 GitHub: debsahu/SpeechRecognitionTensorFlowJS Speech Recognition on Browser, AsyncWebServer served on ESP8266 to control LED_BUILTIN/GPIO16 Uses WebAudio API and WebGL GPU acceleration = speech recognition is done on the browser http:// requests for microphone is blocked for chrome, use firefox instead tf.</description>
     </item>
-    
     <item>
       <title>Stock Prediction on Python Using Machine Learning (NARX)</title>
       <link>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</guid>
       <description>This video is a collaboration with my wife who does &amp;ldquo;machine learning on big data&amp;rdquo; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.</description>
     </item>
-    
   </channel>
 </rss>

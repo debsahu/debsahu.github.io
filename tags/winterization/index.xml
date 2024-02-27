@@ -6,15 +6,14 @@
     <description>Recent content in Winterization on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/winterization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 -0500</lastBuildDate>
+    <atom:link href="https://www.debashishsahu.com/tags/winterization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rainbird Irrigation into Home Assistant &amp; Full tutorial on Winterization</title>
       <link>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</guid>
       <description>Here I add WiFi LNK module to my ESP-TM2 Rainbird Irrigation System and add the Rainbird integration to Home Assistant. Once completed, I winterize the irrigation system for the coming winter.</description>
     </item>
-    
   </channel>
 </rss>

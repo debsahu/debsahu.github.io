@@ -6,78 +6,63 @@
     <description>Recent content in Categories on Debashish Sahu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0500</lastBuildDate>
+    <atom:link href="https://www.debashishsahu.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning</title>
       <link>https://www.debashishsahu.com/categories/machine-learning/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Iot</title>
       <link>https://www.debashishsahu.com/categories/iot/</link>
       <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/iot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Home Decor</title>
       <link>https://www.debashishsahu.com/categories/home-decor/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/home-decor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wood Working</title>
       <link>https://www.debashishsahu.com/categories/wood-working/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/wood-working/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Home Improvement</title>
       <link>https://www.debashishsahu.com/categories/home-improvement/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/home-improvement/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hack</title>
       <link>https://www.debashishsahu.com/categories/hack/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/hack/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Computer</title>
       <link>https://www.debashishsahu.com/categories/computer/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/computer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Repair</title>
       <link>https://www.debashishsahu.com/categories/repair/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 -0500</pubDate>
-      
       <guid>https://www.debashishsahu.com/categories/repair/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
