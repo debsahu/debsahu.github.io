@@ -13,8 +13,16 @@
       <link>https://www.debashishsahu.com/posts/energy-monitor-emporia-vue-in-home-assistant/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/energy-monitor-emporia-vue-in-home-assistant/</guid>
-      <description> Using Emporia Vue to monitor enegry usage of whole house and several branches in the house.
-Emporia Vue Home Assistant Intergration GitHub: magico13/ha-emporia-vue </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/aXHTe8hQJQM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using &lt;a href=&#34;https://www.emporiaenergy.com/how-the-vue-energy-monitor-works&#34;&gt;Emporia Vue&lt;/a&gt; to monitor enegry usage of whole house and several branches in the house.&lt;/p&gt;
+&lt;h1 id=&#34;emporia-vue-home-assistant-intergration&#34;&gt;Emporia Vue Home Assistant Intergration&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/magico13/ha-emporia-vue&#34;&gt;GitHub: magico13/ha-emporia-vue&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

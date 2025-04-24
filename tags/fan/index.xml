@@ -13,7 +13,22 @@
       <link>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</guid>
-      <description>Lets turn on and off low powered fan running at low (&amp;lt;20V) DC voltages. We shall use a MOSFET to achieve this. Hardware IRLML0030PBF ATTiny85 2-pin 12V Fan Wiring MOSFETs have three terminals Drain (D), Source (S) and Gate (G), where source is connected to ground and the +12V or +5V along with load (Fan) is connected to drain. The MOSFET is on when gate voltage is higher than 1.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/6Rd6D_bd9pI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Lets turn on and off low powered fan running at low (&amp;lt;20V) DC voltages. We shall use a MOSFET to achieve this.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://www.debashishsahu.com/Overall-MOSFET.png&#34; alt=&#34;overall schematic&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IRLML0030PBF&lt;/li&gt;
+&lt;li&gt;ATTiny85&lt;/li&gt;
+&lt;li&gt;2-pin 12V Fan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wiring&#34;&gt;Wiring&lt;/h2&gt;
+&lt;p&gt;MOSFETs have three terminals Drain (D), Source (S) and Gate (G), where source is connected to ground and the +12V or +5V along with load (Fan) is connected to drain. The MOSFET is on when gate voltage is higher than 1.7V and turned off when gate voltage is 0V.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

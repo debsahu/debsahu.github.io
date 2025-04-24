@@ -13,52 +13,99 @@
       <link>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</guid>
-      <description>Nothing new, trying to build something based on video on stranger parts
-We build a coil with magnet wire and connect them to a LED. The LED blinks when coil is placed on Qi charger.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/dWmcaW2XbWI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Nothing new, trying to build something based on video on stranger parts&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/PsUsByrOveE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;We build a coil with magnet wire and connect them to a LED. The LED blinks when coil is placed on Qi charger.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DIY Smart Deck Lights | ESPHome | Home Assistant controlled</title>
       <link>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
-      <description> Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
-Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/VBB-nnI3nZQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.&lt;/p&gt;
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=0093a5196f66ebd48869f4825a72b6ca&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>ESP8266/ESP32 Based RGB Light (NeoPixels) Connecting to Google Home &amp; Alexa via ARTIK Cloud</title>
       <link>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</guid>
-      <description>⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️ Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.
-Connecting to Samsung ARTIK Cloud https://my.artik.cloud/
-GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with ARTIK Cloud
-Connects to ARTIK Cloud via MQTT SSL port 8883 ARTIK Cloud is connected to all assistant platforms, integration is seamless Compiles on ESP8266-arduino core v2.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/baNO_8L5-RY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;---artik-cloud-has-been-depcreciated-by-samsung---&#34;&gt;⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️&lt;/h1&gt;
+&lt;p&gt;Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NeoPixel Painter Draw Using LEDs on Thin Air</title>
       <link>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</guid>
-      <description> Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips. Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: https://github.com/debsahu/E131_PixelPusher that displays strips of pictures over time. These bright lights are registered on the sensors of camera yielding out of the world photos! </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/afyqMxOFD78?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips.&lt;/li&gt;
+&lt;li&gt;Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: &lt;a href=&#34;https://github.com/debsahu/E131_PixelPusher&#34;&gt;https://github.com/debsahu/E131_PixelPusher&lt;/a&gt; that displays strips of pictures over time.&lt;/li&gt;
+&lt;li&gt;These bright lights are registered on the sensors of camera yielding out of the world photos!&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>E1.31 Pixel Pusher: Sending E1.31 UDP Data to ESP8266 Displayed on NeoPixels</title>
       <link>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</guid>
-      <description>Here we try to push E1.31 UDP data received wirelessly via ESP8266 and pushed to NeoPixel in the fastest way possible.
-Other projects with E1.31 support:
-GitHub: forkineye/ESPixelStick GitHub: Aircoookie/WLED GitHub: toblum/McLighting I also demonstrate how to setup and use Jinx!, ledfx and xLights
-GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for ESP8266/ESP32
-Completely Async Web-interface to set starting universe, unicast/umulticast, total number of universes WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Subscribes to E131 multicast Connect RX/GPIO3 to DIN of NeoPixel strip, and any PIN (&amp;lt;GPIO32) specified for ESP32 Upload included firmware.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/lZ09GlO2_8s?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here we try to push E1.31 UDP data received wirelessly via ESP8266 and pushed to NeoPixel in the fastest way possible.&lt;/p&gt;
+&lt;p&gt;Other projects with E1.31 support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/forkineye/ESPixelStick&#34;&gt;GitHub: forkineye/ESPixelStick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;GitHub: Aircoookie/WLED&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/toblum/McLighting&#34;&gt;GitHub: toblum/McLighting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also demonstrate how to setup and use Jinx!, ledfx and xLights&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahue131_&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/E131_PixelPusher&#34;&gt;GitHub: debsahu/E131_PixelPusher&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Minimalistic Async code around Async E131 for ESP8266/ESP32&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building LED String Using Capacitive Dropper</title>
       <link>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</guid>
-      <description> Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
-Inspired from bigclive&amp;rsquo;s project </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/xSH6chZMxQg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.&lt;/p&gt;
+&lt;h2 id=&#34;inspired-from-bigclives-project&#34;&gt;Inspired from bigclive&amp;rsquo;s project&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/ewO-r8_d3uw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

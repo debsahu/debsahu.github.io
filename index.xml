@@ -13,468 +13,1093 @@
       <link>https://www.debashishsahu.com/posts/integrating-pm-2-5-sensor-vindriktning-into-home-assistant/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/integrating-pm-2-5-sensor-vindriktning-into-home-assistant/</guid>
-      <description>ESPNow connectivity for the Ikea VINDRIKTNING Most of the code is borrored from Hypfer/esp8266-vindriktning-particle-sensor that uses an ESP8266 to read from GPIO14(RX) and send via ESPNow to a EspNow Server (check debsahu/ESPNowMQTT), which sends it out to a MQTT broker.
-Hardware IKEA VINDRIKTNING ($11.99) ESP8266 ($2.00) Dupount cables ($0.50) Soldering Iron &amp;amp; solder Connections 5V on VINDRIKTNING to 5V on ESP8266 VIN GND on VINDRIKTNING to GND on ESP8266 GND REST on VINDRIKTNING to GPIO14 on ESP8266 Original idea from Home Assistant Thread GitHub: Hypfer/esp8266-vindriktning-particle-sensor ESPHome code ESPHome PM1006 Example ESPHome Config/Code ESPNow code Source: GitHub: debsahu/esp8266-vindriktning-particle-sensor</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/Bjk7nK1iDIc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;espnow-connectivity-for-the-ikea-vindriktning&#34;&gt;ESPNow connectivity for the Ikea VINDRIKTNING&lt;/h1&gt;
+&lt;p&gt;Most of the code is borrored from &lt;a href=&#34;https://github.com/Hypfer/esp8266-vindriktning-particle-sensor&#34;&gt;Hypfer/esp8266-vindriktning-particle-sensor&lt;/a&gt; that uses an ESP8266 to read from GPIO14(RX) and send via ESPNow to a EspNow Server (check &lt;a href=&#34;https://github.com/debsahu/ESPNowMQTT&#34;&gt;debsahu/ESPNowMQTT&lt;/a&gt;), which sends it out to a MQTT broker.&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ikea.com/us/en/p/vindriktning-air-quality-sensor-60515911/&#34;&gt;IKEA VINDRIKTNING&lt;/a&gt; ($11.99)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.espressif.com/products/esp8266-esp-module/&#34;&gt;ESP8266&lt;/a&gt; ($2.00)&lt;/li&gt;
+&lt;li&gt;Dupount cables ($0.50)&lt;/li&gt;
+&lt;li&gt;Soldering Iron &amp;amp; solder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;connections&#34;&gt;Connections&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;5V on VINDRIKTNING to 5V on ESP8266 VIN&lt;/li&gt;
+&lt;li&gt;GND on VINDRIKTNING to GND on ESP8266 GND&lt;/li&gt;
+&lt;li&gt;REST on VINDRIKTNING to GPIO14 on ESP8266&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/debsahu/esp8266-vindriktning-particle-sensor/raw/master/img/solder_points.jpg&#34; alt=&#34;Solder_Points&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/debsahu/esp8266-vindriktning-particle-sensor/raw/master/img/esp8266.jpg&#34; alt=&#34;ESP8266&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Energy Monitor | Emporia Vue in Home Assistant</title>
       <link>https://www.debashishsahu.com/posts/energy-monitor-emporia-vue-in-home-assistant/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/energy-monitor-emporia-vue-in-home-assistant/</guid>
-      <description> Using Emporia Vue to monitor enegry usage of whole house and several branches in the house.
-Emporia Vue Home Assistant Intergration GitHub: magico13/ha-emporia-vue </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/aXHTe8hQJQM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using &lt;a href=&#34;https://www.emporiaenergy.com/how-the-vue-energy-monitor-works&#34;&gt;Emporia Vue&lt;/a&gt; to monitor enegry usage of whole house and several branches in the house.&lt;/p&gt;
+&lt;h1 id=&#34;emporia-vue-home-assistant-intergration&#34;&gt;Emporia Vue Home Assistant Intergration&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/magico13/ha-emporia-vue&#34;&gt;GitHub: magico13/ha-emporia-vue&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Rainbird Irrigation into Home Assistant &amp; Full tutorial on Winterization</title>
       <link>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</guid>
-      <description>Here I add WiFi LNK module to my ESP-TM2 Rainbird Irrigation System and add the Rainbird integration to Home Assistant. Once completed, I winterize the irrigation system for the coming winter.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/neo9MfygHkA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here I add &lt;a href=&#34;https://www.rainbird.com/products/lnk-wifi-module&#34;&gt;WiFi LNK module&lt;/a&gt; to my &lt;a href=&#34;https://www.rainbird.com/products/esp-tm2-series-controllers&#34;&gt;ESP-TM2 Rainbird Irrigation System&lt;/a&gt; and add the &lt;a href=&#34;https://www.home-assistant.io/integrations/rainbird/&#34;&gt;Rainbird integration&lt;/a&gt; to &lt;a href=&#34;https://www.home-assistant.io/&#34;&gt;Home Assistant&lt;/a&gt;. Once completed, I winterize the irrigation system for the coming winter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WIO Terminal: Catan Die Roll TinyML</title>
       <link>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</guid>
-      <description>Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)
-GitHub: debsahu/WIOCatanDieRoll Objective When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously Hardware WIO Terminal (Seeed Studio) USB-C cable Software WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/emjb2YybIKw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahuwiocatandieroll&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll&#34;&gt;GitHub: debsahu/WIOCatanDieRoll&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When WIO is shaken it will roll two die signifying a turn on &lt;a href=&#34;https://www.catan.com/&#34;&gt;Settlers of Catan&lt;/a&gt; board game&lt;/li&gt;
+&lt;li&gt;Die roll needs to be completely random uniform distribution&lt;/li&gt;
+&lt;li&gt;Die roll must happen when device is shook vigorously&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/Wio-Terminal-p-4509.html&#34;&gt;WIO Terminal (Seeed Studio)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;USB-C cable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll/tree/main/WIOImuTap&#34;&gt;&lt;strong&gt;WIOImuTap&lt;/strong&gt;&lt;/a&gt;: Uses in-built IMU to look for double tap to roll 2 die using TRNG&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll/tree/main/EdgeImpulse&#34;&gt;&lt;strong&gt;EdgeImpulse&lt;/strong&gt;&lt;/a&gt;: Upload and train NN using sensor data on &lt;a href=&#34;https://www.edgeimpulse.com/&#34;&gt;Edge Impulse&lt;/a&gt;, deployed on WIO with live classification on serial port. &lt;a href=&#34;https://studio.edgeimpulse.com/public/48805/latest&#34;&gt;Model is included&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll/tree/main/AIShakeDie&#34;&gt;&lt;strong&gt;AIShakeDie&lt;/strong&gt;&lt;/a&gt;: Uses in-built IMU to recognize shake using NN from &lt;strong&gt;Edge Impulse&lt;/strong&gt; and rolls 2 die using TRNG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collecting-data-from-wio--storing-on-edge-impulse-training-neural-network-on-edge-impulse-export-and-deploy-tinyml-on-wio&#34;&gt;Collecting data from WIO &amp;amp; storing on Edge Impulse, training Neural Network on Edge Impulse, Export and deploy TinyML on WIO&lt;/h2&gt;
+&lt;h3 id=&#34;1-collecting-data-from-wio--storing-on-edge-impulse&#34;&gt;1. Collecting data from WIO &amp;amp; storing on Edge Impulse&lt;/h3&gt;
+&lt;h4 id=&#34;installing-dependencies-windows&#34;&gt;Installing dependencies (Windows)&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://www.python.org/&#34;&gt;Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://nodejs.org/en/&#34;&gt;Node.js v14 or higher&lt;/a&gt; - install additional Node.js tools or-else install &lt;a href=&#34;https://visualstudio.microsoft.com/vs/older-downloads/&#34;&gt;Microsoft Visual Sudio 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Open powershell as admin, install &lt;em&gt;edge-impulse-cli&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;npm install -g edge-impulse-cli --force
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;For other OS please follow instructions from &lt;a href=&#34;https://docs.edgeimpulse.com/docs/cli-installation&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Continuous Radon Sensing Using Airthings Wave</title>
       <link>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</link>
       <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
       <guid>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</guid>
-      <description>Radon Radon is everywhere, see map Naturally-occurring radioactive gas - causes lung cancer Inert, colorless and odorless Naturally in the atmosphere in trace amounts Outdoors: radon disperses rapidly Most radon exposure occurs inside homes, schools and workplaces Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation Can be controlled and managed with proven, cost-effective techniques Radon monitoring Hardware Airthings Wave Continuous radon monitoring Long term monitoring LEDs color – radon level Battery Operated Bluetooth BLE ESP32 - lolin D32 (can use any ESP32) MQTT Server - Mosquitto Software Python script to read values from Airthings Wave: Wave-Reader Home Assistant Custom Component: sensor.</description>
+      <description>&lt;h1&gt;&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/JayOgSkM7Sg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;radon&#34;&gt;Radon&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Radon is everywhere, &lt;a href=&#34;https://radonmap.com/&#34;&gt;see map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Naturally-occurring radioactive gas - &lt;strong&gt;causes lung cancer&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Inert, colorless and odorless&lt;/li&gt;
+&lt;li&gt;Naturally in the atmosphere in trace amounts
+&lt;ul&gt;
+&lt;li&gt;Outdoors: radon disperses rapidly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Most radon exposure occurs inside homes, schools and workplaces
+&lt;ul&gt;
+&lt;li&gt;Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation&lt;/li&gt;
+&lt;li&gt;Can be controlled and managed with proven, cost-effective techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.airthings.com/resources/radon-levels&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.airthings.com/hs-fs/hubfs/Website/Images/Newsletter/Blog/Blog%20body%20images%20compressed%20-illustration/unsplash/Radon%20level%20chart.jpg?width=2300&amp;amp;name=Radon%20level%20chart.jpg&#34; alt=&#34;Radon levels&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sending sensor data from ESP32 to InfluxDB | Local access - time-series database</title>
       <link>https://www.debashishsahu.com/posts/sending-sensor-data-from-esp32-to-influxdb-local-access-time-series-database/</link>
       <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
       <guid>https://www.debashishsahu.com/posts/sending-sensor-data-from-esp32-to-influxdb-local-access-time-series-database/</guid>
-      <description>Instead of sending data to services in the cloud, here we send sensor data to local InfluxDB database. Grafana is used to read data from InfluxDB and alert thresholds are set to send reactive alerts.
-InfluxDB Download and Installation: official docs
-Docker Download and Installation: official docs
-ESP32 connecting to WPA2-Enterprise Hardware ESP32 TTGo T-Energy SSD1306 OLED display BME280 sensor Software Dependencies Listed below are the dpendencies used by Arduino IDE, but use PlatformIO instead!</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/Jr3KbuwHPgw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Instead of sending data to services in the cloud, here we send sensor data to local InfluxDB database. Grafana is used to read data from InfluxDB and alert thresholds are set to send reactive alerts.&lt;/p&gt;
+&lt;h3 id=&#34;influxdb&#34;&gt;InfluxDB&lt;/h3&gt;
+&lt;p&gt;Download and Installation: &lt;a href=&#34;https://portal.influxdata.com/downloads/&#34;&gt;official docs&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;docker&#34;&gt;Docker&lt;/h3&gt;
+&lt;p&gt;Download and Installation: &lt;a href=&#34;https://docs.docker.com/get-docker/&#34;&gt;official docs&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Connect ESP32 to WPA2-Enterprise WiFi (eduroam: University of Michigan Wireless)</title>
       <link>https://www.debashishsahu.com/posts/connect-esp32-to-wpa2-enterprise-wifi-eduroam-university-of-michigan-wireless/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/connect-esp32-to-wpa2-enterprise-wifi-eduroam-university-of-michigan-wireless/</guid>
-      <description>Walkthrough of minimal settings for ESP32 to connect to WPA2-Enterprise WiFi at University of Michigan (eduroam)
-GitHub: debsahu/Esp32_EduWiFi Minimal settings for ESP32 to connect to University of Michigan WiFi (MWireless/eduroam)
-MSetup Go to MSetup
-Log in using University of Michigan credentials
-Select Other Device and log in again if needed
-Enter Device Name, MAC Address, uniqname will already be selected, Advanced Options &amp;gt; Network Type &amp;gt; Internet Access After above settings are enterd, click on Register my device</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/bABHeMea-P0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Walkthrough of minimal settings for ESP32 to connect to WPA2-Enterprise WiFi at University of Michigan (eduroam)&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahuesp32_&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/Esp32_EduWiFi&#34;&gt;GitHub: debsahu/Esp32_EduWiFi&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Minimal settings for ESP32 to connect to &lt;strong&gt;University of Michigan WiFi (MWireless/eduroam)&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;msetup&#34;&gt;MSetup&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Go to &lt;a href=&#34;https://msetup.its.umich.edu/&#34;&gt;MSetup&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Log in using University of Michigan credentials&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Select &lt;strong&gt;Other Device&lt;/strong&gt; and log in again if needed&lt;/p&gt;</description>
     </item>
     <item>
       <title>DIY Custom Holiday Gift | Wood Decor | 3D Printed Letters | Photo Hanger</title>
       <link>https://www.debashishsahu.com/posts/diy-custom-holiday-gift-wood-decor-3d-printed-letters-photo-hanger/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-custom-holiday-gift-wood-decor-3d-printed-letters-photo-hanger/</guid>
-      <description>Check out Canvasyvibes Art on the inspiration for this project.
-I use a stained cedar picket fence, 3D printed letters and photo clip to create a personalized holiday gift.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/CaQexwy8mFM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Check out  &lt;a href=&#34;https://www.youtube.com/c/CanvasyvibesArt&#34;&gt;Canvasyvibes Art&lt;/a&gt;  on the inspiration for this project.&lt;/p&gt;
+&lt;p&gt;I use a stained cedar picket fence, 3D printed letters and photo clip to create a personalized holiday gift.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blinking LEDs Using Inductive Qi Charger | No Batteries</title>
       <link>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</guid>
-      <description>Nothing new, trying to build something based on video on stranger parts
-We build a coil with magnet wire and connect them to a LED. The LED blinks when coil is placed on Qi charger.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/dWmcaW2XbWI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Nothing new, trying to build something based on video on stranger parts&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/PsUsByrOveE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;We build a coil with magnet wire and connect them to a LED. The LED blinks when coil is placed on Qi charger.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ultimate guide to permanent holiday lights using NeoPixels/WS2812B LEDs</title>
       <link>https://www.debashishsahu.com/posts/ultimate-guide-to-permanent-holiday-lights-using-neopixels-ws2812b-leds/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/ultimate-guide-to-permanent-holiday-lights-using-neopixels-ws2812b-leds/</guid>
-      <description> Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs
-Hardware LEDs: https://amzn.to/2Lu4m3P Aluminum Channels: https://amzn.to/2Knajio 18/2 wire: https://amzn.to/348I1zq 18/3 wire: https://amzn.to/37YNCJM Control Box: https://amzn.to/2KjfakW 5v 60A Power Supply: https://amzn.to/2KmRHiu 25ft extension cord: https://amzn.to/3840RIS Wire nuts: https://amzn.to/3oO1Vrb BME280(optional): https://amzn.to/3p15pHd PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb
-Software WELD - GitHub: Aircoookie/WLED WLED User-mod for BME/P 280: </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/P3tiunmoQ4w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LEDs: &lt;a href=&#34;https://amzn.to/2Lu4m3P&#34;&gt;https://amzn.to/2Lu4m3P&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Aluminum Channels: &lt;a href=&#34;https://amzn.to/2Knajio&#34;&gt;https://amzn.to/2Knajio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18/2 wire: &lt;a href=&#34;https://amzn.to/348I1zq&#34;&gt;https://amzn.to/348I1zq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18/3 wire: &lt;a href=&#34;https://amzn.to/37YNCJM&#34;&gt;https://amzn.to/37YNCJM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Control Box: &lt;a href=&#34;https://amzn.to/2KjfakW&#34;&gt;https://amzn.to/2KjfakW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;5v 60A Power Supply: &lt;a href=&#34;https://amzn.to/2KmRHiu&#34;&gt;https://amzn.to/2KmRHiu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;25ft extension cord: &lt;a href=&#34;https://amzn.to/3840RIS&#34;&gt;https://amzn.to/3840RIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wire nuts: &lt;a href=&#34;https://amzn.to/3oO1Vrb&#34;&gt;https://amzn.to/3oO1Vrb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BME280(optional): &lt;a href=&#34;https://amzn.to/3p15pHd&#34;&gt;https://amzn.to/3p15pHd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PCB: &lt;a href=&#34;https://github.com/toblum/McLighting/tree/master/documentation/pcb&#34;&gt;https://github.com/toblum/McLighting/tree/master/documentation/pcb&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WELD - &lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;GitHub: Aircoookie/WLED&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wled-user-mod-for-bmep-280&#34;&gt;WLED User-mod for BME/P 280:&lt;/h3&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=037068aef72c5eb5915dfb8a2235cd2a&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Epoxy resin holiday lights/night lamp | DIY resin LED decor | WLED</title>
       <link>https://www.debashishsahu.com/posts/epoxy-resin-holiday-lights-night-lamp-diy-resin-led-decor-wled/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/epoxy-resin-holiday-lights-night-lamp-diy-resin-led-decor-wled/</guid>
-      <description>Board Prep WLED Software: GitHub: Aircoookie/WLED
-PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/to39uU77fuo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;board-prep&#34;&gt;Board Prep&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/850Vb0Cw9UA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;WLED Software: &lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;GitHub: Aircoookie/WLED&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PCB: &lt;a href=&#34;https://github.com/toblum/McLighting/tree/master/documentation/pcb&#34;&gt;https://github.com/toblum/McLighting/tree/master/documentation/pcb&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP8266 based WLED NeoPixel Lights | Insomnia soldering session | Holiday lights prep</title>
       <link>https://www.debashishsahu.com/posts/esp8266-based-wled-neopixel-lightsinsomnia-soldering-session-holiday-lights-prep/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-based-wled-neopixel-lightsinsomnia-soldering-session-holiday-lights-prep/</guid>
-      <description>WLED Software: GitHub: Aircoookie/WLED
-PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/850Vb0Cw9UA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;WLED Software: &lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;GitHub: Aircoookie/WLED&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PCB: &lt;a href=&#34;https://github.com/toblum/McLighting/tree/master/documentation/pcb&#34;&gt;https://github.com/toblum/McLighting/tree/master/documentation/pcb&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DIY Smart Deck Lights | ESPHome | Home Assistant controlled</title>
       <link>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
-      <description> Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
-Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/VBB-nnI3nZQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.&lt;/p&gt;
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=0093a5196f66ebd48869f4825a72b6ca&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>DIY Mud Room Bench | Solid Wood &amp; Power Tools</title>
       <link>https://www.debashishsahu.com/posts/diy-mud-room-bench-solid-wood-power-tools/</link>
       <pubDate>Sun, 22 Nov 2020 23:09:09 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-mud-room-bench-solid-wood-power-tools/</guid>
-      <description>Building a wooden bench for our mud-room area using standard lumber 2x2, 1x3, 1x8 from big box store. Initially rendered the design in Fusion360, cut using the dimensions out of the project, using power tools and pocket screws.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/-ngg1pB8JGM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Building a wooden bench for our mud-room area using standard lumber 2x2, 1x3, 1x8 from big box store. Initially rendered the design in Fusion360, cut using the dimensions out of the project, using power tools and pocket screws.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DIY Smart Wooden Faux Beam Pendent Lights | ESPHome | Smart Plant Lights | Home Assistant controlled</title>
       <link>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</guid>
-      <description> DIY Faux wood-beam lights mode from cedar fence pickets. Light is controlled by Sonoff Mini.
-Pendent Lights: amazon
-Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/b2YgMOzjnPQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;DIY Faux wood-beam lights mode from cedar fence pickets. Light is controlled by Sonoff Mini.&lt;/p&gt;
+&lt;p&gt;Pendent Lights: &lt;a href=&#34;https://amzn.to/35sa6Bv&#34;&gt;amazon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=d5dc0914feeb9837e4da62acde0c1760&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Halloween Special: ESP8266 Based Speakers w/ Motion Sensing &amp; LEDS | Pumpkin Carving With Powertools</title>
       <link>https://www.debashishsahu.com/posts/halloween-special-esp8266-based-speakers-motion-sensing--leds-pumpkin-carving-with-powertools/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/halloween-special-esp8266-based-speakers-motion-sensing--leds-pumpkin-carving-with-powertools/</guid>
-      <description>Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.
-GitHub: debsahu/HalloweenESPSpeakers Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.
-Wiring [PCM5102 DAC &amp;gt; ESP8266/NODEMCU] VCC &amp;gt; 3.3 3.3V &amp;gt; 3.3 GND &amp;gt; GND FLT &amp;gt; GND DMP &amp;gt; GND SCL &amp;gt; GND BCK &amp;gt; GPIO15/D8 (I2S CLOCK) DIN &amp;gt; GPIO3/RX (I2S DATA) LCK &amp;gt; GPIO2/D4 (L/R CONTROL) FMT &amp;gt; GND XMT &amp;gt; 3.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/RaEtZnQZODk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahuhalloweenespspeakers&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/HalloweenESPSpeakers&#34;&gt;GitHub: debsahu/HalloweenESPSpeakers&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESPHome Dot Matrix Display | Internet Connected Display Home Assistant Display</title>
       <link>https://www.debashishsahu.com/posts/esphome-dot-matrix-display-internet-connected-display-home-assistant-display/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esphome-dot-matrix-display-internet-connected-display-home-assistant-display/</guid>
-      <description> Using ESPHome for connecting ESP8266 to MAX7219 Dot-Matrix Display to show useful information from Home Assistant. This is used by my wife&amp;rsquo;s channel Canvasyvibes Art
-Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/MiHc06_ST8s?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using ESPHome for connecting ESP8266 to MAX7219 Dot-Matrix Display to show useful information from Home Assistant. This is used by my wife&amp;rsquo;s channel &lt;a href=&#34;https://www.youtube.com/c/CanvasyvibesArt&#34;&gt;Canvasyvibes Art&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=0ad5e1de664763e84994cc3a4a5d5dc0&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>DIY Modern Coffee Table | Solid Wood Helix Table</title>
       <link>https://www.debashishsahu.com/posts/diy-modern-coffee-table-solid-wood-helix-table/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-modern-coffee-table-solid-wood-helix-table/</guid>
-      <description>My very first wood working project. Please leave a comment on how I can improve on this craft.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/i8HEp4wBaZQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;My very first wood working project. Please leave a comment on how I can improve on this craft.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DIY Modern ARIA Vent Upgrade Home Dining Makeover</title>
       <link>https://www.debashishsahu.com/posts/diy-modern-aria-vent-upgrade-home-dining-makeover/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-modern-aria-vent-upgrade-home-dining-makeover/</guid>
-      <description>My attempt to upgrade our dining room air register/vent to alleviate our dogs paw getting caught.
-Here I use ARIA OG black 4&amp;quot; x 10&amp;quot; vent bought directly from www.ariavent.com</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/egwPCfan288?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;My attempt to upgrade our dining room air register/vent to alleviate our dogs paw getting caught.&lt;/p&gt;
+&lt;p&gt;Here I use ARIA OG black 4&amp;quot; x 10&amp;quot; vent bought directly from &lt;a href=&#34;https://www.ariavent.com&#34;&gt;www.ariavent.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Machine Learning to Filter Out Background Noise RTX Voice</title>
       <link>https://www.debashishsahu.com/posts/machine-learning-to-filter-out-background-noise-rtx-voice/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/machine-learning-to-filter-out-background-noise-rtx-voice/</guid>
-      <description>A demo for RTX voice to filter out background noise. If you have a NVIDIA RTX/GTX GPU, utilize it to filter you background in your favorite work from home app.
-RTX Voice: https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/qFw5Oyj_O-Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;A demo for RTX voice to filter out background noise. If you have a NVIDIA RTX/GTX GPU, utilize it to filter you background in your favorite work from home app.&lt;/p&gt;
+&lt;p&gt;RTX Voice: &lt;a href=&#34;https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/&#34;&gt;https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Voice Controlled (Connected) BIDET: A Solution for Non-Availability of Toilet-Paper Caused by COVID19</title>
       <link>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</guid>
-      <description> Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
-Wilbur Sargunaraj Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8E9doeUO8F0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.&lt;/p&gt;
+&lt;h2 id=&#34;wilbur-sargunaraj&#34;&gt;Wilbur Sargunaraj&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/TcDhCFXs-4Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=f11c1bde7fea4f9f51e5e65ce4384a17&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Using TensorFlowJS (Machine Learning) for Speech Recognition on ESP8266</title>
       <link>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</guid>
-      <description>Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.
-FFT on ESP32 GitHub: debsahu/SpeechRecognitionTensorFlowJS Speech Recognition on Browser, AsyncWebServer served on ESP8266 to control LED_BUILTIN/GPIO16 Uses WebAudio API and WebGL GPU acceleration = speech recognition is done on the browser http:// requests for microphone is blocked for chrome, use firefox instead tf.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/E5KpzR9Igfw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.&lt;/p&gt;
+&lt;h2 id=&#34;fft-on-esp32&#34;&gt;FFT on ESP32&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8YaeUYZ_Ex8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;github-debsahuspeechrecognitiontensorflowjs&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/SpeechRecognitionTensorFlowJS&#34;&gt;GitHub: debsahu/SpeechRecognitionTensorFlowJS&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;speech-recognition-on-browser-asyncwebserver-served-on-esp8266-to-control-led_builtingpio16&#34;&gt;Speech Recognition on Browser, &lt;a href=&#34;https://github.com/me-no-dev/ESPAsyncWebServer&#34;&gt;AsyncWebServer&lt;/a&gt; served on ESP8266 to control LED_BUILTIN/GPIO16&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&#34;&gt;WebAudio API&lt;/a&gt; and WebGL GPU acceleration = speech recognition is done on the browser&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;http://&lt;/code&gt; requests for microphone is blocked for chrome, &lt;strong&gt;use firefox instead&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tf.min.js&lt;/strong&gt; and &lt;strong&gt;speech-commands.min.js&lt;/strong&gt; served from SPIFFs (1MB Program/3MB SPIFFs partition needed)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/upload&lt;/code&gt; and &lt;code&gt;/update&lt;/code&gt; is a morden world&amp;rsquo;s take on updates to ESP8266&lt;/li&gt;
+&lt;li&gt;Uses HTML templates to report LED_BUILTIN/GPIO16 status&lt;/li&gt;
+&lt;li&gt;Speech recognition: &amp;ldquo;UP&amp;rdquo; = ON and &amp;ldquo;DOWN&amp;rdquo; = OFF, &amp;ldquo;RIGHT&amp;rdquo; and &amp;ldquo;LEFT&amp;rdquo; ignored&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arduino-libraries-needed&#34;&gt;Arduino Libraries needed&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/debsahu/SpeechRecognitionTensorFlowJS/blob/master/platformio.ini&#34;&gt;platformio.ini&lt;/a&gt; is included, use &lt;a href=&#34;https://platformio.org/platformio-ide&#34;&gt;PlatformIO&lt;/a&gt; and it will take care of installing the following libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP32 to Process Audio Signals: Software (Fourier Transforms) and Hardware (MSGEQ7)</title>
       <link>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</guid>
-      <description> Here we use ESP32 microcontroller to analyze real-time audio signals
-Real-time FFT to get frequencies Use MSGEQ7 chip to get the same data Display frequency bands on LEDs as bars FFT basics: GitHub: debsahu/ESP32_FFT_Audio_LEDs Libraries Needed Software FFT platformio.ini and Hardware FFT platformio.ini is included, use PlatformIO and it will take care of installing the following libraries.
-Library Link arduinoFFT https://github.com/kosme/arduinoFFT WS2812FX https://github.com/kitesurfer1404/WS2812FX MD_MSGEQ7 https://github.com/debsahu/MD_MSGEQ7 Known Limitations Sampling frequency must be high Sampling time should not interfere with other WiFi functions FFT calculations are CPU intensive Frequency binning needs to be done manually Wiring </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8YaeUYZ_Ex8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here we use ESP32 microcontroller to analyze real-time audio signals&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Real-time FFT to get frequencies&lt;/li&gt;
+&lt;li&gt;Use MSGEQ7 chip to get the same data&lt;/li&gt;
+&lt;li&gt;Display frequency bands on LEDs as bars&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;fft-basics&#34;&gt;FFT basics:&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/spUNpyF58BY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;github-debsahuesp32_&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/ESP32_FFT_Audio_LEDs&#34;&gt;GitHub: debsahu/ESP32_FFT_Audio_LEDs&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;libraries-needed&#34;&gt;Libraries Needed&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/debsahu/ESP32_FFT_Audio_LEDs/blob/master/microphone_esp8266_fft/platformio.ini&#34;&gt;Software FFT platformio.ini&lt;/a&gt; and &lt;a href=&#34;https://github.com/debsahu/ESP32_FFT_Audio_LEDs/blob/master/microphone_esp8266_msgeq7/platformio.ini&#34;&gt;Hardware FFT platformio.ini&lt;/a&gt; is included, use &lt;a href=&#34;https://platformio.org/platformio-ide&#34;&gt;PlatformIO&lt;/a&gt; and it will take care of installing the following libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP8266/ESP3232: Home Assistant Switch Connected to PCF8574 Controlling 8 AC Relays</title>
       <link>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</guid>
-      <description>Home Assistant Switch for 8 Relays: PCF8574 can be used to extend the GPIO of ESP8266/32 and here we use 8 ports of PCF8574 to control 8 Relay module
-GitHub: debsahu/PCF8574_8Relay Home Assistant Switch for 8 Relays
-Code can compile on ESP8266/32 PCF8574 can be used to extend the GPIO of ESP8266/32 8 ports of PCF8574 is connected to 8 Relay module Libraries Needed platformio.ini is included, use PlatformIO and it will take care of installing the following libraries.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/6CzkeJei5i0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Home Assistant Switch for 8 Relays: PCF8574 can be used to extend the GPIO of ESP8266/32 and here we use 8 ports of PCF8574 to control 8 Relay module&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahupcf8574_&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/PCF8574_8Relay&#34;&gt;GitHub: debsahu/PCF8574_8Relay&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Home Assistant Switch for 8 Relays&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code can compile on ESP8266/32&lt;/li&gt;
+&lt;li&gt;PCF8574 can be used to extend the GPIO of ESP8266/32&lt;/li&gt;
+&lt;li&gt;8 ports of PCF8574 is connected to 8 Relay module&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;libraries-needed&#34;&gt;Libraries Needed&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/debsahu/PCF8574_8Relay/blob/master/platformio.ini&#34;&gt;platformio.ini&lt;/a&gt; is included, use &lt;a href=&#34;https://platformio.org/platformio-ide&#34;&gt;PlatformIO&lt;/a&gt; and it will take care of installing the following libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Connect to AWS IoT While Making Masala Chai [ASMR]</title>
       <link>https://www.debashishsahu.com/posts/connect-to-aws-iot-while-making-masala-chai-asmr/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/connect-to-aws-iot-while-making-masala-chai-asmr/</guid>
-      <description>Don&amp;rsquo;t confuse Masala Chai with Chai Latte, no not the same thing! While we make chai during the snowy season, lets connect ESP8266/32 to Amazon&amp;rsquo;s AWS IoT in less than 5 minutes.
-AWS IoT Core Instructions Goto AWS IoT Core on your AWS console
-Create a Policy Generate a Policy first Create a Policy details
-Provide a Name Action: iot:* Resource ARM: * Effect: Allow Create a Thing Create a Thing first Single Thing</description>
+      <description>&lt;h1&gt;&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/OzNlSk7VU68?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;Don&amp;rsquo;t confuse Masala Chai with Chai Latte, no not the same thing! While we make chai during the snowy season, lets connect ESP8266/32 to Amazon&amp;rsquo;s AWS IoT in less than 5 minutes.&lt;/p&gt;
+&lt;h2 id=&#34;aws-iot-core-instructions&#34;&gt;AWS IoT Core Instructions&lt;/h2&gt;
+&lt;p&gt;Goto &lt;a href=&#34;https://console.aws.amazon.com/iot&#34;&gt;AWS IoT Core&lt;/a&gt; on your &lt;a href=&#34;https://console.aws.amazon.com&#34;&gt;AWS console&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;create-a-policy&#34;&gt;Create a Policy&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Generate a &lt;strong&gt;Policy&lt;/strong&gt; first
+&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/debsahu/ESP-MQTT-AWS-IoT-Core/raw/master/doc/1-policy-create.png&#34; alt=&#34;1-policy-create&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP8266/ESP32 Based RGB Light (NeoPixels) Connecting to Google Home &amp; Alexa via ARTIK Cloud</title>
       <link>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</guid>
-      <description>⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️ Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.
-Connecting to Samsung ARTIK Cloud https://my.artik.cloud/
-GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with ARTIK Cloud
-Connects to ARTIK Cloud via MQTT SSL port 8883 ARTIK Cloud is connected to all assistant platforms, integration is seamless Compiles on ESP8266-arduino core v2.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/baNO_8L5-RY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;---artik-cloud-has-been-depcreciated-by-samsung---&#34;&gt;⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️&lt;/h1&gt;
+&lt;p&gt;Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux on Windows 10</title>
       <link>https://www.debashishsahu.com/posts/linux-on-windows-10/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/linux-on-windows-10/</guid>
-      <description>Here we attempt to use Linux on Windows.
-WSL on Windows: https://aka.ms/wslinstall
-Canonical Multipass: https://github.com/CanonicalLtd/multipass</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/1GN-Q-ZF1Vk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here we attempt to use Linux on Windows.&lt;/p&gt;
+&lt;p&gt;WSL on Windows: &lt;a href=&#34;https://aka.ms/wslinstall&#34;&gt;https://aka.ms/wslinstall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Canonical Multipass: &lt;a href=&#34;https://github.com/CanonicalLtd/multipass&#34;&gt;https://github.com/CanonicalLtd/multipass&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Control a &#34;Dumb&#34; TV Using a Transistor and ESP8266</title>
       <link>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</guid>
-      <description>The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.
-GitHub: debsahu/PegasusTV Goal: Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant Features: Uses D2 to control 2N2222 transistor Control using Web and MQTT API Completely Async WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Connect PIN_CTRL pin to base of 2N2222, collector to Probe and emitter to GND Hardware Software Overview Libraries Needed platformio.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/MmY-NLU-UN0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahupegasustv&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/PegasusTV&#34;&gt;GitHub: debsahu/PegasusTV&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;goal&#34;&gt;Goal:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses D2 to control 2N2222 transistor&lt;/li&gt;
+&lt;li&gt;Control using Web and MQTT API&lt;/li&gt;
+&lt;li&gt;Completely Async&lt;/li&gt;
+&lt;li&gt;WiFiManager Captive Portal to get WiFi credentials (Compile with &lt;code&gt;-DUSE_EADNS&lt;/code&gt; for ESP8266)&lt;/li&gt;
+&lt;li&gt;Connect &lt;strong&gt;PIN_CTRL&lt;/strong&gt; pin to base of 2N2222, collector to Probe and emitter to GND&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/debsahu/PegasusTV/raw/master/hardware.png&#34; alt=&#34;Hardware Setup&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>NeoPixel Painter Draw Using LEDs on Thin Air</title>
       <link>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</guid>
-      <description> Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips. Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: https://github.com/debsahu/E131_PixelPusher that displays strips of pictures over time. These bright lights are registered on the sensors of camera yielding out of the world photos! </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/afyqMxOFD78?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips.&lt;/li&gt;
+&lt;li&gt;Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: &lt;a href=&#34;https://github.com/debsahu/E131_PixelPusher&#34;&gt;https://github.com/debsahu/E131_PixelPusher&lt;/a&gt; that displays strips of pictures over time.&lt;/li&gt;
+&lt;li&gt;These bright lights are registered on the sensors of camera yielding out of the world photos!&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>E1.31 Pixel Pusher: Sending E1.31 UDP Data to ESP8266 Displayed on NeoPixels</title>
       <link>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</guid>
-      <description>Here we try to push E1.31 UDP data received wirelessly via ESP8266 and pushed to NeoPixel in the fastest way possible.
-Other projects with E1.31 support:
-GitHub: forkineye/ESPixelStick GitHub: Aircoookie/WLED GitHub: toblum/McLighting I also demonstrate how to setup and use Jinx!, ledfx and xLights
-GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for ESP8266/ESP32
-Completely Async Web-interface to set starting universe, unicast/umulticast, total number of universes WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Subscribes to E131 multicast Connect RX/GPIO3 to DIN of NeoPixel strip, and any PIN (&amp;lt;GPIO32) specified for ESP32 Upload included firmware.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/lZ09GlO2_8s?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here we try to push E1.31 UDP data received wirelessly via ESP8266 and pushed to NeoPixel in the fastest way possible.&lt;/p&gt;
+&lt;p&gt;Other projects with E1.31 support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/forkineye/ESPixelStick&#34;&gt;GitHub: forkineye/ESPixelStick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;GitHub: Aircoookie/WLED&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/toblum/McLighting&#34;&gt;GitHub: toblum/McLighting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also demonstrate how to setup and use Jinx!, ledfx and xLights&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahue131_&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/E131_PixelPusher&#34;&gt;GitHub: debsahu/E131_PixelPusher&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Minimalistic Async code around Async E131 for ESP8266/ESP32&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating a Home Assistant Web Scraper Sensor</title>
       <link>https://www.debashishsahu.com/posts/creating-a-home-assistant-web-scraper-sensor/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/creating-a-home-assistant-web-scraper-sensor/</guid>
-      <description>Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
-GitHub: debsahu/lxmlWebScraper Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
-Overview Installing lxml If working in virtual environment, install lxml using pip
-$ pip3 install lxml If working on python installation installed globally</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/KUYVLubFplM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahulxmlwebscraper&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/lxmlWebScraper&#34;&gt;GitHub: debsahu/lxmlWebScraper&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Here is a demonstration of using lxml for scraping a &lt;a href=&#34;http://www.cityofmadison.com/residents/winter/parking/alternateSideParking.cfm&#34;&gt;website&lt;/a&gt; to extract essential HTML data and pass the data as sensor to Home Assistant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP8266/ESP32 Connecting to SSL/TLSv1.2 Secured Mosquitto MQTT Broker</title>
       <link>https://www.debashishsahu.com/posts/esp8266-esp32-connecting-to-ssl-tlsv1-2-secured-mosquitto-mqtt-broker/</link>
       <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-esp32-connecting-to-ssl-tlsv1-2-secured-mosquitto-mqtt-broker/</guid>
-      <description>Demonstration on ESP8266 &amp;amp; ESP32 using SSL/TLSv1.2 two-way handshake with secured mosquitto broker. SSL is preferred way of encryption of communication between devices over the internet. Here we secure a mosquitto MQTT broker and connect to it via ESP8266 &amp;amp; ESP32 that do a two-way handshake.
-Andreas Spiess on ESP devices &amp;amp; SSL: https://www.youtube.com/watch?v=Wm1xKj4bKsY
-GitHub: debsahu/ESP_MQTT_Secure ⚠️ ⚠️ ⚠️ Will not be maintained/updated ⚠️ ⚠️ ⚠️
-Demonstration on ESP8266 &amp;amp; ESP32 using SSL/TLSv1.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/ytQUbyab4es?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Demonstration on ESP8266 &amp;amp; ESP32 using SSL/TLSv1.2 two-way handshake with secured mosquitto broker. SSL is preferred way of encryption of communication between devices over the internet. Here we secure a mosquitto MQTT broker and connect to it via ESP8266 &amp;amp; ESP32 that do a two-way handshake.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using ESP8266 to Call RESTful API From TheRide to Get Real-Time BUS Data</title>
       <link>https://www.debashishsahu.com/posts/using-esp8266-to-call-restful-api-from-theride-to-get-real-time-bus-data/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/using-esp8266-to-call-restful-api-from-theride-to-get-real-time-bus-data/</guid>
-      <description>Here is a tutorial on how to call RESTful API on ESP8266 and process the data using ArduinoJSON. This data is visually represented in a NeoPixel ring for easy tracking of 3 buses approaching a certain stop. This code also sends MQTT messages with the received data.
-debsahu/RESTful-Ride Using ESP8266 to call RESTful API from http://TheRide.org to get real-time BUS data
-Features: Easy to read interface Fast and Responsive Portable, i.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/-1dSZIs3ISw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here is a tutorial on how to call RESTful API on ESP8266 and process the data using ArduinoJSON. This data is visually represented in a NeoPixel ring for easy tracking of 3 buses approaching a certain stop. This code also sends MQTT messages with the received data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hacking an Automatic Trash Can to Listen to You</title>
       <link>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</guid>
-      <description>Idea To convert an automatic trash can into a smart one.
-Hardware Automatic Trash Can Wemos D1 mini (ESP8266) 2N2222 transistor Implementation Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in https://github.com/debsahu/SmartTrashCan to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.
-GitHub: debsahu/SmartTrashCan Dependencies Library Link Use Wemo Switch Emulator Library https://github.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/BBDi1uOJqV8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;p&gt;To convert an &lt;a href=&#34;https://amzn.to/3bEGGEr&#34;&gt;automatic trash can&lt;/a&gt; into a smart one.&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3bEGGEr&#34;&gt;Automatic Trash Can&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/2OLCcmJ&#34;&gt;Wemos D1 mini (ESP8266)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2N2222 transistor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+&lt;p&gt;Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in &lt;a href=&#34;https://github.com/debsahu/SmartTrashCan&#34;&gt;https://github.com/debsahu/SmartTrashCan&lt;/a&gt; to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using Gestures to Control Lights on Home-Assistant</title>
       <link>https://www.debashishsahu.com/posts/using-gestures-to-control-lights-on-home-assistant/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/using-gestures-to-control-lights-on-home-assistant/</guid>
-      <description> Getting one&amp;rsquo;s hands on APDS9960 is very easy, that can be used to detect hand gestures. Here we use this sensor to control lights on Home Assistant based on a gesture observed on sensor.
-Software Libraries used: HARestAPI GitHub: debsahu/HARestAPI APDS9960 GitHub: SteveQuinn1/SparkFun_APDS-9960_Sensor_Arduino_Library SSD1306 OLED I2C GitHub: ThingPulse/esp8266-oled-ssd1306 </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/HkZQ4bvZ3uo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Getting one&amp;rsquo;s hands on APDS9960 is very easy, that can be used to detect hand gestures. Here we use this sensor to control lights on Home Assistant based on a gesture observed on sensor.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;h3 id=&#34;libraries-used&#34;&gt;Libraries used:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;HARestAPI &lt;a href=&#34;https://github.com/debsahu/HARestAPI&#34;&gt;GitHub: debsahu/HARestAPI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;APDS9960 &lt;a href=&#34;https://github.com/SteveQuinn1/SparkFun_APDS-9960_Sensor_Arduino_Library&#34;&gt;GitHub: SteveQuinn1/SparkFun_APDS-9960_Sensor_Arduino_Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SSD1306 OLED I2C &lt;a href=&#34;https://github.com/ThingPulse/esp8266-oled-ssd1306&#34;&gt;GitHub: ThingPulse/esp8266-oled-ssd1306&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=bae29c78442a82fd4ae2de2296a1783c&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>ESP8266 Talking to AWS IoT Using MQTT</title>
       <link>https://www.debashishsahu.com/posts/esp8266-talking-to-aws-iot-using-mqtt/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-talking-to-aws-iot-using-mqtt/</guid>
-      <description>Arduino library connecting to the AWS IoT service from an ESP8266 using websockets and MQTT.
-GitHub: debsahu/esp8266-arduino-aws-iot-ws ⚠️ ⚠️ ⚠️ This is no longer maintained and obsolete, there is better way to do this: follow instructions from here Still want to use this, follow instructions below ⚠️ ⚠️ ⚠️ Arduino Library derived from joekickass/esp8266-arduino-aws-iot-ws to work with Arduino
-Dependencies Library Link Use arduinoWebSockets https://github.com/Links2004/arduinoWebSockets websocket comm impl PahoMQTT https://projects.eclipse.org/projects/technology.paho/downloads mqtt comm impl ArduinoJSON 6.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/AiCa6E_DBL8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Arduino library connecting to the AWS IoT service from an ESP8266 using websockets and MQTT.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahuesp8266-arduino-aws-iot-ws&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/esp8266-arduino-aws-iot-ws&#34;&gt;GitHub: debsahu/esp8266-arduino-aws-iot-ws&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;---this-is-no-longer-maintained-and-obsolete-there-is-better-way-to-do-this-follow-instructions-from-here-still-want-to-use-this-follow-instructions-below---&#34;&gt;⚠️ ⚠️ ⚠️ This is no longer maintained and obsolete, there is better way to do this: follow instructions from here Still want to use this, follow instructions below ⚠️ ⚠️ ⚠️&lt;/h3&gt;
+&lt;p&gt;Arduino Library derived from &lt;a href=&#34;https://github.com/joekickass/esp8266-arduino-aws-iot-ws&#34;&gt;joekickass/esp8266-arduino-aws-iot-ws&lt;/a&gt; to work with Arduino&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP8266 Making Google Home Speak</title>
       <link>https://www.debashishsahu.com/posts/esp8266-making-google-home-speak/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-making-google-home-speak/</guid>
-      <description>Using esp8266-google-home-notifier library on ESP8266 to make Google Home speak!
-Software Prerequisites/Limitations The GoogleHomeName must match the name of Google Home / mini setup in Google Home App. The ESP8266 must be on the same network as Google Home. MDNS: Dont include ESP8266mDNS.h supplied by Arduino-ESP8266. Internal ESP8266mDNS.h should suffice. Libraries required esp8266-google-home-notifier esp8266-google-tts WiFiManager (optional) GitHub: debsahu/GoogleSay sercret.h
-#define SECRETconst char* ssid = &amp;#34;&amp;lt;WiFiSSID&amp;gt;&amp;#34;;const char* password = &amp;#34;&amp;lt;WiFiPassword&amp;gt;&amp;#34;; GoogleSay.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/aWBr0WYP6Zs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using esp8266-google-home-notifier library on ESP8266 to make Google Home speak!&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;h3 id=&#34;prerequisiteslimitations&#34;&gt;Prerequisites/Limitations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;GoogleHomeName&lt;/strong&gt; must match the name of Google Home / mini setup in Google Home App.&lt;/li&gt;
+&lt;li&gt;The ESP8266 must be on the same network as Google Home.&lt;/li&gt;
+&lt;li&gt;MDNS: Dont include ESP8266mDNS.h supplied by Arduino-ESP8266. Internal ESP8266mDNS.h should suffice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;libraries-required&#34;&gt;Libraries required&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/horihiro/esp8266-google-home-notifier&#34;&gt;esp8266-google-home-notifier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/horihiro/esp8266-google-tts&#34;&gt;esp8266-google-tts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tzapu/WiFiManager&#34;&gt;WiFiManager&lt;/a&gt; (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;github-debsahugooglesay&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/GoogleSay&#34;&gt;GitHub: debsahu/GoogleSay&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;sercret.h&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP32 Communicating With Xiaomi Flora Plant Sensor Using BLE</title>
       <link>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</guid>
-      <description>Using ESP32 to communicate with Xiaomi flora (miflora) plant sensor using BLE and posting the values on MQTT server. I also demonstrate the use of Home Assistant miflora sensor component.
-Change ESP32 Partition: https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/ Home Assistant miflora sensor: https://www.home-assistant.io/components/sensor.miflora/
-GitHub: sidddy/flora Archived code from https://github.com/sidddy/flora below
-config.h
-// array of different xiaomi flora MAC addresseschar* FLORA_DEVICES[] = {&amp;#34;C4:7C:8D:67:11:11&amp;#34;, &amp;#34;C4:7C:8D:67:22:22&amp;#34;, &amp;#34;C4:7C:8D:67:33:33&amp;#34;};// sleep between to runs in seconds#define SLEEP_DURATION 30 * 60// emergency hibernate countdown in seconds#define EMERGENCY_HIBERNATE 3 * 60// how often should the battery be read - in run count#define BATTERY_INTERVAL 6// how often should a device be retried in a run when something fails#define RETRY 3const char* WIFI_SSID = &amp;#34;ssid&amp;#34;;const char* WIFI_PASSWORD = &amp;#34;password&amp;#34;;// MQTT topic gets defined by &amp;#34;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;#34;// where MAC_ADDRESS is one of the values from FLORA_DEVICES array// property is either temperature, moisture, conductivity, light or batteryconst char* MQTT_HOST = &amp;#34;10.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/M3qr4PVtuCc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using ESP32 to communicate with Xiaomi flora (miflora) plant sensor using BLE and posting the values on MQTT server. I also demonstrate the use of Home Assistant miflora sensor component.&lt;/p&gt;
+&lt;p&gt;Change ESP32 Partition: &lt;a href=&#34;https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/&#34;&gt;https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/&lt;/a&gt;
+Home Assistant miflora sensor: &lt;a href=&#34;https://www.home-assistant.io/components/sensor.miflora/&#34;&gt;https://www.home-assistant.io/components/sensor.miflora/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;github-sidddyflora&#34;&gt;&lt;a href=&#34;https://github.com/sidddy/flora&#34;&gt;GitHub: sidddy/flora&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Archived code from &lt;a href=&#34;https://github.com/sidddy/flora&#34;&gt;https://github.com/sidddy/flora&lt;/a&gt; below&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;config.h&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;// array of different xiaomi flora MAC addresses
+char* FLORA_DEVICES[] = {
+    &amp;#34;C4:7C:8D:67:11:11&amp;#34;, 
+    &amp;#34;C4:7C:8D:67:22:22&amp;#34;, 
+    &amp;#34;C4:7C:8D:67:33:33&amp;#34;
+};
+
+// sleep between to runs in seconds
+#define SLEEP_DURATION 30 * 60
+// emergency hibernate countdown in seconds
+#define EMERGENCY_HIBERNATE 3 * 60
+// how often should the battery be read - in run count
+#define BATTERY_INTERVAL 6
+// how often should a device be retried in a run when something fails
+#define RETRY 3
+
+const char*   WIFI_SSID       = &amp;#34;ssid&amp;#34;;
+const char*   WIFI_PASSWORD   = &amp;#34;password&amp;#34;;
+
+// MQTT topic gets defined by &amp;#34;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;#34;
+// where MAC_ADDRESS is one of the values from FLORA_DEVICES array
+// property is either temperature, moisture, conductivity, light or battery
+
+const char*   MQTT_HOST       = &amp;#34;10.10.10.1&amp;#34;;
+const int     MQTT_PORT       = 1883;
+const char*   MQTT_CLIENTID   = &amp;#34;miflora-client&amp;#34;;
+const char*   MQTT_USERNAME   = &amp;#34;username&amp;#34;;
+const char*   MQTT_PASSWORD   = &amp;#34;password&amp;#34;;
+const String  MQTT_BASE_TOPIC = &amp;#34;flora&amp;#34;; 
+const int     MQTT_RETRY_WAIT = 5000;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;flora.ino&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resurrecting a GPU Cooling Fan Using a Micro-Processor and PWM</title>
       <link>https://www.debashishsahu.com/posts/resurrecting-a-gpu-cooling-fan-using-a-micro-processor-and-pwm/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/resurrecting-a-gpu-cooling-fan-using-a-micro-processor-and-pwm/</guid>
-      <description> Trying to rescue a GPU cooling system containing a 12V 4-wire fan using a PWM signal from ATtiny85 and reading a voltage from ADC from a potentiometer knob. Ultimately building a 4-wire fan controller.
-25kHz PWM on ESP8266: https://github.com/esp8266/Arduino/issues/4598
-Software </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/ZMIODZTbhCA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Trying to rescue a GPU cooling system containing a 12V 4-wire fan using a PWM signal from ATtiny85 and reading a voltage from ADC from a potentiometer knob. Ultimately building a 4-wire fan controller.&lt;/p&gt;
+&lt;p&gt;25kHz PWM on ESP8266: &lt;a href=&#34;https://github.com/esp8266/Arduino/issues/4598&#34;&gt;https://github.com/esp8266/Arduino/issues/4598&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=795922a2429bb41c18aa083e38b6678d&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Building LED String Using Capacitive Dropper</title>
       <link>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</guid>
-      <description> Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
-Inspired from bigclive&amp;rsquo;s project </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/xSH6chZMxQg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.&lt;/p&gt;
+&lt;h2 id=&#34;inspired-from-bigclives-project&#34;&gt;Inspired from bigclive&amp;rsquo;s project&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/ewO-r8_d3uw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
     </item>
     <item>
       <title>The Button: Amazon &#34;Dash&#34; Type Button to Communicate to Home-Assistant</title>
       <link>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</guid>
-      <description>An attempt to build a Amazon &amp;ldquo;Dash&amp;rdquo; type button to communicate with Home Assistant, which is a combination of two different projects
-GitHub: debsahu/TheButton Things we want to achieve: Low on power consumtion: ESP8266 is OFF when the button is not pressed debsahu/ESP_External_Interrupt Portable: Uses 18650 battery, lasts years Talks to Home Assistant: debsahu/HARestAPI ESP_External_Interrupt GitHub: https://github.com/debsahu/ESP_External_Interrupt
-HARestAPI GitHub: https://github.com/debsahu/HARestAPI</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/QOnNf9LtF_8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;An attempt to build a Amazon &amp;ldquo;Dash&amp;rdquo; type button to communicate with Home Assistant, which is a combination of two different projects&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahuthebutton&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/TheButton&#34;&gt;GitHub: debsahu/TheButton&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;things-we-want-to-achieve&#34;&gt;Things we want to achieve:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Low on power consumtion: ESP8266 is &lt;strong&gt;OFF&lt;/strong&gt; when the button is not pressed &lt;a href=&#34;https://github.com/debsahu/ESP_External_Interrupt&#34;&gt;debsahu/ESP_External_Interrupt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Portable: Uses 18650 battery, lasts years&lt;/li&gt;
+&lt;li&gt;Talks to Home Assistant: &lt;a href=&#34;https://github.com/debsahu/HARestAPI&#34;&gt;debsahu/HARestAPI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;ESP_External_Interrupt&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/debsahu/ESP_External_Interrupt&#34;&gt;https://github.com/debsahu/ESP_External_Interrupt&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image Recognition Using Movidius Neural Compute Stick on a RPi0W</title>
       <link>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</guid>
-      <description>Let&amp;rsquo;s build a security camera using Raspberry Pi Zero W and Movidius Neural Compute Stick to recognize a &amp;ldquo;person&amp;rdquo; on the video stream
-GitHub: debsahu/PiCamMovidius Set up NCSDK API Install required packages on Pi sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev Clone NCSDK cd ~git clone https://github.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/1q7SU6tp4Yk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Let&amp;rsquo;s build a security camera using Raspberry Pi Zero W and Movidius Neural Compute Stick to recognize a &amp;ldquo;person&amp;rdquo; on the video stream&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahupicammovidius&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/PiCamMovidius&#34;&gt;GitHub: debsahu/PiCamMovidius&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;set-up-ncsdk-api&#34;&gt;Set up NCSDK API&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Install required packages on Pi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Clone NCSDK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~
+git clone https://github.com/movidius/ncsdk
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Compile and install NCSDK’s API framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~/ncsdk/api/src
+make
+sudo make install
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Test installation using sample code from NC App Zoo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~
+git clone https://github.com/movidius/ncappzoo
+cd ncappzoo/apps/hello_ncs_py
+python3 hello_ncs.py
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Output should look something like this:&lt;/p&gt;</description>
     </item>
     <item>
       <title>MeshyMcLighting: NeoPixels Lighting Solution Using Mesh Network</title>
       <link>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</guid>
-      <description>Wouldn&amp;rsquo;t be cool for many McLighting (RGB LED lighting using NeoPixels) to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone web-client.
-MeshyMcLighting What is this? Wouldn&amp;rsquo;t be cool for many McLighting to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone webclient.
-Features Uses painlessMesh to create mesh network and broadcasts state to every node Does not need WiFi connection to internet, standalone mode + mesh Web interface is borrowed from &amp;ldquo;WS2812FX esp8266&amp;rdquo; example, completely served on ESP8266 Can do minimal file upload to SPIFFs Completely Async!</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/j_3xK5Vr8rw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Wouldn&amp;rsquo;t be cool for many McLighting (RGB LED lighting using NeoPixels) to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone web-client.&lt;/p&gt;
+&lt;h2 id=&#34;meshymclighting&#34;&gt;&lt;a href=&#34;https://github.com/toblum/McLighting/tree/experimental/Arduino/MeshyMcLighting&#34;&gt;MeshyMcLighting&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h3&gt;
+&lt;p&gt;Wouldn&amp;rsquo;t be cool for many McLighting to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone webclient.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using RTL-SDR to Read Values From Wireless Electric/Gas/Water Meters</title>
       <link>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</guid>
-      <description>An attempt to use RTL-SDR to read values from wireless electric/gas/water meters and visualize these values on Home Assistant.
-Software Based on bemasher/RTLAMR Project: https://github.com/bemasher/rtlamr</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/lkEfJkDTQIQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;An attempt to use RTL-SDR to read values from wireless electric/gas/water meters and visualize these values on Home Assistant.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;Based on bemasher/RTLAMR Project: &lt;a href=&#34;https://github.com/bemasher/rtlamr&#34;&gt;https://github.com/bemasher/rtlamr&lt;/a&gt;&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=ee33914e8dea896ff3956f02970e38b9&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>RobinhoodAPI: Live Stock Prices From Robinhood on ESP8266</title>
       <link>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
-      <description>A simple Arduino library that retrieves live stock prices from www.robinhood.com in JSON format and processes it for ESP8266. In one example, we demonstrate a whole bunch of stock prices scrolling through a dot-matrix display.
-Github: debsahu/RobinhoodAPI An Arduino library to talk to Robin Hood using non-documented Rest API made for ESP8266. Some unofficial documentaion by @sanko is available at here]
-Using the Library Download this GitHub library. In Arduino, Goto Sketch -&amp;gt; Include Library -&amp;gt; Add .</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/dZNI3xsheE0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;A simple Arduino library that retrieves live stock prices from &lt;a href=&#34;https://www.robinhood.com&#34;&gt;www.robinhood.com&lt;/a&gt; in JSON format and processes it for ESP8266. In one example, we demonstrate a whole bunch of stock prices scrolling through a dot-matrix display.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahurobinhoodapi&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/RobinhoodAPI&#34;&gt;Github: debsahu/RobinhoodAPI&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;An Arduino library to talk to &lt;a href=&#34;https://robinhood.com/&#34;&gt;Robin Hood&lt;/a&gt; using &lt;a href=&#34;https://support.robinhood.com/hc/en-us/articles/210216823-Robinhood-API-Integrations&#34;&gt;non-documented Rest API&lt;/a&gt; made for ESP8266. Some unofficial documentaion by @sanko is available at &lt;a href=&#34;https://github.com/sanko/Robinhood&#34;&gt;here&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stock Prediction on Python Using Machine Learning (NARX)</title>
       <link>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</guid>
-      <description>This video is a collaboration with my wife who does &amp;ldquo;machine learning on big data&amp;rdquo; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/nUPW4RPoPpg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;This video is a collaboration with my wife who does &lt;strong&gt;&amp;ldquo;machine learning on big data&amp;rdquo;&lt;/strong&gt; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HARestAPI: Control Home Assistant Directly Using ESP8266</title>
       <link>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
-      <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands.
-Idea Control components on Home Assistant directly from ESP8266. Implementation Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/XV_X3e7xwDE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses &lt;a href=&#34;https://www.home-assistant.io/developers/rest_api/&#34;&gt;RESTful API commands&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Control components on &lt;a href=&#34;https://www.home-assistant.io/&#34;&gt;Home Assistant&lt;/a&gt; directly from ESP8266.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses &lt;a href=&#34;https://developers.home-assistant.io/docs/en/external_api_rest.html&#34;&gt;RESTful API commands&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;harestapi-library&#34;&gt;HARestAPI Library: &lt;a href=&#34;https://github.com/debsahu/HARestAPI&#34;&gt;https://github.com/debsahu/HARestAPI&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;An Arduino library to talk to Home Assistant using &lt;a href=&#34;https://www.home-assistant.io/developers/rest_api/&#34;&gt;Rest API&lt;/a&gt; made for ESP8266.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESP8266 Based Color Sensor Talking to Home Assistant via RestAPI</title>
       <link>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp8266-based-color-sensor-talking-to-home-assistant-via-restapi/</guid>
-      <description> Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a TCS34725 color sensor to read colors and change a RGB light in Home Assistant to the color observed.
-Hardware TCS34725 color sensor SSD 1306 OLED Wemos D1 mini (ESP8266) Software RGB Lights connected to Home Assistant toblum/McLighting Aircoookie/WLED </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/PGJVOPV3vig?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Did you ever want to use ESP8266 to communicate to Home Assistant directly? Here we use a &lt;a href=&#34;https://amzn.to/3lcJv2L&#34;&gt;TCS34725 color sensor&lt;/a&gt; to read colors and change a RGB light in Home Assistant to the color observed.&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3lcJv2L&#34;&gt;TCS34725 color sensor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/38xMXzR&#34;&gt;SSD 1306 OLED&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/2OLCcmJ&#34;&gt;Wemos D1 mini (ESP8266)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=046b2b2683975a6dc44db3346be6ec57&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;rgb-lights-connected-to-home-assistant&#34;&gt;RGB Lights connected to Home Assistant&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/toblum/McLighting&#34;&gt;toblum/McLighting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;Aircoookie/WLED&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Talking to Twitter Using TwitterWebAPI for ESP8266</title>
       <link>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/talking-to-twitter-using-twitterwebapi-for-esp8266/</guid>
-      <description>Idea: Use ESP8266 to talk to Twitter Get User Data or Tweet or Search Twitter Display the data on a Dot-Matrix display Implementation I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/ZDGhFYGj5tc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use ESP8266 to talk to Twitter&lt;/li&gt;
+&lt;li&gt;Get User Data or Tweet or Search Twitter&lt;/li&gt;
+&lt;li&gt;Display the data on a Dot-Matrix display&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+&lt;p&gt;I created an Arduino library to talk to Twitter using its Web API made for ESP8266. There are other approaches like using a bearer token arduino-twitter-api, but comes with limitations in terms of not being able to send tweet. This Arduino library TwitterWebAPI can both search/read and post tweets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Internet Connected Smoke Alarm</title>
       <link>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</guid>
-      <description>Have you wondered how to build a internet connected smoke alarm using ESP8266 and a cheap Kidde RF-SM-DC?
-Overall idea is to detect smoke alarm signals and send MQTT message. Home Assistant reads the MQTT message and sends out notifications that can be used to notify your local fire station.
-ESP8266 sends a MQTT message until the smoke alarm is beeping.
-Software Refer to https://github.com/debsahu/ESP_External_Interrupt to build the ESP8266 part of the internet connected smoke alarm.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/rgAuyPvZLB4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Have you wondered how to build a internet connected smoke alarm using ESP8266 and a cheap &lt;a href=&#34;https://amzn.to/2N8SiGn&#34;&gt;Kidde RF-SM-DC&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Overall idea is to detect smoke alarm signals and send MQTT message. Home Assistant reads the MQTT message and sends out notifications that can be used to notify your local fire station.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Extreme Power-Save Mode: ESP8266 Powered ON After External Interrupt</title>
       <link>https://www.debashishsahu.com/posts/extreme-power--save-mode-esp8266-powered-on-after-external-interrupt/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/extreme-power--save-mode-esp8266-powered-on-after-external-interrupt/</guid>
-      <description>Have you ever wondered how to turn on ESP8266 using external interrupt? Build a battery powered amazon dash button or a 18650 lipo powered door bell using ESP8266 without putting the device in deep sleep? Here is your answer.
-Idea Keep ESP8266 on OFF mode as default External 3.3V signal (can be short or long) arrives and turns ON ESP8266 ESP8266 wakes up and keeps itself awake until a task is perfomed Send MQTT data to server Put ESP8266 back to power OFF state Implementation RST pin is always HIGH/3.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/pPd362tRx5o?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Have you ever wondered how to turn on ESP8266 using external interrupt? Build a battery powered amazon dash button or a 18650 lipo powered door bell using ESP8266 without putting the device in deep sleep? Here is your answer.&lt;/p&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Keep ESP8266 on &lt;strong&gt;OFF&lt;/strong&gt; mode as default&lt;/li&gt;
+&lt;li&gt;External 3.3V signal (can be short or long) arrives and turns &lt;strong&gt;ON&lt;/strong&gt; ESP8266&lt;/li&gt;
+&lt;li&gt;ESP8266 wakes up and keeps itself awake until a task is perfomed&lt;/li&gt;
+&lt;li&gt;Send MQTT data to server&lt;/li&gt;
+&lt;li&gt;Put ESP8266 back to power &lt;strong&gt;OFF&lt;/strong&gt; state&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;RST pin is always HIGH/3.3V using 10k resistor&lt;/li&gt;
+&lt;li&gt;ESP8266 is in &lt;strong&gt;OFF&lt;/strong&gt; state, GPIO0 is low&lt;/li&gt;
+&lt;li&gt;3.3V signal arrives externally, GPIO0 and CH_PD are high, turn &lt;strong&gt;ON&lt;/strong&gt; ESP8266&lt;/li&gt;
+&lt;li&gt;First thing ESP8266 does is turns GPIO0 to high, which means CH_PD remain high. So ESP8266 remains &lt;strong&gt;ON&lt;/strong&gt; until GPIO0 is high&lt;/li&gt;
+&lt;li&gt;GPIO12 is used to read value of external interupt&lt;/li&gt;
+&lt;li&gt;If there is 3.3V external interrupt, GPIO is high and a MQTT message is sent as “Signal Received” or “ON” and keep ESP8266 &lt;strong&gt;ON&lt;/strong&gt; until 0V signal is received.&lt;/li&gt;
+&lt;li&gt;If there is 0V external interrupt, GPIO0 goes low and MQTT message is sent as “Signal Vanished” or “OFF” and turns &lt;strong&gt;OFF&lt;/strong&gt; ESP8266&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;This project is built using ideas at &lt;a href=&#34;http://www.esp8266.com/viewtopic.php?f=11&amp;amp;t=4458&#34;&gt;http://www.esp8266.com/viewtopic.php?f=11&amp;t=4458&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Internet Connected Dog Water Bowl Sensor</title>
       <link>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/internet-connected-dog-water-bowl-sensor/</guid>
-      <description>Wouldn’t it be nice to know if your dog’s water bowl is empty? Let us build a sensor that measures the water level every 5 minutes. This value is sent to MQTT server and Home Assistant automation takes care of the rest.
-This sensor connects to MQTT and Home Assistant. See dogsensor.yaml for adding this to HA. Assumes that one has set up various notification sensors available in HA.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/AfrIyBWgfdM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Wouldn’t it be nice to know if your dog’s water bowl is empty? Let us build a sensor that measures the water level every 5 minutes. This value is sent to MQTT server and Home Assistant automation takes care of the rest.&lt;/p&gt;
+&lt;p&gt;This sensor connects to MQTT and Home Assistant. See dogsensor.yaml for adding this to HA. Assumes that one has set up various notification sensors available in HA.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MOSFET Used as Switch to Control a 12V Fan</title>
       <link>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/mosfet-used-as-switch-to-control-a-12v-fan/</guid>
-      <description>Lets turn on and off low powered fan running at low (&amp;lt;20V) DC voltages. We shall use a MOSFET to achieve this. Hardware IRLML0030PBF ATTiny85 2-pin 12V Fan Wiring MOSFETs have three terminals Drain (D), Source (S) and Gate (G), where source is connected to ground and the +12V or +5V along with load (Fan) is connected to drain. The MOSFET is on when gate voltage is higher than 1.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/6Rd6D_bd9pI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Lets turn on and off low powered fan running at low (&amp;lt;20V) DC voltages. We shall use a MOSFET to achieve this.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://www.debashishsahu.com/Overall-MOSFET.png&#34; alt=&#34;overall schematic&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IRLML0030PBF&lt;/li&gt;
+&lt;li&gt;ATTiny85&lt;/li&gt;
+&lt;li&gt;2-pin 12V Fan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wiring&#34;&gt;Wiring&lt;/h2&gt;
+&lt;p&gt;MOSFETs have three terminals Drain (D), Source (S) and Gate (G), where source is connected to ground and the +12V or +5V along with load (Fan) is connected to drain. The MOSFET is on when gate voltage is higher than 1.7V and turned off when gate voltage is 0V.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Build a 3.3V Voltage Regulator</title>
       <link>https://www.debashishsahu.com/posts/how-to-build-a-3-3v-voltage-regulator/</link>
       <pubDate>Sat, 25 Feb 2017 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/how-to-build-a-3-3v-voltage-regulator/</guid>
-      <description> Here are the instructions to wire a stable AMS1117-3.3 voltage regulator properly. This can power an ESP8266 or any 3.3V micro-controller reliably supporting current draws up to 1A.
-Hardware AMS 1117-3.3 10 uF Electrolytic Capacitor 104 Ceramic Capacitor Wiring AMS1117-3.3 (right to left) Pin 1: GND Pin 2: Vout Pin 3: Vin Connections 5-12V -&amp;gt; Vin GND -&amp;gt; GND 10 uF Electrolytic Capacitor +ve -&amp;gt; Vout 10 uF Electrolytic Capacitor GND -&amp;gt; GND 104 Ceramic Capacitor +ve -&amp;gt; Vin 104 Ceramic Capacitor GND -&amp;gt; GND </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/YnKoSxGJ7wU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here are the instructions to wire a stable AMS1117-3.3 voltage regulator properly. This can power an ESP8266 or any 3.3V micro-controller reliably supporting current draws up to 1A.&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AMS 1117-3.3&lt;/li&gt;
+&lt;li&gt;10 uF Electrolytic Capacitor&lt;/li&gt;
+&lt;li&gt;104 Ceramic Capacitor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wiring&#34;&gt;Wiring&lt;/h2&gt;
+&lt;h3 id=&#34;ams1117-33-right-to-left&#34;&gt;AMS1117-3.3 (right to left)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Pin 1: GND&lt;/li&gt;
+&lt;li&gt;Pin 2: Vout&lt;/li&gt;
+&lt;li&gt;Pin 3: Vin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;connections&#34;&gt;Connections&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;5-12V -&amp;gt; Vin&lt;/li&gt;
+&lt;li&gt;GND   -&amp;gt; GND&lt;/li&gt;
+&lt;li&gt;10 uF Electrolytic Capacitor +ve -&amp;gt; Vout&lt;/li&gt;
+&lt;li&gt;10 uF Electrolytic Capacitor GND -&amp;gt; GND&lt;/li&gt;
+&lt;li&gt;104 Ceramic Capacitor +ve -&amp;gt; Vin&lt;/li&gt;
+&lt;li&gt;104 Ceramic Capacitor GND -&amp;gt; GND&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>IoT Dot Matrix Display: Twitter Mentions Using ESP8266 Adafruit.io and IFTTT</title>
       <link>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/iot-dot-matrix-display-twitter-mentions-using-esp8266-adafruit-io-and-ifttt/</guid>
-      <description>Let’s say that you don’t have your smartphone around and someone mentions you on twitter. Wouldn’t it be nice to have a display that automatically reads your twitter mentions and show it on a scrolling display? So let’s build a internet controlled (IoT) dot-matrix display that does this for us using an ESP8266.
-The plan to accomplish this is as follows: Someone mentions us on twitter (in my case @debsahu) IF This Then That (IFTTT) tracks these mentions and posts this data on Adafruit.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/JTxpx9XMpjU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Let’s say that you don’t have your smartphone around and someone mentions you on twitter. Wouldn’t it be nice to have a display that automatically reads your twitter mentions and show it on a scrolling display? So let’s build a internet controlled (IoT) dot-matrix display that does this for us using an ESP8266.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

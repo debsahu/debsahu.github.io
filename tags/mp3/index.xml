@@ -13,9 +13,14 @@
       <link>https://www.debashishsahu.com/posts/halloween-special-esp8266-based-speakers-motion-sensing--leds-pumpkin-carving-with-powertools/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/halloween-special-esp8266-based-speakers-motion-sensing--leds-pumpkin-carving-with-powertools/</guid>
-      <description>Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.
-GitHub: debsahu/HalloweenESPSpeakers Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.
-Wiring [PCM5102 DAC &amp;gt; ESP8266/NODEMCU] VCC &amp;gt; 3.3 3.3V &amp;gt; 3.3 GND &amp;gt; GND FLT &amp;gt; GND DMP &amp;gt; GND SCL &amp;gt; GND BCK &amp;gt; GPIO15/D8 (I2S CLOCK) DIN &amp;gt; GPIO3/RX (I2S DATA) LCK &amp;gt; GPIO2/D4 (L/R CONTROL) FMT &amp;gt; GND XMT &amp;gt; 3.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/RaEtZnQZODk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahuhalloweenespspeakers&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/HalloweenESPSpeakers&#34;&gt;GitHub: debsahu/HalloweenESPSpeakers&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Using an ESP8266 with PCM5102 to play MP3 files stored in SPIFFs. There is a motion sensor to trigger playback and LEDs for Halloween effects.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

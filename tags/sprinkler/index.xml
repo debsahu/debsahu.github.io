@@ -13,7 +13,12 @@
       <link>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</guid>
-      <description>Here I add WiFi LNK module to my ESP-TM2 Rainbird Irrigation System and add the Rainbird integration to Home Assistant. Once completed, I winterize the irrigation system for the coming winter.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/neo9MfygHkA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here I add &lt;a href=&#34;https://www.rainbird.com/products/lnk-wifi-module&#34;&gt;WiFi LNK module&lt;/a&gt; to my &lt;a href=&#34;https://www.rainbird.com/products/esp-tm2-series-controllers&#34;&gt;ESP-TM2 Rainbird Irrigation System&lt;/a&gt; and add the &lt;a href=&#34;https://www.home-assistant.io/integrations/rainbird/&#34;&gt;Rainbird integration&lt;/a&gt; to &lt;a href=&#34;https://www.home-assistant.io/&#34;&gt;Home Assistant&lt;/a&gt;. Once completed, I winterize the irrigation system for the coming winter.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

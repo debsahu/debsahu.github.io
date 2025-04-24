@@ -13,17 +13,51 @@
       <link>https://www.debashishsahu.com/posts/ultimate-guide-to-permanent-holiday-lights-using-neopixels-ws2812b-leds/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/ultimate-guide-to-permanent-holiday-lights-using-neopixels-ws2812b-leds/</guid>
-      <description> Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs
-Hardware LEDs: https://amzn.to/2Lu4m3P Aluminum Channels: https://amzn.to/2Knajio 18/2 wire: https://amzn.to/348I1zq 18/3 wire: https://amzn.to/37YNCJM Control Box: https://amzn.to/2KjfakW 5v 60A Power Supply: https://amzn.to/2KmRHiu 25ft extension cord: https://amzn.to/3840RIS Wire nuts: https://amzn.to/3oO1Vrb BME280(optional): https://amzn.to/3p15pHd PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb
-Software WELD - GitHub: Aircoookie/WLED WLED User-mod for BME/P 280: </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/P3tiunmoQ4w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LEDs: &lt;a href=&#34;https://amzn.to/2Lu4m3P&#34;&gt;https://amzn.to/2Lu4m3P&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Aluminum Channels: &lt;a href=&#34;https://amzn.to/2Knajio&#34;&gt;https://amzn.to/2Knajio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18/2 wire: &lt;a href=&#34;https://amzn.to/348I1zq&#34;&gt;https://amzn.to/348I1zq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18/3 wire: &lt;a href=&#34;https://amzn.to/37YNCJM&#34;&gt;https://amzn.to/37YNCJM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Control Box: &lt;a href=&#34;https://amzn.to/2KjfakW&#34;&gt;https://amzn.to/2KjfakW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;5v 60A Power Supply: &lt;a href=&#34;https://amzn.to/2KmRHiu&#34;&gt;https://amzn.to/2KmRHiu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;25ft extension cord: &lt;a href=&#34;https://amzn.to/3840RIS&#34;&gt;https://amzn.to/3840RIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wire nuts: &lt;a href=&#34;https://amzn.to/3oO1Vrb&#34;&gt;https://amzn.to/3oO1Vrb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BME280(optional): &lt;a href=&#34;https://amzn.to/3p15pHd&#34;&gt;https://amzn.to/3p15pHd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PCB: &lt;a href=&#34;https://github.com/toblum/McLighting/tree/master/documentation/pcb&#34;&gt;https://github.com/toblum/McLighting/tree/master/documentation/pcb&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WELD - &lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;GitHub: Aircoookie/WLED&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wled-user-mod-for-bmep-280&#34;&gt;WLED User-mod for BME/P 280:&lt;/h3&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=037068aef72c5eb5915dfb8a2235cd2a&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Epoxy resin holiday lights/night lamp | DIY resin LED decor | WLED</title>
       <link>https://www.debashishsahu.com/posts/epoxy-resin-holiday-lights-night-lamp-diy-resin-led-decor-wled/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/epoxy-resin-holiday-lights-night-lamp-diy-resin-led-decor-wled/</guid>
-      <description>Board Prep WLED Software: GitHub: Aircoookie/WLED
-PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/to39uU77fuo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;board-prep&#34;&gt;Board Prep&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/850Vb0Cw9UA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;WLED Software: &lt;a href=&#34;https://github.com/Aircoookie/WLED&#34;&gt;GitHub: Aircoookie/WLED&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PCB: &lt;a href=&#34;https://github.com/toblum/McLighting/tree/master/documentation/pcb&#34;&gt;https://github.com/toblum/McLighting/tree/master/documentation/pcb&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

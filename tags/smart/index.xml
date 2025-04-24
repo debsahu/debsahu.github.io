@@ -13,40 +13,91 @@
       <link>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/irrigation-ha-blowout/</guid>
-      <description>Here I add WiFi LNK module to my ESP-TM2 Rainbird Irrigation System and add the Rainbird integration to Home Assistant. Once completed, I winterize the irrigation system for the coming winter.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/neo9MfygHkA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here I add &lt;a href=&#34;https://www.rainbird.com/products/lnk-wifi-module&#34;&gt;WiFi LNK module&lt;/a&gt; to my &lt;a href=&#34;https://www.rainbird.com/products/esp-tm2-series-controllers&#34;&gt;ESP-TM2 Rainbird Irrigation System&lt;/a&gt; and add the &lt;a href=&#34;https://www.home-assistant.io/integrations/rainbird/&#34;&gt;Rainbird integration&lt;/a&gt; to &lt;a href=&#34;https://www.home-assistant.io/&#34;&gt;Home Assistant&lt;/a&gt;. Once completed, I winterize the irrigation system for the coming winter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DIY Smart Deck Lights | ESPHome | Home Assistant controlled</title>
       <link>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
-      <description> Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
-Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/VBB-nnI3nZQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.&lt;/p&gt;
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=0093a5196f66ebd48869f4825a72b6ca&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>DIY Smart Wooden Faux Beam Pendent Lights | ESPHome | Smart Plant Lights | Home Assistant controlled</title>
       <link>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</guid>
-      <description> DIY Faux wood-beam lights mode from cedar fence pickets. Light is controlled by Sonoff Mini.
-Pendent Lights: amazon
-Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/b2YgMOzjnPQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;DIY Faux wood-beam lights mode from cedar fence pickets. Light is controlled by Sonoff Mini.&lt;/p&gt;
+&lt;p&gt;Pendent Lights: &lt;a href=&#34;https://amzn.to/35sa6Bv&#34;&gt;amazon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=d5dc0914feeb9837e4da62acde0c1760&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Voice Controlled (Connected) BIDET: A Solution for Non-Availability of Toilet-Paper Caused by COVID19</title>
       <link>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</guid>
-      <description> Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
-Wilbur Sargunaraj Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8E9doeUO8F0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.&lt;/p&gt;
+&lt;h2 id=&#34;wilbur-sargunaraj&#34;&gt;Wilbur Sargunaraj&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/TcDhCFXs-4Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=f11c1bde7fea4f9f51e5e65ce4384a17&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Control a &#34;Dumb&#34; TV Using a Transistor and ESP8266</title>
       <link>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</guid>
-      <description>The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.
-GitHub: debsahu/PegasusTV Goal: Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant Features: Uses D2 to control 2N2222 transistor Control using Web and MQTT API Completely Async WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Connect PIN_CTRL pin to base of 2N2222, collector to Probe and emitter to GND Hardware Software Overview Libraries Needed platformio.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/MmY-NLU-UN0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahupegasustv&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/PegasusTV&#34;&gt;GitHub: debsahu/PegasusTV&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;goal&#34;&gt;Goal:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses D2 to control 2N2222 transistor&lt;/li&gt;
+&lt;li&gt;Control using Web and MQTT API&lt;/li&gt;
+&lt;li&gt;Completely Async&lt;/li&gt;
+&lt;li&gt;WiFiManager Captive Portal to get WiFi credentials (Compile with &lt;code&gt;-DUSE_EADNS&lt;/code&gt; for ESP8266)&lt;/li&gt;
+&lt;li&gt;Connect &lt;strong&gt;PIN_CTRL&lt;/strong&gt; pin to base of 2N2222, collector to Probe and emitter to GND&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/debsahu/PegasusTV/raw/master/hardware.png&#34; alt=&#34;Hardware Setup&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

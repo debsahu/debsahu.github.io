@@ -13,7 +13,30 @@
       <link>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</link>
       <pubDate>Mon, 23 Aug 2021 12:00:00 -0400</pubDate>
       <guid>https://www.debashishsahu.com/posts/continuous-radon-sensing-using-airthings-wave/</guid>
-      <description>Radon Radon is everywhere, see map Naturally-occurring radioactive gas - causes lung cancer Inert, colorless and odorless Naturally in the atmosphere in trace amounts Outdoors: radon disperses rapidly Most radon exposure occurs inside homes, schools and workplaces Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation Can be controlled and managed with proven, cost-effective techniques Radon monitoring Hardware Airthings Wave Continuous radon monitoring Long term monitoring LEDs color – radon level Battery Operated Bluetooth BLE ESP32 - lolin D32 (can use any ESP32) MQTT Server - Mosquitto Software Python script to read values from Airthings Wave: Wave-Reader Home Assistant Custom Component: sensor.</description>
+      <description>&lt;h1&gt;&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/JayOgSkM7Sg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;radon&#34;&gt;Radon&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Radon is everywhere, &lt;a href=&#34;https://radonmap.com/&#34;&gt;see map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Naturally-occurring radioactive gas - &lt;strong&gt;causes lung cancer&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Inert, colorless and odorless&lt;/li&gt;
+&lt;li&gt;Naturally in the atmosphere in trace amounts
+&lt;ul&gt;
+&lt;li&gt;Outdoors: radon disperses rapidly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Most radon exposure occurs inside homes, schools and workplaces
+&lt;ul&gt;
+&lt;li&gt;Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation&lt;/li&gt;
+&lt;li&gt;Can be controlled and managed with proven, cost-effective techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.airthings.com/resources/radon-levels&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.airthings.com/hs-fs/hubfs/Website/Images/Newsletter/Blog/Blog%20body%20images%20compressed%20-illustration/unsplash/Radon%20level%20chart.jpg?width=2300&amp;amp;name=Radon%20level%20chart.jpg&#34; alt=&#34;Radon levels&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

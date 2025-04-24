@@ -13,9 +13,25 @@
       <link>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</guid>
-      <description> Here we use ESP32 microcontroller to analyze real-time audio signals
-Real-time FFT to get frequencies Use MSGEQ7 chip to get the same data Display frequency bands on LEDs as bars FFT basics: GitHub: debsahu/ESP32_FFT_Audio_LEDs Libraries Needed Software FFT platformio.ini and Hardware FFT platformio.ini is included, use PlatformIO and it will take care of installing the following libraries.
-Library Link arduinoFFT https://github.com/kosme/arduinoFFT WS2812FX https://github.com/kitesurfer1404/WS2812FX MD_MSGEQ7 https://github.com/debsahu/MD_MSGEQ7 Known Limitations Sampling frequency must be high Sampling time should not interfere with other WiFi functions FFT calculations are CPU intensive Frequency binning needs to be done manually Wiring </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8YaeUYZ_Ex8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Here we use ESP32 microcontroller to analyze real-time audio signals&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Real-time FFT to get frequencies&lt;/li&gt;
+&lt;li&gt;Use MSGEQ7 chip to get the same data&lt;/li&gt;
+&lt;li&gt;Display frequency bands on LEDs as bars&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;fft-basics&#34;&gt;FFT basics:&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/spUNpyF58BY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;github-debsahuesp32_&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/ESP32_FFT_Audio_LEDs&#34;&gt;GitHub: debsahu/ESP32_FFT_Audio_LEDs&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;libraries-needed&#34;&gt;Libraries Needed&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/debsahu/ESP32_FFT_Audio_LEDs/blob/master/microphone_esp8266_fft/platformio.ini&#34;&gt;Software FFT platformio.ini&lt;/a&gt; and &lt;a href=&#34;https://github.com/debsahu/ESP32_FFT_Audio_LEDs/blob/master/microphone_esp8266_msgeq7/platformio.ini&#34;&gt;Hardware FFT platformio.ini&lt;/a&gt; is included, use &lt;a href=&#34;https://platformio.org/platformio-ide&#34;&gt;PlatformIO&lt;/a&gt; and it will take care of installing the following libraries.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

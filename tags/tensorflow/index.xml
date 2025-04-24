@@ -13,8 +13,29 @@
       <link>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</guid>
-      <description>Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.
-FFT on ESP32 GitHub: debsahu/SpeechRecognitionTensorFlowJS Speech Recognition on Browser, AsyncWebServer served on ESP8266 to control LED_BUILTIN/GPIO16 Uses WebAudio API and WebGL GPU acceleration = speech recognition is done on the browser http:// requests for microphone is blocked for chrome, use firefox instead tf.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/E5KpzR9Igfw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.&lt;/p&gt;
+&lt;h2 id=&#34;fft-on-esp32&#34;&gt;FFT on ESP32&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8YaeUYZ_Ex8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;github-debsahuspeechrecognitiontensorflowjs&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/SpeechRecognitionTensorFlowJS&#34;&gt;GitHub: debsahu/SpeechRecognitionTensorFlowJS&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;speech-recognition-on-browser-asyncwebserver-served-on-esp8266-to-control-led_builtingpio16&#34;&gt;Speech Recognition on Browser, &lt;a href=&#34;https://github.com/me-no-dev/ESPAsyncWebServer&#34;&gt;AsyncWebServer&lt;/a&gt; served on ESP8266 to control LED_BUILTIN/GPIO16&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&#34;&gt;WebAudio API&lt;/a&gt; and WebGL GPU acceleration = speech recognition is done on the browser&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;http://&lt;/code&gt; requests for microphone is blocked for chrome, &lt;strong&gt;use firefox instead&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tf.min.js&lt;/strong&gt; and &lt;strong&gt;speech-commands.min.js&lt;/strong&gt; served from SPIFFs (1MB Program/3MB SPIFFs partition needed)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/upload&lt;/code&gt; and &lt;code&gt;/update&lt;/code&gt; is a morden world&amp;rsquo;s take on updates to ESP8266&lt;/li&gt;
+&lt;li&gt;Uses HTML templates to report LED_BUILTIN/GPIO16 status&lt;/li&gt;
+&lt;li&gt;Speech recognition: &amp;ldquo;UP&amp;rdquo; = ON and &amp;ldquo;DOWN&amp;rdquo; = OFF, &amp;ldquo;RIGHT&amp;rdquo; and &amp;ldquo;LEFT&amp;rdquo; ignored&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arduino-libraries-needed&#34;&gt;Arduino Libraries needed&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/debsahu/SpeechRecognitionTensorFlowJS/blob/master/platformio.ini&#34;&gt;platformio.ini&lt;/a&gt; is included, use &lt;a href=&#34;https://platformio.org/platformio-ide&#34;&gt;PlatformIO&lt;/a&gt; and it will take care of installing the following libraries.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

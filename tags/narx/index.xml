@@ -13,7 +13,12 @@
       <link>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</guid>
-      <description>This video is a collaboration with my wife who does &amp;ldquo;machine learning on big data&amp;rdquo; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/nUPW4RPoPpg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;This video is a collaboration with my wife who does &lt;strong&gt;&amp;ldquo;machine learning on big data&amp;rdquo;&lt;/strong&gt; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

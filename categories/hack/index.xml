@@ -13,25 +13,69 @@
       <link>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</guid>
-      <description> Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
-Wilbur Sargunaraj Software: ESPHome </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8E9doeUO8F0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.&lt;/p&gt;
+&lt;h2 id=&#34;wilbur-sargunaraj&#34;&gt;Wilbur Sargunaraj&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/TcDhCFXs-4Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;software-esphome&#34;&gt;Software: ESPHome&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=f11c1bde7fea4f9f51e5e65ce4384a17&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Control a &#34;Dumb&#34; TV Using a Transistor and ESP8266</title>
       <link>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</guid>
-      <description>The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.
-GitHub: debsahu/PegasusTV Goal: Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant Features: Uses D2 to control 2N2222 transistor Control using Web and MQTT API Completely Async WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Connect PIN_CTRL pin to base of 2N2222, collector to Probe and emitter to GND Hardware Software Overview Libraries Needed platformio.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/MmY-NLU-UN0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahupegasustv&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/PegasusTV&#34;&gt;GitHub: debsahu/PegasusTV&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;goal&#34;&gt;Goal:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses D2 to control 2N2222 transistor&lt;/li&gt;
+&lt;li&gt;Control using Web and MQTT API&lt;/li&gt;
+&lt;li&gt;Completely Async&lt;/li&gt;
+&lt;li&gt;WiFiManager Captive Portal to get WiFi credentials (Compile with &lt;code&gt;-DUSE_EADNS&lt;/code&gt; for ESP8266)&lt;/li&gt;
+&lt;li&gt;Connect &lt;strong&gt;PIN_CTRL&lt;/strong&gt; pin to base of 2N2222, collector to Probe and emitter to GND&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/debsahu/PegasusTV/raw/master/hardware.png&#34; alt=&#34;Hardware Setup&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hacking an Automatic Trash Can to Listen to You</title>
       <link>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</guid>
-      <description>Idea To convert an automatic trash can into a smart one.
-Hardware Automatic Trash Can Wemos D1 mini (ESP8266) 2N2222 transistor Implementation Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in https://github.com/debsahu/SmartTrashCan to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.
-GitHub: debsahu/SmartTrashCan Dependencies Library Link Use Wemo Switch Emulator Library https://github.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/BBDi1uOJqV8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;p&gt;To convert an &lt;a href=&#34;https://amzn.to/3bEGGEr&#34;&gt;automatic trash can&lt;/a&gt; into a smart one.&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3bEGGEr&#34;&gt;Automatic Trash Can&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/2OLCcmJ&#34;&gt;Wemos D1 mini (ESP8266)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2N2222 transistor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+&lt;p&gt;Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in &lt;a href=&#34;https://github.com/debsahu/SmartTrashCan&#34;&gt;https://github.com/debsahu/SmartTrashCan&lt;/a&gt; to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

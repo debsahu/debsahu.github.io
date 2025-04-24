@@ -13,27 +13,101 @@
       <link>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</guid>
-      <description>Using ESP32 to communicate with Xiaomi flora (miflora) plant sensor using BLE and posting the values on MQTT server. I also demonstrate the use of Home Assistant miflora sensor component.
-Change ESP32 Partition: https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/ Home Assistant miflora sensor: https://www.home-assistant.io/components/sensor.miflora/
-GitHub: sidddy/flora Archived code from https://github.com/sidddy/flora below
-config.h
-// array of different xiaomi flora MAC addresseschar* FLORA_DEVICES[] = {&amp;#34;C4:7C:8D:67:11:11&amp;#34;, &amp;#34;C4:7C:8D:67:22:22&amp;#34;, &amp;#34;C4:7C:8D:67:33:33&amp;#34;};// sleep between to runs in seconds#define SLEEP_DURATION 30 * 60// emergency hibernate countdown in seconds#define EMERGENCY_HIBERNATE 3 * 60// how often should the battery be read - in run count#define BATTERY_INTERVAL 6// how often should a device be retried in a run when something fails#define RETRY 3const char* WIFI_SSID = &amp;#34;ssid&amp;#34;;const char* WIFI_PASSWORD = &amp;#34;password&amp;#34;;// MQTT topic gets defined by &amp;#34;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;#34;// where MAC_ADDRESS is one of the values from FLORA_DEVICES array// property is either temperature, moisture, conductivity, light or batteryconst char* MQTT_HOST = &amp;#34;10.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/M3qr4PVtuCc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Using ESP32 to communicate with Xiaomi flora (miflora) plant sensor using BLE and posting the values on MQTT server. I also demonstrate the use of Home Assistant miflora sensor component.&lt;/p&gt;
+&lt;p&gt;Change ESP32 Partition: &lt;a href=&#34;https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/&#34;&gt;https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/&lt;/a&gt;
+Home Assistant miflora sensor: &lt;a href=&#34;https://www.home-assistant.io/components/sensor.miflora/&#34;&gt;https://www.home-assistant.io/components/sensor.miflora/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;github-sidddyflora&#34;&gt;&lt;a href=&#34;https://github.com/sidddy/flora&#34;&gt;GitHub: sidddy/flora&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Archived code from &lt;a href=&#34;https://github.com/sidddy/flora&#34;&gt;https://github.com/sidddy/flora&lt;/a&gt; below&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;config.h&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;// array of different xiaomi flora MAC addresses
+char* FLORA_DEVICES[] = {
+    &amp;#34;C4:7C:8D:67:11:11&amp;#34;, 
+    &amp;#34;C4:7C:8D:67:22:22&amp;#34;, 
+    &amp;#34;C4:7C:8D:67:33:33&amp;#34;
+};
+
+// sleep between to runs in seconds
+#define SLEEP_DURATION 30 * 60
+// emergency hibernate countdown in seconds
+#define EMERGENCY_HIBERNATE 3 * 60
+// how often should the battery be read - in run count
+#define BATTERY_INTERVAL 6
+// how often should a device be retried in a run when something fails
+#define RETRY 3
+
+const char*   WIFI_SSID       = &amp;#34;ssid&amp;#34;;
+const char*   WIFI_PASSWORD   = &amp;#34;password&amp;#34;;
+
+// MQTT topic gets defined by &amp;#34;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;#34;
+// where MAC_ADDRESS is one of the values from FLORA_DEVICES array
+// property is either temperature, moisture, conductivity, light or battery
+
+const char*   MQTT_HOST       = &amp;#34;10.10.10.1&amp;#34;;
+const int     MQTT_PORT       = 1883;
+const char*   MQTT_CLIENTID   = &amp;#34;miflora-client&amp;#34;;
+const char*   MQTT_USERNAME   = &amp;#34;username&amp;#34;;
+const char*   MQTT_PASSWORD   = &amp;#34;password&amp;#34;;
+const String  MQTT_BASE_TOPIC = &amp;#34;flora&amp;#34;; 
+const int     MQTT_RETRY_WAIT = 5000;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;flora.ino&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image Recognition Using Movidius Neural Compute Stick on a RPi0W</title>
       <link>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</guid>
-      <description>Let&amp;rsquo;s build a security camera using Raspberry Pi Zero W and Movidius Neural Compute Stick to recognize a &amp;ldquo;person&amp;rdquo; on the video stream
-GitHub: debsahu/PiCamMovidius Set up NCSDK API Install required packages on Pi sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev Clone NCSDK cd ~git clone https://github.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/1q7SU6tp4Yk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Let&amp;rsquo;s build a security camera using Raspberry Pi Zero W and Movidius Neural Compute Stick to recognize a &amp;ldquo;person&amp;rdquo; on the video stream&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahupicammovidius&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/PiCamMovidius&#34;&gt;GitHub: debsahu/PiCamMovidius&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;set-up-ncsdk-api&#34;&gt;Set up NCSDK API&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Install required packages on Pi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Clone NCSDK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~
+git clone https://github.com/movidius/ncsdk
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Compile and install NCSDK’s API framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~/ncsdk/api/src
+make
+sudo make install
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Test installation using sample code from NC App Zoo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~
+git clone https://github.com/movidius/ncappzoo
+cd ncappzoo/apps/hello_ncs_py
+python3 hello_ncs.py
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Output should look something like this:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using RTL-SDR to Read Values From Wireless Electric/Gas/Water Meters</title>
       <link>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/using-rtl-sdr-to-read-values-from-wireless-electric-gas-water-meters/</guid>
-      <description>An attempt to use RTL-SDR to read values from wireless electric/gas/water meters and visualize these values on Home Assistant.
-Software Based on bemasher/RTLAMR Project: https://github.com/bemasher/rtlamr</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/lkEfJkDTQIQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;An attempt to use RTL-SDR to read values from wireless electric/gas/water meters and visualize these values on Home Assistant.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;Based on bemasher/RTLAMR Project: &lt;a href=&#34;https://github.com/bemasher/rtlamr&#34;&gt;https://github.com/bemasher/rtlamr&lt;/a&gt;&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=ee33914e8dea896ff3956f02970e38b9&#34;&gt;&lt;/script&gt;</description>
     </item>
   </channel>
 </rss>

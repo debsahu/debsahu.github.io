@@ -13,9 +13,16 @@
       <link>https://www.debashishsahu.com/posts/resurrecting-a-gpu-cooling-fan-using-a-micro-processor-and-pwm/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/resurrecting-a-gpu-cooling-fan-using-a-micro-processor-and-pwm/</guid>
-      <description> Trying to rescue a GPU cooling system containing a 12V 4-wire fan using a PWM signal from ATtiny85 and reading a voltage from ADC from a potentiometer knob. Ultimately building a 4-wire fan controller.
-25kHz PWM on ESP8266: https://github.com/esp8266/Arduino/issues/4598
-Software </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/ZMIODZTbhCA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Trying to rescue a GPU cooling system containing a 12V 4-wire fan using a PWM signal from ATtiny85 and reading a voltage from ADC from a potentiometer knob. Ultimately building a 4-wire fan controller.&lt;/p&gt;
+&lt;p&gt;25kHz PWM on ESP8266: &lt;a href=&#34;https://github.com/esp8266/Arduino/issues/4598&#34;&gt;https://github.com/esp8266/Arduino/issues/4598&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+
+&lt;script src=&#34;https://gist.github.com/debsahu.js?file=795922a2429bb41c18aa083e38b6678d&#34;&gt;&lt;/script&gt;</description>
     </item>
   </channel>
 </rss>

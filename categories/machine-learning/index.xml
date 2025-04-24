@@ -13,31 +13,94 @@
       <link>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/wio-catan-die-roll-tinyml/</guid>
-      <description>Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)
-GitHub: debsahu/WIOCatanDieRoll Objective When WIO is shaken it will roll two die signifying a turn on Settlers of Catan board game Die roll needs to be completely random uniform distribution Die roll must happen when device is shook vigorously Hardware WIO Terminal (Seeed Studio) USB-C cable Software WIOImuTap: Uses in-built IMU to look for double tap to roll 2 die using TRNG EdgeImpulse: Upload and train NN using sensor data on Edge Impulse, deployed on WIO with live classification on serial port.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/emjb2YybIKw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Machine Learning in WIO Terminal (Seeed Studio) to recognize shake and roll two die using True Random Number Generator (TRNG)&lt;/p&gt;
+&lt;h2 id=&#34;github-debsahuwiocatandieroll&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll&#34;&gt;GitHub: debsahu/WIOCatanDieRoll&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When WIO is shaken it will roll two die signifying a turn on &lt;a href=&#34;https://www.catan.com/&#34;&gt;Settlers of Catan&lt;/a&gt; board game&lt;/li&gt;
+&lt;li&gt;Die roll needs to be completely random uniform distribution&lt;/li&gt;
+&lt;li&gt;Die roll must happen when device is shook vigorously&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/Wio-Terminal-p-4509.html&#34;&gt;WIO Terminal (Seeed Studio)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;USB-C cable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll/tree/main/WIOImuTap&#34;&gt;&lt;strong&gt;WIOImuTap&lt;/strong&gt;&lt;/a&gt;: Uses in-built IMU to look for double tap to roll 2 die using TRNG&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll/tree/main/EdgeImpulse&#34;&gt;&lt;strong&gt;EdgeImpulse&lt;/strong&gt;&lt;/a&gt;: Upload and train NN using sensor data on &lt;a href=&#34;https://www.edgeimpulse.com/&#34;&gt;Edge Impulse&lt;/a&gt;, deployed on WIO with live classification on serial port. &lt;a href=&#34;https://studio.edgeimpulse.com/public/48805/latest&#34;&gt;Model is included&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debsahu/WIOCatanDieRoll/tree/main/AIShakeDie&#34;&gt;&lt;strong&gt;AIShakeDie&lt;/strong&gt;&lt;/a&gt;: Uses in-built IMU to recognize shake using NN from &lt;strong&gt;Edge Impulse&lt;/strong&gt; and rolls 2 die using TRNG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collecting-data-from-wio--storing-on-edge-impulse-training-neural-network-on-edge-impulse-export-and-deploy-tinyml-on-wio&#34;&gt;Collecting data from WIO &amp;amp; storing on Edge Impulse, training Neural Network on Edge Impulse, Export and deploy TinyML on WIO&lt;/h2&gt;
+&lt;h3 id=&#34;1-collecting-data-from-wio--storing-on-edge-impulse&#34;&gt;1. Collecting data from WIO &amp;amp; storing on Edge Impulse&lt;/h3&gt;
+&lt;h4 id=&#34;installing-dependencies-windows&#34;&gt;Installing dependencies (Windows)&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://www.python.org/&#34;&gt;Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://nodejs.org/en/&#34;&gt;Node.js v14 or higher&lt;/a&gt; - install additional Node.js tools or-else install &lt;a href=&#34;https://visualstudio.microsoft.com/vs/older-downloads/&#34;&gt;Microsoft Visual Sudio 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Open powershell as admin, install &lt;em&gt;edge-impulse-cli&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;npm install -g edge-impulse-cli --force
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;For other OS please follow instructions from &lt;a href=&#34;https://docs.edgeimpulse.com/docs/cli-installation&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Machine Learning to Filter Out Background Noise RTX Voice</title>
       <link>https://www.debashishsahu.com/posts/machine-learning-to-filter-out-background-noise-rtx-voice/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/machine-learning-to-filter-out-background-noise-rtx-voice/</guid>
-      <description>A demo for RTX voice to filter out background noise. If you have a NVIDIA RTX/GTX GPU, utilize it to filter you background in your favorite work from home app.
-RTX Voice: https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/qFw5Oyj_O-Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;A demo for RTX voice to filter out background noise. If you have a NVIDIA RTX/GTX GPU, utilize it to filter you background in your favorite work from home app.&lt;/p&gt;
+&lt;p&gt;RTX Voice: &lt;a href=&#34;https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/&#34;&gt;https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using TensorFlowJS (Machine Learning) for Speech Recognition on ESP8266</title>
       <link>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/using-tensorflowjs-machine-learning-for-speech-recognition-on-esp8266/</guid>
-      <description>Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.
-FFT on ESP32 GitHub: debsahu/SpeechRecognitionTensorFlowJS Speech Recognition on Browser, AsyncWebServer served on ESP8266 to control LED_BUILTIN/GPIO16 Uses WebAudio API and WebGL GPU acceleration = speech recognition is done on the browser http:// requests for microphone is blocked for chrome, use firefox instead tf.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/E5KpzR9Igfw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Use TensorFlowJS via WebAudio API and WebGL GPU acceleration on Browser to recognize &amp;ldquo;keywords&amp;rdquo;. In our case, without retraining &amp;ldquo;UP&amp;rdquo; turns on LED and &amp;ldquo;DOWN&amp;rdquo; turns it off.&lt;/p&gt;
+&lt;h2 id=&#34;fft-on-esp32&#34;&gt;FFT on ESP32&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/8YaeUYZ_Ex8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;github-debsahuspeechrecognitiontensorflowjs&#34;&gt;&lt;a href=&#34;https://github.com/debsahu/SpeechRecognitionTensorFlowJS&#34;&gt;GitHub: debsahu/SpeechRecognitionTensorFlowJS&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;speech-recognition-on-browser-asyncwebserver-served-on-esp8266-to-control-led_builtingpio16&#34;&gt;Speech Recognition on Browser, &lt;a href=&#34;https://github.com/me-no-dev/ESPAsyncWebServer&#34;&gt;AsyncWebServer&lt;/a&gt; served on ESP8266 to control LED_BUILTIN/GPIO16&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&#34;&gt;WebAudio API&lt;/a&gt; and WebGL GPU acceleration = speech recognition is done on the browser&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;http://&lt;/code&gt; requests for microphone is blocked for chrome, &lt;strong&gt;use firefox instead&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tf.min.js&lt;/strong&gt; and &lt;strong&gt;speech-commands.min.js&lt;/strong&gt; served from SPIFFs (1MB Program/3MB SPIFFs partition needed)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/upload&lt;/code&gt; and &lt;code&gt;/update&lt;/code&gt; is a morden world&amp;rsquo;s take on updates to ESP8266&lt;/li&gt;
+&lt;li&gt;Uses HTML templates to report LED_BUILTIN/GPIO16 status&lt;/li&gt;
+&lt;li&gt;Speech recognition: &amp;ldquo;UP&amp;rdquo; = ON and &amp;ldquo;DOWN&amp;rdquo; = OFF, &amp;ldquo;RIGHT&amp;rdquo; and &amp;ldquo;LEFT&amp;rdquo; ignored&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arduino-libraries-needed&#34;&gt;Arduino Libraries needed&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/debsahu/SpeechRecognitionTensorFlowJS/blob/master/platformio.ini&#34;&gt;platformio.ini&lt;/a&gt; is included, use &lt;a href=&#34;https://platformio.org/platformio-ide&#34;&gt;PlatformIO&lt;/a&gt; and it will take care of installing the following libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stock Prediction on Python Using Machine Learning (NARX)</title>
       <link>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</guid>
-      <description>This video is a collaboration with my wife who does &amp;ldquo;machine learning on big data&amp;rdquo; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/nUPW4RPoPpg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;This video is a collaboration with my wife who does &lt;strong&gt;&amp;ldquo;machine learning on big data&amp;rdquo;&lt;/strong&gt; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

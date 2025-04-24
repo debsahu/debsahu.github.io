@@ -77,10 +77,10 @@
     <loc>https://www.debashishsahu.com/tags/embeded-ai/</loc>
     <lastmod>2021-09-22T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
+    <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
     <lastmod>2021-09-22T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/machine-learning/</loc>
+    <loc>https://www.debashishsahu.com/tags/machine-learning/</loc>
     <lastmod>2021-09-22T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/samd51/</loc>
@@ -167,10 +167,10 @@
     <loc>https://www.debashishsahu.com/tags/wood-decor/</loc>
     <lastmod>2020-12-25T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/tags/wood-working/</loc>
+    <loc>https://www.debashishsahu.com/categories/wood-working/</loc>
     <lastmod>2020-12-25T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://www.debashishsahu.com/categories/wood-working/</loc>
+    <loc>https://www.debashishsahu.com/tags/wood-working/</loc>
     <lastmod>2020-12-25T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://www.debashishsahu.com/tags/blink/</loc>
@@ -627,5 +627,7 @@
     <loc>https://www.debashishsahu.com/search/</loc>
   </url><url>
     <loc>https://www.debashishsahu.com/series/</loc>
+  </url><url>
+    <loc>https://www.debashishsahu.com/social/</loc>
   </url>
 </urlset>

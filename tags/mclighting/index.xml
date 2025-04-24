@@ -13,9 +13,15 @@
       <link>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 -0500</pubDate>
       <guid>https://www.debashishsahu.com/posts/meshymclighting-neopixels-lighting-solution-using-mesh-network/</guid>
-      <description>Wouldn&amp;rsquo;t be cool for many McLighting (RGB LED lighting using NeoPixels) to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone web-client.
-MeshyMcLighting What is this? Wouldn&amp;rsquo;t be cool for many McLighting to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone webclient.
-Features Uses painlessMesh to create mesh network and broadcasts state to every node Does not need WiFi connection to internet, standalone mode + mesh Web interface is borrowed from &amp;ldquo;WS2812FX esp8266&amp;rdquo; example, completely served on ESP8266 Can do minimal file upload to SPIFFs Completely Async!</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/j_3xK5Vr8rw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;Wouldn&amp;rsquo;t be cool for many McLighting (RGB LED lighting using NeoPixels) to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone web-client.&lt;/p&gt;
+&lt;h2 id=&#34;meshymclighting&#34;&gt;&lt;a href=&#34;https://github.com/toblum/McLighting/tree/experimental/Arduino/MeshyMcLighting&#34;&gt;MeshyMcLighting&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h3&gt;
+&lt;p&gt;Wouldn&amp;rsquo;t be cool for many McLighting to talk to each other and synchronize? Here is my naive attempt at this, which requires McLighting to be served as stand-alone webclient.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
